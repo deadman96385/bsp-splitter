@@ -1,5 +1,24 @@
-# bsp-splitter
+# BSP Split script
 
-This is admittedly a pretty bad script that takes a bsp grabs the aosp commit history and then copies the original files back over and commits that to see roughly what was changed vs google aosp. I tried to get it all done via git but had issues, so had to resort to copying the files which means certain aosp repos are unsupported due to symlinking in the repo manifest. They are listed in the script.
+Takes a BSP that does not contain aosp git history and overlays the OEM's changes on top of aosp so that all the changes that were done can be more easily tracked.
 
-You will need github's cli tool called hub and have it setup pre running this script aka run "hub create test" enter in your creds so it can pull an oauth token and then the script will do its bussiness.
+## Installation
+
+1. Clone the repo 
+2. Install Github's CLI tool called [Hub](https://github.com/github/hub#installation)
+3. Create a oauth token on [github](https://github.com/settings/tokens)
+4. Give it all of the repo scope
+5. Create/Edit the file located at ~/.config/hub with the following format
+
+```python
+github.com:
+- user: deadman96385
+  oauth_token: xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+  protocol: https
+```
+
+## Usage
+TBD
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
