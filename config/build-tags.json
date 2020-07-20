@@ -1,0 +1,3537 @@
+[
+    {
+        "Build": "QQ3A.200705.002",
+        "Tag": "android-10.0.0_r40",
+        "Version": "Android10",
+        "Supported devices": "Pixel 2, Pixel 2 XL, Pixel 3, Pixel 3a, Pixel 3a XL, Pixel 3 XL, Pixel 4, Pixel 4 XL",
+        "Security patch level": "2020-07-05"
+    },
+    {
+        "Build": "QQ3A.200605.002.A1",
+        "Tag": "android-10.0.0_r39",
+        "Version": "Android10",
+        "Supported devices": "Pixel 2, Pixel 2 XL, Pixel 3, Pixel 3 XL, Pixel 3a, Pixel 3a XL, Pixel 4, Pixel 4 XL",
+        "Security patch level": "2020-06-05"
+    },
+    {
+        "Build": "QQ3A.200605.002",
+        "Tag": "android-10.0.0_r38",
+        "Version": "Android10",
+        "Supported devices": "Pixel 3a, Pixel 3a XL",
+        "Security patch level": "2020-06-05"
+    },
+    {
+        "Build": "QQ3A.200605.001",
+        "Tag": "android-10.0.0_r37",
+        "Version": "Android10",
+        "Supported devices": "Pixel 2, Pixel 2 XL, Pixel 3, Pixel 3 XL, Pixel 4, Pixel 4 XL",
+        "Security patch level": "2020-06-05"
+    },
+    {
+        "Build": "QQ2A.200501.001.B3",
+        "Tag": "android-10.0.0_r36",
+        "Version": "Android10",
+        "Supported devices": "Pixel 2, Pixel 2 XL",
+        "Security patch level": "2020-05-05"
+    },
+    {
+        "Build": "QQ2A.200501.001.B2",
+        "Tag": "android-10.0.0_r35",
+        "Version": "Android10",
+        "Supported devices": "Pixel 3, Pixel 3 XL, Pixel 3a, Pixel 3a XL, Pixel 4, Pixel 4 XL",
+        "Security patch level": "2020-05-05"
+    },
+    {
+        "Build": "QQ2A.200501.001.A3",
+        "Tag": "android-10.0.0_r34",
+        "Version": "Android10",
+        "Supported devices": "Pixel 2, Pixel 2 XL, Pixel 3, Pixel 3 XL, Pixel 3a, Pixel 3a XL, Pixel 4, Pixel 4 XL",
+        "Security patch level": "2020-05-05"
+    },
+    {
+        "Build": "QQ2A.200405.005",
+        "Tag": "android-10.0.0_r33",
+        "Version": "Android10",
+        "Supported devices": "Pixel 2, Pixel 2 XL, Pixel 3, Pixel 3 XL, Pixel 3a, Pixel 3a XL, Pixel 4, Pixel 4 XL",
+        "Security patch level": "2020-04-05"
+    },
+    {
+        "Build": "QQ2A.200305.004.A1",
+        "Tag": "android-10.0.0_r32",
+        "Version": "Android10",
+        "Supported devices": "Pixel 4, Pixel 4 XL",
+        "Security patch level": "2020-03-05"
+    },
+    {
+        "Build": "QQ2A.200305.003",
+        "Tag": "android-10.0.0_r31",
+        "Version": "Android10",
+        "Supported devices": "Pixel 4, Pixel 4 XL",
+        "Security patch level": "2020-03-05"
+    },
+    {
+        "Build": "QQ2A.200305.002",
+        "Tag": "android-10.0.0_r30",
+        "Version": "Android10",
+        "Supported devices": "Pixel 2, Pixel 2 XL, Pixel 3, Pixel 3 XL, Pixel 3a, Pixel 3a XL",
+        "Security patch level": "2020-03-05"
+    },
+    {
+        "Build": "QQ1D.200205.002",
+        "Tag": "android-10.0.0_r29",
+        "Version": "Android10",
+        "Supported devices": "Pixel 4 XL, Pixel 4",
+        "Security patch level": "2020-02-05"
+    },
+    {
+        "Build": "QQ1C.200205.002",
+        "Tag": "android-10.0.0_r28",
+        "Version": "Android10",
+        "Supported devices": "Pixel 4 XL, Pixel 4",
+        "Security patch level": "2020-02-05"
+    },
+    {
+        "Build": "QQ1B.200205.002",
+        "Tag": "android-10.0.0_r27",
+        "Version": "Android10",
+        "Supported devices": "Pixel 4 XL, Pixel 4",
+        "Security patch level": "2020-02-05"
+    },
+    {
+        "Build": "QQ1A.200205.002",
+        "Tag": "android-10.0.0_r26",
+        "Version": "Android10",
+        "Supported devices": "Pixel 3a XL, Pixel 3a, Pixel 3 XL, Pixel 3, Pixel 2 XL, Pixel 2",
+        "Security patch level": "2020-02-05"
+    },
+    {
+        "Build": "QQ1D.200105.002",
+        "Tag": "android-10.0.0_r25",
+        "Version": "Android10",
+        "Supported devices": "Pixel 4 XL, Pixel 4",
+        "Security patch level": "2020-01-01"
+    },
+    {
+        "Build": "QQ1C.200105.004",
+        "Tag": "android-10.0.0_r24",
+        "Version": "Android10",
+        "Supported devices": "Pixel 4 XL, Pixel 4",
+        "Security patch level": "2020-01-01"
+    },
+    {
+        "Build": "QQ1B.200105.004",
+        "Tag": "android-10.0.0_r23",
+        "Version": "Android10",
+        "Supported devices": "Pixel 4 XL, Pixel 4",
+        "Security patch level": "2020-01-01"
+    },
+    {
+        "Build": "QQ1A.200105.003",
+        "Tag": "android-10.0.0_r22",
+        "Version": "Android10",
+        "Supported devices": "Pixel 3 XL, Pixel 3",
+        "Security patch level": "2020-01-01"
+    },
+    {
+        "Build": "QQ1A.200105.002",
+        "Tag": "android-10.0.0_r21",
+        "Version": "Android10",
+        "Supported devices": "Pixel 3a XL, Pixel 3a, Pixel 3 XL, Pixel 3, Pixel 2 XL, Pixel 2",
+        "Security patch level": "2020-01-01"
+    },
+    {
+        "Build": "QQ1C.191205.016.A1",
+        "Tag": "android-10.0.0_r20",
+        "Version": "Android10",
+        "Supported devices": "Pixel 4 XL, Pixel 4",
+        "Security patch level": "2019-12-05"
+    },
+    {
+        "Build": "QQ1B.191205.012.A1",
+        "Tag": "android-10.0.0_r19",
+        "Version": "Android10",
+        "Supported devices": "Pixel 4 XL, Pixel 4",
+        "Security patch level": "2019-12-05"
+    },
+    {
+        "Build": "QQ1B.191205.011",
+        "Tag": "android-10.0.0_r18",
+        "Version": "Android10",
+        "Supported devices": "Pixel 4 XL, Pixel 4",
+        "Security patch level": "2019-12-05"
+    },
+    {
+        "Build": "QP1A.191005.007.A3",
+        "Tag": "android-10.0.0_r17",
+        "Version": "Android10",
+        "Supported devices": "Pixel XL, Pixel",
+        "Security patch level": "2019-10-06"
+    },
+    {
+        "Build": "QQ1A.191205.011",
+        "Tag": "android-10.0.0_r16",
+        "Version": "Android10",
+        "Supported devices": "Pixel 3a XL, Pixel 3a",
+        "Security patch level": "2019-12-05"
+    },
+    {
+        "Build": "QQ1A.191205.008",
+        "Tag": "android-10.0.0_r15",
+        "Version": "Android10",
+        "Supported devices": "Pixel 3 XL, Pixel 3, Pixel 2 XL, Pixel 2",
+        "Security patch level": "2019-12-05"
+    },
+    {
+        "Build": "QD1A.190821.014.C2",
+        "Tag": "android-10.0.0_r14",
+        "Version": "Android10",
+        "Supported devices": "Pixel 4 XL, Pixel 4",
+        "Security patch level": "2019-11-05"
+    },
+    {
+        "Build": "QD1A.190821.014",
+        "Tag": "android-10.0.0_r13",
+        "Version": "Android10",
+        "Supported devices": "Pixel 4 XL, Pixel 4",
+        "Security patch level": "2019-11-05"
+    },
+    {
+        "Build": "QD1A.190821.007.A3",
+        "Tag": "android-10.0.0_r12",
+        "Version": "Android10",
+        "Supported devices": "Pixel 4 XL, Pixel 4",
+        "Security patch level": "2019-11-05"
+    },
+    {
+        "Build": "QP1A.191105.004",
+        "Tag": "android-10.0.0_r11",
+        "Version": "Android10",
+        "Supported devices": "Pixel 2 XL, Pixel 2",
+        "Security patch level": "2019-11-05"
+    },
+    {
+        "Build": "QP1A.191105.003",
+        "Tag": "android-10.0.0_r10",
+        "Version": "Android10",
+        "Supported devices": "Pixel 3a XL, Pixel 3a, Pixel 3 XL, Pixel 3",
+        "Security patch level": "2019-11-05"
+    },
+    {
+        "Build": "QD1A.190821.011.C4",
+        "Tag": "android-10.0.0_r9",
+        "Version": "Android10",
+        "Supported devices": "Pixel 4 XL, Pixel 4",
+        "Security patch level": "2019-10-05"
+    },
+    {
+        "Build": "QD1A.190821.011",
+        "Tag": "android-10.0.0_r8",
+        "Version": "Android10",
+        "Supported devices": "Pixel 4 XL, Pixel 4",
+        "Security patch level": "2019-10-05"
+    },
+    {
+        "Build": "QD1A.190821.007",
+        "Tag": "android-10.0.0_r7",
+        "Version": "Android10",
+        "Supported devices": "Pixel 4 XL, Pixel 4",
+        "Security patch level": "2019-10-05"
+    },
+    {
+        "Build": "5933585",
+        "Tag": "android-10.0.0_r6",
+        "Version": "Android10",
+        "Supported devices": "N/A",
+        "Security patch level": "2019-09-05"
+    },
+    {
+        "Build": "QP1A.191005.007.A1",
+        "Tag": "android-10.0.0_r5",
+        "Version": "Android10",
+        "Supported devices": "Pixel 2 XL, Pixel 2, Pixel XL, Pixel",
+        "Security patch level": "2019-10-06"
+    },
+    {
+        "Build": "QP1A.191005.007",
+        "Tag": "android-10.0.0_r4",
+        "Version": "Android10",
+        "Supported devices": "Pixel 3a XL, Pixel 3a, Pixel 3 XL, Pixel 3",
+        "Security patch level": "2019-10-05"
+    },
+    {
+        "Build": "QP1A.190711.020.C3",
+        "Tag": "android-10.0.0_r3",
+        "Version": "Android10",
+        "Supported devices": "Pixel 3a XL, Pixel 3a, Pixel 3 XL, Pixel 3",
+        "Security patch level": "2019-09-05"
+    },
+    {
+        "Build": "QP1A.190711.020",
+        "Tag": "android-10.0.0_r2",
+        "Version": "Android10",
+        "Supported devices": "Pixel 3a XL, Pixel 3a, Pixel 3 XL, Pixel 3, Pixel 2 XL, Pixel 2, Pixel XL, Pixel",
+        "Security patch level": "2019-09-05"
+    },
+    {
+        "Build": "QP1A.190711.019",
+        "Tag": "android-10.0.0_r1",
+        "Version": "Android10",
+        "Supported devices": "Pixel 3a XL, Pixel 3a, Pixel 3 XL, Pixel 3, Pixel 2 XL, Pixel 2, Pixel XL, Pixel",
+        "Security patch level": "2019-09-05"
+    },
+    {
+        "Build": "6495666",
+        "Tag": "android-9.0.0_r58",
+        "Version": "Pie",
+        "Supported devices": "N/A",
+        "Security patch level": "2018-08-05"
+    },
+    {
+        "Build": "6454888",
+        "Tag": "android-9.0.0_r57",
+        "Version": "Pie",
+        "Supported devices": "N/A",
+        "Security patch level": "2018-08-05"
+    },
+    {
+        "Build": "6440158",
+        "Tag": "android-9.0.0_r56",
+        "Version": "Pie",
+        "Supported devices": "N/A",
+        "Security patch level": "2018-08-05"
+    },
+    {
+        "Build": "6197209",
+        "Tag": "android-9.0.0_r55",
+        "Version": "Pie",
+        "Supported devices": "N/A",
+        "Security patch level": "2018-08-05"
+    },
+    {
+        "Build": "6127072",
+        "Tag": "android-9.0.0_r54",
+        "Version": "Pie",
+        "Supported devices": "N/A",
+        "Security patch level": "2018-08-05"
+    },
+    {
+        "Build": "6107734",
+        "Tag": "android-9.0.0_r53",
+        "Version": "Pie",
+        "Supported devices": "N/A",
+        "Security patch level": "2018-08-05"
+    },
+    {
+        "Build": "6037698",
+        "Tag": "android-9.0.0_r52",
+        "Version": "Pie",
+        "Supported devices": "N/A",
+        "Security patch level": "2018-08-05"
+    },
+    {
+        "Build": "5948683",
+        "Tag": "android-9.0.0_r51",
+        "Version": "Pie",
+        "Supported devices": "N/A",
+        "Security patch level": "2018-08-05"
+    },
+    {
+        "Build": "5887210",
+        "Tag": "android-9.0.0_r50",
+        "Version": "Pie",
+        "Supported devices": "N/A",
+        "Security patch level": "2018-08-05"
+    },
+    {
+        "Build": "5794013",
+        "Tag": "android-9.0.0_r49",
+        "Version": "Pie",
+        "Supported devices": "N/A",
+        "Security patch level": "2018-08-05"
+    },
+    {
+        "Build": "5748468",
+        "Tag": "android-9.0.0_r48",
+        "Version": "Pie",
+        "Supported devices": "N/A",
+        "Security patch level": "2018-08-05"
+    },
+    {
+        "Build": "PQ3B.190801.002",
+        "Tag": "android-9.0.0_r47",
+        "Version": "Pie",
+        "Supported devices": "Pixel 3a XL, Pixel 3a",
+        "Security patch level": "2019-08-01"
+    },
+    {
+        "Build": "PQ3A.190801.002",
+        "Tag": "android-9.0.0_r46",
+        "Version": "Pie",
+        "Supported devices": "Pixel 3 XL, Pixel 3, Pixel 2 XL, Pixel 2, Pixel XL, Pixel",
+        "Security patch level": "2019-08-01"
+    },
+    {
+        "Build": "PQ3B.190705.003",
+        "Tag": "android-9.0.0_r45",
+        "Version": "Pie",
+        "Supported devices": "Pixel 3a XL, Pixel 3a",
+        "Security patch level": "2019-07-05"
+    },
+    {
+        "Build": "PQ3A.190705.003",
+        "Tag": "android-9.0.0_r44",
+        "Version": "Pie",
+        "Supported devices": "Pixel 3 XL, Pixel 3",
+        "Security patch level": "2019-07-05"
+    },
+    {
+        "Build": "PQ3A.190705.001",
+        "Tag": "android-9.0.0_r43",
+        "Version": "Pie",
+        "Supported devices": "Pixel 2 XL, Pixel 2, Pixel XL, Pixel",
+        "Security patch level": "2019-07-05"
+    },
+    {
+        "Build": "PQ3B.190605.006",
+        "Tag": "android-9.0.0_r42",
+        "Version": "Pie",
+        "Supported devices": "Pixel 3a XL, Pixel 3a",
+        "Security patch level": "2019-06-05"
+    },
+    {
+        "Build": "PQ3A.190605.004.A1",
+        "Tag": "android-9.0.0_r41",
+        "Version": "Pie",
+        "Supported devices": "Pixel 3 XL, Pixel 3",
+        "Security patch level": "2019-06-05"
+    },
+    {
+        "Build": "PQ3A.190605.003",
+        "Tag": "android-9.0.0_r40",
+        "Version": "Pie",
+        "Supported devices": "Pixel 3 XL, Pixel 3, Pixel 2 XL, Pixel 2, Pixel XL, Pixel",
+        "Security patch level": "2019-06-05"
+    },
+    {
+        "Build": "PD2A.190115.032",
+        "Tag": "android-9.0.0_r39",
+        "Version": "Pie",
+        "Supported devices": "Pixel 3a XL, Pixel 3a",
+        "Security patch level": "2019-03-05"
+    },
+    {
+        "Build": "PD2A.190115.029",
+        "Tag": "android-9.0.0_r38",
+        "Version": "Pie",
+        "Supported devices": "Pixel 3a XL, Pixel 3a",
+        "Security patch level": "2019-03-05"
+    },
+    {
+        "Build": "PQ3A.190505.002",
+        "Tag": "android-9.0.0_r37",
+        "Version": "Pie",
+        "Supported devices": "Pixel 3 XL, Pixel 3",
+        "Security patch level": "2019-05-05"
+    },
+    {
+        "Build": "PQ3A.190505.001",
+        "Tag": "android-9.0.0_r36",
+        "Version": "Pie",
+        "Supported devices": "Pixel 2 XL, Pixel 2, Pixel XL, Pixel",
+        "Security patch level": "2019-05-05"
+    },
+    {
+        "Build": "PQ2A.190405.003",
+        "Tag": "android-9.0.0_r35",
+        "Version": "Pie",
+        "Supported devices": "Pixel 3 XL, Pixel 3, Pixel 2 XL, Pixel 2, Pixel XL, Pixel",
+        "Security patch level": "2019-04-05"
+    },
+    {
+        "Build": "PQ2A.190305.002",
+        "Tag": "android-9.0.0_r34",
+        "Version": "Pie",
+        "Supported devices": "Pixel 3 XL, Pixel 3, Pixel 2 XL, Pixel 2, Pixel XL, Pixel",
+        "Security patch level": "2019-03-05"
+    },
+    {
+        "Build": "PQ2A.190205.003",
+        "Tag": "android-9.0.0_r33",
+        "Version": "Pie",
+        "Supported devices": "Pixel XL, Pixel",
+        "Security patch level": "2019-02-05"
+    },
+    {
+        "Build": "PQ2A.190205.002",
+        "Tag": "android-9.0.0_r32",
+        "Version": "Pie",
+        "Supported devices": "Pixel 2 XL, Pixel 2",
+        "Security patch level": "2019-02-05"
+    },
+    {
+        "Build": "PQ2A.190205.001",
+        "Tag": "android-9.0.0_r31",
+        "Version": "Pie",
+        "Supported devices": "Pixel 3 XL, Pixel 3",
+        "Security patch level": "2019-02-05"
+    },
+    {
+        "Build": "PQ1A.190105.004",
+        "Tag": "android-9.0.0_r30",
+        "Version": "Pie",
+        "Supported devices": "Pixel 3 XL, Pixel 3, Pixel 2 XL, Pixel 2, Pixel XL, Pixel",
+        "Security patch level": "2019-01-05"
+    },
+    {
+        "Build": "PQ1A.181205.006.A1",
+        "Tag": "android-9.0.0_r22",
+        "Version": "Pie",
+        "Supported devices": "Pixel 3 XL, Pixel 3",
+        "Security patch level": "2018-12-05"
+    },
+    {
+        "Build": "PQ1A.181205.006",
+        "Tag": "android-9.0.0_r21",
+        "Version": "Pie",
+        "Supported devices": "Pixel 3 XL, Pixel 3",
+        "Security patch level": "2018-12-05"
+    },
+    {
+        "Build": "PQ1A.181205.002.A1",
+        "Tag": "android-9.0.0_r20",
+        "Version": "Pie",
+        "Supported devices": "Pixel XL, Pixel",
+        "Security patch level": "2018-12-05"
+    },
+    {
+        "Build": "PQ1A.181205.002",
+        "Tag": "android-9.0.0_r19",
+        "Version": "Pie",
+        "Supported devices": "Pixel 2 XL, Pixel 2",
+        "Security patch level": "2018-12-05"
+    },
+    {
+        "Build": "PPR2.181005.003.A1",
+        "Tag": "android-9.0.0_r18",
+        "Version": "Pie",
+        "Supported devices": "Pixel XL, Pixel",
+        "Security patch level": "2018-11-01"
+    },
+    {
+        "Build": "PPR1.181005.003.A1",
+        "Tag": "android-9.0.0_r17",
+        "Version": "Pie",
+        "Supported devices": "Pixel XL, Pixel",
+        "Security patch level": "2018-11-01"
+    },
+    {
+        "Build": "PQ1A.181105.017.A1",
+        "Tag": "android-9.0.0_r16",
+        "Version": "Pie",
+        "Supported devices": "Pixel 3 XL, Pixel 3, Pixel 2 XL, Pixel 2",
+        "Security patch level": "2018-11-05"
+    },
+    {
+        "Build": "PD1A.180720.031",
+        "Tag": "android-9.0.0_r12",
+        "Version": "Pie",
+        "Supported devices": "Pixel 3 XL, Pixel 3",
+        "Security patch level": "2018-09-05"
+    },
+    {
+        "Build": "PD1A.180720.030",
+        "Tag": "android-9.0.0_r11",
+        "Version": "Pie",
+        "Supported devices": "Pixel 3 XL, Pixel 3",
+        "Security patch level": "2018-09-05"
+    },
+    {
+        "Build": "PPR2.181005.003",
+        "Tag": "android-9.0.0_r10",
+        "Version": "Pie",
+        "Supported devices": "Pixel XL, Pixel, Pixel 2 XL, Pixel 2",
+        "Security patch level": "2018-10-05"
+    },
+    {
+        "Build": "PPR1.181005.003",
+        "Tag": "android-9.0.0_r9",
+        "Version": "Pie",
+        "Supported devices": "Pixel XL, Pixel",
+        "Security patch level": "2018-10-05"
+    },
+    {
+        "Build": "PPR2.180905.006.A1",
+        "Tag": "android-9.0.0_r8",
+        "Version": "Pie",
+        "Supported devices": "Pixel XL, Pixel",
+        "Security patch level": "2018-09-05"
+    },
+    {
+        "Build": "PPR2.180905.006",
+        "Tag": "android-9.0.0_r7",
+        "Version": "Pie",
+        "Supported devices": "Pixel XL, Pixel",
+        "Security patch level": "2018-09-05"
+    },
+    {
+        "Build": "PPR2.180905.005",
+        "Tag": "android-9.0.0_r6",
+        "Version": "Pie",
+        "Supported devices": "Pixel 2 XL, Pixel 2",
+        "Security patch level": "2018-09-05"
+    },
+    {
+        "Build": "PPR1.180905.003",
+        "Tag": "android-9.0.0_r5",
+        "Version": "Pie",
+        "Supported devices": "Pixel XL, Pixel",
+        "Security patch level": "2018-09-05"
+    },
+    {
+        "Build": "PPR1.180610.011",
+        "Tag": "android-9.0.0_r3",
+        "Version": "Pie",
+        "Supported devices": "Pixel 2 XL, Pixel 2",
+        "Security patch level": "2018-08-05"
+    },
+    {
+        "Build": "PPR1.180610.010",
+        "Tag": "android-9.0.0_r2",
+        "Version": "Pie",
+        "Supported devices": "Pixel XL, Pixel",
+        "Security patch level": "2018-08-05"
+    },
+    {
+        "Build": "PPR1.180610.009",
+        "Tag": "android-9.0.0_r1",
+        "Version": "Pie",
+        "Supported devices": "Pixel 2 XL, Pixel 2, Pixel XL, Pixel",
+        "Security patch level": "2018-08-05"
+    },
+    {
+        "Build": "6495665",
+        "Tag": "android-8.1.0_r78",
+        "Version": "Oreo",
+        "Supported devices": "N/A",
+        "Security patch level": "2017-12-05"
+    },
+    {
+        "Build": "6454887",
+        "Tag": "android-8.1.0_r77",
+        "Version": "Oreo",
+        "Supported devices": "N/A",
+        "Security patch level": "2017-12-05"
+    },
+    {
+        "Build": "6440157",
+        "Tag": "android-8.1.0_r76",
+        "Version": "Oreo",
+        "Supported devices": "N/A",
+        "Security patch level": "2017-12-05"
+    },
+    {
+        "Build": "6197208",
+        "Tag": "android-8.1.0_r75",
+        "Version": "Oreo",
+        "Supported devices": "N/A",
+        "Security patch level": "2017-12-05"
+    },
+    {
+        "Build": "6127071",
+        "Tag": "android-8.1.0_r74",
+        "Version": "Oreo",
+        "Supported devices": "N/A",
+        "Security patch level": "2017-12-05"
+    },
+    {
+        "Build": "6107733",
+        "Tag": "android-8.1.0_r73",
+        "Version": "Oreo",
+        "Supported devices": "N/A",
+        "Security patch level": "2017-12-05"
+    },
+    {
+        "Build": "6037697",
+        "Tag": "android-8.1.0_r72",
+        "Version": "Oreo",
+        "Supported devices": "N/A",
+        "Security patch level": "2017-12-05"
+    },
+    {
+        "Build": "5948682",
+        "Tag": "android-8.1.0_r71",
+        "Version": "Oreo",
+        "Supported devices": "N/A",
+        "Security patch level": "2017-12-05"
+    },
+    {
+        "Build": "5887208",
+        "Tag": "android-8.1.0_r70",
+        "Version": "Oreo",
+        "Supported devices": "N/A",
+        "Security patch level": "2017-12-05"
+    },
+    {
+        "Build": "5794017",
+        "Tag": "android-8.1.0_r69",
+        "Version": "Oreo",
+        "Supported devices": "N/A",
+        "Security patch level": "2017-12-05"
+    },
+    {
+        "Build": "5725752",
+        "Tag": "android-8.1.0_r68",
+        "Version": "Oreo",
+        "Supported devices": "N/A",
+        "Security patch level": "2017-12-05"
+    },
+    {
+        "Build": "OPM8.190605.005",
+        "Tag": "android-8.1.0_r67",
+        "Version": "Oreo",
+        "Supported devices": "Pixel C",
+        "Security patch level": "2019-06-05"
+    },
+    {
+        "Build": "5650812",
+        "Tag": "android-8.1.0_r66",
+        "Version": "Oreo",
+        "Supported devices": "N/A",
+        "Security patch level": "2017-12-05"
+    },
+    {
+        "Build": "OPM8.190605.003",
+        "Tag": "android-8.1.0_r65",
+        "Version": "Oreo",
+        "Supported devices": "Pixel C",
+        "Security patch level": "2019-06-05"
+    },
+    {
+        "Build": "OPM8.190505.001",
+        "Tag": "android-8.1.0_r64",
+        "Version": "Oreo",
+        "Supported devices": "Pixel C",
+        "Security patch level": "2019-05-05"
+    },
+    {
+        "Build": "OPM8.190405.001",
+        "Tag": "android-8.1.0_r63",
+        "Version": "Oreo",
+        "Supported devices": "Pixel C",
+        "Security patch level": "2019-04-05"
+    },
+    {
+        "Build": "OPM8.190305.001",
+        "Tag": "android-8.1.0_r62",
+        "Version": "Oreo",
+        "Supported devices": "Pixel C",
+        "Security patch level": "2019-03-05"
+    },
+    {
+        "Build": "OPM8.190205.001",
+        "Tag": "android-8.1.0_r61",
+        "Version": "Oreo",
+        "Supported devices": "Pixel C",
+        "Security patch level": "2019-02-05"
+    },
+    {
+        "Build": "OPM8.190105.002",
+        "Tag": "android-8.1.0_r60",
+        "Version": "Oreo",
+        "Supported devices": "Pixel C",
+        "Security patch level": "2019-01-05"
+    },
+    {
+        "Build": "OPM8.181205.001",
+        "Tag": "android-8.1.0_r53",
+        "Version": "Oreo",
+        "Supported devices": "Pixel C",
+        "Security patch level": "2018-12-05"
+    },
+    {
+        "Build": "OPM7.181205.001",
+        "Tag": "android-8.1.0_r52",
+        "Version": "Oreo",
+        "Supported devices": "Nexus 5X, Nexus 6P",
+        "Security patch level": "2018-12-05"
+    },
+    {
+        "Build": "OPM8.181105.002",
+        "Tag": "android-8.1.0_r51",
+        "Version": "Oreo",
+        "Supported devices": "Pixel C",
+        "Security patch level": "2018-11-05"
+    },
+    {
+        "Build": "OPM7.181105.004",
+        "Tag": "android-8.1.0_r50",
+        "Version": "Oreo",
+        "Supported devices": "Nexus 5X, Nexus 6P",
+        "Security patch level": "2018-11-05"
+    },
+    {
+        "Build": "OPM8.181005.003",
+        "Tag": "android-8.1.0_r48",
+        "Version": "Oreo",
+        "Supported devices": "Pixel C",
+        "Security patch level": "2018-10-05"
+    },
+    {
+        "Build": "OPM7.181005.003",
+        "Tag": "android-8.1.0_r47",
+        "Version": "Oreo",
+        "Supported devices": "Nexus 5X, Nexus 6P",
+        "Security patch level": "2018-10-05"
+    },
+    {
+        "Build": "OPM6.171019.030.K1",
+        "Tag": "android-8.1.0_r46",
+        "Version": "Oreo",
+        "Supported devices": "Nexus 5X, Nexus 6P",
+        "Security patch level": "2018-09-05"
+    },
+    {
+        "Build": "OPM4.171019.021.Z1",
+        "Tag": "android-8.1.0_r45",
+        "Version": "Oreo",
+        "Supported devices": "Pixel C",
+        "Security patch level": "2018-09-05"
+    },
+    {
+        "Build": "OPM6.171019.030.H1",
+        "Tag": "android-8.1.0_r43",
+        "Version": "Oreo",
+        "Supported devices": "Nexus 5X, Nexus 6P",
+        "Security patch level": "2018-08-05"
+    },
+    {
+        "Build": "OPM4.171019.021.Y1",
+        "Tag": "android-8.1.0_r42",
+        "Version": "Oreo",
+        "Supported devices": "Pixel C",
+        "Security patch level": "2018-08-05"
+    },
+    {
+        "Build": "OPM6.171019.030.E1",
+        "Tag": "android-8.1.0_r41",
+        "Version": "Oreo",
+        "Supported devices": "Nexus 5X, Nexus 6P",
+        "Security patch level": "2018-07-05"
+    },
+    {
+        "Build": "OPM4.171019.021.R1",
+        "Tag": "android-8.1.0_r40",
+        "Version": "Oreo",
+        "Supported devices": "Pixel 2 XL",
+        "Security patch level": "2018-07-05"
+    },
+    {
+        "Build": "OPM4.171019.021.Q1",
+        "Tag": "android-8.1.0_r39",
+        "Version": "Oreo",
+        "Supported devices": "Pixel 2",
+        "Security patch level": "2018-07-05"
+    },
+    {
+        "Build": "OPM4.171019.021.P1",
+        "Tag": "android-8.1.0_r38",
+        "Version": "Oreo",
+        "Supported devices": "Pixel, Pixel XL",
+        "Security patch level": "2018-07-05"
+    },
+    {
+        "Build": "OPM4.171019.021.N1",
+        "Tag": "android-8.1.0_r37",
+        "Version": "Oreo",
+        "Supported devices": "Pixel C",
+        "Security patch level": "2018-07-05"
+    },
+    {
+        "Build": "OPM2.171026.006.H1",
+        "Tag": "android-8.1.0_r36",
+        "Version": "Oreo",
+        "Supported devices": "Pixel 2 XL",
+        "Security patch level": "2018-07-05"
+    },
+    {
+        "Build": "OPM2.171026.006.G1",
+        "Tag": "android-8.1.0_r35",
+        "Version": "Oreo",
+        "Supported devices": "Pixel 2",
+        "Security patch level": "2018-07-05"
+    },
+    {
+        "Build": "OPM6.171019.030.B1",
+        "Tag": "android-8.1.0_r33",
+        "Version": "Oreo",
+        "Supported devices": "Nexus 6P, Nexus 5X",
+        "Security patch level": "2018-06-05"
+    },
+    {
+        "Build": "OPM4.171019.021.E1",
+        "Tag": "android-8.1.0_r32",
+        "Version": "Oreo",
+        "Supported devices": "Pixel 2 XL, Pixel 2",
+        "Security patch level": "2018-06-05"
+    },
+    {
+        "Build": "OPM4.171019.021.D1",
+        "Tag": "android-8.1.0_r31",
+        "Version": "Oreo",
+        "Supported devices": "Pixel XL, Pixel",
+        "Security patch level": "2018-06-05"
+    },
+    {
+        "Build": "OPM2.171026.006.C1",
+        "Tag": "android-8.1.0_r30",
+        "Version": "Oreo",
+        "Supported devices": "Pixel 2 XL, Pixel 2",
+        "Security patch level": "2018-06-05"
+    },
+    {
+        "Build": "OPM4.171019.016.C1",
+        "Tag": "android-8.1.0_r29",
+        "Version": "Oreo",
+        "Supported devices": "Pixel C",
+        "Security patch level": "2018-05-05"
+    },
+    {
+        "Build": "OPM4.171019.016.B1",
+        "Tag": "android-8.1.0_r28",
+        "Version": "Oreo",
+        "Supported devices": "Pixel XL, Pixel, Pixel 2 XL, Pixel 2",
+        "Security patch level": "2018-05-05"
+    },
+    {
+        "Build": "OPM4.171019.016.A1",
+        "Tag": "android-8.1.0_r27",
+        "Version": "Oreo",
+        "Supported devices": "Nexus 5X",
+        "Security patch level": "2018-05-05"
+    },
+    {
+        "Build": "OPM2.171019.029.B1",
+        "Tag": "android-8.1.0_r26",
+        "Version": "Oreo",
+        "Supported devices": "Pixel 2 XL, Pixel 2",
+        "Security patch level": "2018-05-05"
+    },
+    {
+        "Build": "OPM2.171019.029.A1",
+        "Tag": "android-8.1.0_r25",
+        "Version": "Oreo",
+        "Supported devices": "Nexus 6P",
+        "Security patch level": "2018-05-05"
+    },
+    {
+        "Build": "OPM4.171019.015.A1",
+        "Tag": "android-8.1.0_r23",
+        "Version": "Oreo",
+        "Supported devices": "Pixel 2 XL, Pixel 2",
+        "Security patch level": "2018-04-01"
+    },
+    {
+        "Build": "OPM5.171019.019",
+        "Tag": "android-8.1.0_r22",
+        "Version": "Oreo",
+        "Supported devices": "Nexus 6P",
+        "Security patch level": "2018-04-01"
+    },
+    {
+        "Build": "OPM3.171019.019",
+        "Tag": "android-8.1.0_r21",
+        "Version": "Oreo",
+        "Supported devices": "Nexus 6P",
+        "Security patch level": "2018-04-01"
+    },
+    {
+        "Build": "OPM2.171019.029",
+        "Tag": "android-8.1.0_r20",
+        "Version": "Oreo",
+        "Supported devices": "Pixel 2 XL, Pixel 2, Pixel XL, Pixel, Nexus 5X",
+        "Security patch level": "2018-04-05"
+    },
+    {
+        "Build": "OPM1.171019.026",
+        "Tag": "android-8.1.0_r19",
+        "Version": "Oreo",
+        "Supported devices": "Pixel C",
+        "Security patch level": "2018-04-05"
+    },
+    {
+        "Build": "OPM5.171019.017",
+        "Tag": "android-8.1.0_r18",
+        "Version": "Oreo",
+        "Supported devices": "Nexus 5X, Nexus 6P",
+        "Security patch level": "2018-03-05"
+    },
+    {
+        "Build": "OPM3.171019.016",
+        "Tag": "android-8.1.0_r17",
+        "Version": "Oreo",
+        "Supported devices": "Nexus 5X, Nexus 6P",
+        "Security patch level": "2018-03-05"
+    },
+    {
+        "Build": "OPM1.171019.022.A1",
+        "Tag": "android-8.1.0_r16",
+        "Version": "Oreo",
+        "Supported devices": "Pixel C",
+        "Security patch level": "2018-03-05"
+    },
+    {
+        "Build": "OPM1.171019.021",
+        "Tag": "android-8.1.0_r15",
+        "Version": "Oreo",
+        "Supported devices": "Pixel 2 XL, Pixel 2, Pixel XL, Pixel",
+        "Security patch level": "2018-03-05"
+    },
+    {
+        "Build": "OPM5.171019.015",
+        "Tag": "android-8.1.0_r14",
+        "Version": "Oreo",
+        "Supported devices": "Nexus 5X, Nexus 6P",
+        "Security patch level": "2018-02-05"
+    },
+    {
+        "Build": "OPM3.171019.014",
+        "Tag": "android-8.1.0_r13",
+        "Version": "Oreo",
+        "Supported devices": "Nexus 5X, Nexus 6P",
+        "Security patch level": "2018-02-05"
+    },
+    {
+        "Build": "OPM1.171019.019",
+        "Tag": "android-8.1.0_r12",
+        "Version": "Oreo",
+        "Supported devices": "Pixel 2",
+        "Security patch level": "2018-02-05"
+    },
+    {
+        "Build": "OPM1.171019.018",
+        "Tag": "android-8.1.0_r11",
+        "Version": "Oreo",
+        "Supported devices": "Pixel 2 XL",
+        "Security patch level": "2018-02-05"
+    },
+    {
+        "Build": "OPM1.171019.016",
+        "Tag": "android-8.1.0_r10",
+        "Version": "Oreo",
+        "Supported devices": "Pixel, Pixel XL, Pixel C",
+        "Security patch level": "2018-02-05"
+    },
+    {
+        "Build": "OPM5.171019.014",
+        "Tag": "android-8.1.0_r9",
+        "Version": "Oreo",
+        "Supported devices": "Nexus 5X, Nexus 6P",
+        "Security patch level": "2018-01-05"
+    },
+    {
+        "Build": "OPM2.171019.016",
+        "Tag": "android-8.1.0_r8",
+        "Version": "Oreo",
+        "Supported devices": "Pixel 2",
+        "Security patch level": "2018-01-05"
+    },
+    {
+        "Build": "OPM3.171019.013",
+        "Tag": "android-8.1.0_r7",
+        "Version": "Oreo",
+        "Supported devices": "Nexus 5X, Nexus 6P",
+        "Security patch level": "2018-01-05"
+    },
+    {
+        "Build": "OPM1.171019.015",
+        "Tag": "android-8.1.0_r6",
+        "Version": "Oreo",
+        "Supported devices": "Pixel C",
+        "Security patch level": "2018-01-05"
+    },
+    {
+        "Build": "OPM1.171019.014",
+        "Tag": "android-8.1.0_r5",
+        "Version": "Oreo",
+        "Supported devices": "Pixel 2 XL, Pixel 2, Pixel XL, Pixel",
+        "Security patch level": "2018-01-05"
+    },
+    {
+        "Build": "OPM1.171019.013",
+        "Tag": "android-8.1.0_r4",
+        "Version": "Oreo",
+        "Supported devices": "Pixel 2 XL, Pixel 2",
+        "Security patch level": "2018-01-05"
+    },
+    {
+        "Build": "OPM1.171019.012",
+        "Tag": "android-8.1.0_r3",
+        "Version": "Oreo",
+        "Supported devices": "Pixel XL, Pixel",
+        "Security patch level": "2018-01-05"
+    },
+    {
+        "Build": "OPM2.171019.012",
+        "Tag": "android-8.1.0_r2",
+        "Version": "Oreo",
+        "Supported devices": "Pixel 2 XL, Pixel 2",
+        "Security patch level": "2017-12-05"
+    },
+    {
+        "Build": "OPM1.171019.011",
+        "Tag": "android-8.1.0_r1",
+        "Version": "Oreo",
+        "Supported devices": "Pixel 2 XL, Pixel 2, Pixel XL, Pixel, Pixel C, Nexus 6P, Nexus 5X",
+        "Security patch level": "2017-12-05"
+    },
+    {
+        "Build": "6495664",
+        "Tag": "android-8.0.0_r48",
+        "Version": "Oreo",
+        "Supported devices": "N/A",
+        "Security patch level": "2017-10-01"
+    },
+    {
+        "Build": "6454886",
+        "Tag": "android-8.0.0_r47",
+        "Version": "Oreo",
+        "Supported devices": "N/A",
+        "Security patch level": "2017-10-01"
+    },
+    {
+        "Build": "6349210",
+        "Tag": "android-8.0.0_r46",
+        "Version": "Oreo",
+        "Supported devices": "N/A",
+        "Security patch level": "2017-10-01"
+    },
+    {
+        "Build": "6197207",
+        "Tag": "android-8.0.0_r45",
+        "Version": "Oreo",
+        "Supported devices": "N/A",
+        "Security patch level": "2017-10-01"
+    },
+    {
+        "Build": "6127070",
+        "Tag": "android-8.0.0_r44",
+        "Version": "Oreo",
+        "Supported devices": "N/A",
+        "Security patch level": "2017-10-01"
+    },
+    {
+        "Build": "6107732",
+        "Tag": "android-8.0.0_r43",
+        "Version": "Oreo",
+        "Supported devices": "N/A",
+        "Security patch level": "2017-10-01"
+    },
+    {
+        "Build": "6037696",
+        "Tag": "android-8.0.0_r42",
+        "Version": "Oreo",
+        "Supported devices": "N/A",
+        "Security patch level": "2017-10-01"
+    },
+    {
+        "Build": "5948681",
+        "Tag": "android-8.0.0_r41",
+        "Version": "Oreo",
+        "Supported devices": "N/A",
+        "Security patch level": "2017-10-01"
+    },
+    {
+        "Build": "5887206",
+        "Tag": "android-8.0.0_r40",
+        "Version": "Oreo",
+        "Supported devices": "N/A",
+        "Security patch level": "2017-10-01"
+    },
+    {
+        "Build": "5796467",
+        "Tag": "android-8.0.0_r39",
+        "Version": "Oreo",
+        "Supported devices": "N/A",
+        "Security patch level": "2017-10-01"
+    },
+    {
+        "Build": "5729099",
+        "Tag": "android-8.0.0_r38",
+        "Version": "Oreo",
+        "Supported devices": "N/A",
+        "Security patch level": "2017-10-01"
+    },
+    {
+        "Build": "5650811",
+        "Tag": "android-8.0.0_r37",
+        "Version": "Oreo",
+        "Supported devices": "N/A",
+        "Security patch level": "2017-10-01"
+    },
+    {
+        "Build": "OPR5.170623.014",
+        "Tag": "android-8.0.0_r36",
+        "Version": "Oreo",
+        "Supported devices": "Nexus 6P",
+        "Security patch level": "2017-12-01"
+    },
+    {
+        "Build": "OPR4.170623.020",
+        "Tag": "android-8.0.0_r35",
+        "Version": "Oreo",
+        "Supported devices": "Nexus 5X",
+        "Security patch level": "2017-12-01"
+    },
+    {
+        "Build": "OPD3.170816.023",
+        "Tag": "android-8.0.0_r34",
+        "Version": "Oreo",
+        "Supported devices": "Pixel 2 XL, Pixel 2",
+        "Security patch level": "2017-11-05"
+    },
+    {
+        "Build": "OPD1.170816.025",
+        "Tag": "android-8.0.0_r33",
+        "Version": "Oreo",
+        "Supported devices": "Pixel 2 XL, Pixel 2",
+        "Security patch level": "2017-11-05"
+    },
+    {
+        "Build": "OPR6.170623.023",
+        "Tag": "android-8.0.0_r32",
+        "Version": "Oreo",
+        "Supported devices": "Nexus 5X",
+        "Security patch level": "2017-11-05"
+    },
+    {
+        "Build": "OPR5.170623.011",
+        "Tag": "android-8.0.0_r31",
+        "Version": "Oreo",
+        "Supported devices": "Nexus 6P",
+        "Security patch level": "2017-11-05"
+    },
+    {
+        "Build": "OPR3.170623.013",
+        "Tag": "android-8.0.0_r30",
+        "Version": "Oreo",
+        "Supported devices": "Pixel XL, Pixel",
+        "Security patch level": "2017-11-05"
+    },
+    {
+        "Build": "OPR2.170623.027",
+        "Tag": "android-8.0.0_r29",
+        "Version": "Oreo",
+        "Supported devices": "Nexus Player",
+        "Security patch level": "2017-11-05"
+    },
+    {
+        "Build": "OPR1.170623.032",
+        "Tag": "android-8.0.0_r28",
+        "Version": "Oreo",
+        "Supported devices": "Pixel XL, Pixel, Pixel C",
+        "Security patch level": "2017-11-05"
+    },
+    {
+        "Build": "OPD3.170816.016",
+        "Tag": "android-8.0.0_r27",
+        "Version": "Oreo",
+        "Supported devices": "Pixel 2",
+        "Security patch level": "2017-11-05"
+    },
+    {
+        "Build": "OPD2.170816.015",
+        "Tag": "android-8.0.0_r26",
+        "Version": "Oreo",
+        "Supported devices": "Pixel 2",
+        "Security patch level": "2017-11-05"
+    },
+    {
+        "Build": "OPD1.170816.018",
+        "Tag": "android-8.0.0_r25",
+        "Version": "Oreo",
+        "Supported devices": "Pixel 2",
+        "Security patch level": "2017-11-05"
+    },
+    {
+        "Build": "OPD3.170816.012",
+        "Tag": "android-8.0.0_r24",
+        "Version": "Oreo",
+        "Supported devices": "Pixel 2 XL, Pixel 2",
+        "Security patch level": "2017-09-05"
+    },
+    {
+        "Build": "OPD1.170816.012",
+        "Tag": "android-8.0.0_r23",
+        "Version": "Oreo",
+        "Supported devices": "Pixel 2 XL, Pixel 2",
+        "Security patch level": "2017-09-05"
+    },
+    {
+        "Build": "OPD1.170816.011",
+        "Tag": "android-8.0.0_r22",
+        "Version": "Oreo",
+        "Supported devices": "Pixel 2 XL, Pixel 2",
+        "Security patch level": "2017-09-05"
+    },
+    {
+        "Build": "OPD1.170816.010",
+        "Tag": "android-8.0.0_r21",
+        "Version": "Oreo",
+        "Supported devices": "Pixel 2 XL, Pixel 2",
+        "Security patch level": "2017-09-05"
+    },
+    {
+        "Build": "OPR5.170623.007",
+        "Tag": "android-8.0.0_r17",
+        "Version": "Oreo",
+        "Supported devices": "Nexus 6P",
+        "Security patch level": "2017-10-05"
+    },
+    {
+        "Build": "OPR4.170623.009",
+        "Tag": "android-8.0.0_r16",
+        "Version": "Oreo",
+        "Supported devices": "Nexus 5X",
+        "Security patch level": "2017-10-05"
+    },
+    {
+        "Build": "OPR3.170623.008",
+        "Tag": "android-8.0.0_r15",
+        "Version": "Oreo",
+        "Supported devices": "Pixel XL, Pixel",
+        "Security patch level": "2017-10-05"
+    },
+    {
+        "Build": "OPR1.170623.027",
+        "Tag": "android-8.0.0_r13",
+        "Version": "Oreo",
+        "Supported devices": "Pixel XL, Pixel, Pixel C",
+        "Security patch level": "2017-10-05"
+    },
+    {
+        "Build": "OPR6.170623.021",
+        "Tag": "android-8.0.0_r12",
+        "Version": "Oreo",
+        "Supported devices": "Nexus Player",
+        "Security patch level": "2017-09-05"
+    },
+    {
+        "Build": "OPR6.170623.019",
+        "Tag": "android-8.0.0_r11",
+        "Version": "Oreo",
+        "Supported devices": "Nexus 6P",
+        "Security patch level": "2017-09-05"
+    },
+    {
+        "Build": "OPR4.170623.006",
+        "Tag": "android-8.0.0_r10",
+        "Version": "Oreo",
+        "Supported devices": "Nexus 5X",
+        "Security patch level": "2017-09-05"
+    },
+    {
+        "Build": "OPR3.170623.007",
+        "Tag": "android-8.0.0_r9",
+        "Version": "Oreo",
+        "Supported devices": "Pixel XL, Pixel",
+        "Security patch level": "2017-09-05"
+    },
+    {
+        "Build": "OPR1.170623.026",
+        "Tag": "android-8.0.0_r7",
+        "Version": "Oreo",
+        "Supported devices": "Pixel XL, Pixel, Pixel C",
+        "Security patch level": "2017-09-05"
+    },
+    {
+        "Build": "OPR6.170623.013",
+        "Tag": "android-8.0.0_r4",
+        "Version": "Oreo",
+        "Supported devices": "Nexus 5X, Nexus 6P",
+        "Security patch level": "2017-08-05"
+    },
+    {
+        "Build": "OPR6.170623.012",
+        "Tag": "android-8.0.0_r3",
+        "Version": "Oreo",
+        "Supported devices": "Pixel XL, Pixel",
+        "Security patch level": "2017-08-05"
+    },
+    {
+        "Build": "OPR6.170623.011",
+        "Tag": "android-8.0.0_r2",
+        "Version": "Oreo",
+        "Supported devices": "Pixel XL, Pixel",
+        "Security patch level": "2017-08-05"
+    },
+    {
+        "Build": "OPR6.170623.010",
+        "Tag": "android-8.0.0_r1",
+        "Version": "Oreo",
+        "Supported devices": "Pixel C",
+        "Security patch level": "2017-08-05"
+    },
+    {
+        "Build": "5787804",
+        "Tag": "android-7.1.2_r39",
+        "Version": "Nougat",
+        "Supported devices": "N/A",
+        "Security patch level": "2017-10-01"
+    },
+    {
+        "Build": "5725750",
+        "Tag": "android-7.1.2_r38",
+        "Version": "Nougat",
+        "Supported devices": "N/A",
+        "Security patch level": "2017-10-01"
+    },
+    {
+        "Build": "5650810",
+        "Tag": "android-7.1.2_r37",
+        "Version": "Nougat",
+        "Supported devices": "N/A",
+        "Security patch level": "2017-10-01"
+    },
+    {
+        "Build": "N2G48H",
+        "Tag": "android-7.1.2_r36",
+        "Version": "Nougat",
+        "Supported devices": "N/A",
+        "Security patch level": "2017-10-05"
+    },
+    {
+        "Build": "NZH54D",
+        "Tag": "android-7.1.2_r33",
+        "Version": "Nougat",
+        "Supported devices": "Pixel XL, Pixel",
+        "Security patch level": "2017-08-05"
+    },
+    {
+        "Build": "NKG47S",
+        "Tag": "android-7.1.2_r32",
+        "Version": "Nougat",
+        "Supported devices": "Pixel XL, Pixel",
+        "Security patch level": "2017-08-05"
+    },
+    {
+        "Build": "NHG47Q",
+        "Tag": "android-7.1.2_r30",
+        "Version": "Nougat",
+        "Supported devices": "Pixel XL, Pixel",
+        "Security patch level": "2017-08-05"
+    },
+    {
+        "Build": "NJH47F",
+        "Tag": "android-7.1.2_r29",
+        "Version": "Nougat",
+        "Supported devices": "Pixel XL, Pixel",
+        "Security patch level": "2017-08-05"
+    },
+    {
+        "Build": "N2G48C",
+        "Tag": "android-7.1.2_r28",
+        "Version": "Nougat",
+        "Supported devices": "Nexus 5X, Nexus 6P, Nexus Player, Pixel C",
+        "Security patch level": "2017-08-05"
+    },
+    {
+        "Build": "NZH54B",
+        "Tag": "android-7.1.2_r27",
+        "Version": "Nougat",
+        "Supported devices": "Pixel XL, Pixel",
+        "Security patch level": "2017-07-05"
+    },
+    {
+        "Build": "NKG47M",
+        "Tag": "android-7.1.2_r25",
+        "Version": "Nougat",
+        "Supported devices": "Pixel XL, Pixel",
+        "Security patch level": "2017-07-05"
+    },
+    {
+        "Build": "NJH47D",
+        "Tag": "android-7.1.2_r24",
+        "Version": "Nougat",
+        "Supported devices": "Pixel XL, Pixel",
+        "Security patch level": "2017-07-05"
+    },
+    {
+        "Build": "NHG47O",
+        "Tag": "android-7.1.2_r23",
+        "Version": "Nougat",
+        "Supported devices": "Pixel XL, Pixel",
+        "Security patch level": "2017-07-05"
+    },
+    {
+        "Build": "N2G48B",
+        "Tag": "android-7.1.2_r19",
+        "Version": "Nougat",
+        "Supported devices": "Nexus 6P, Nexus Player, Pixel C",
+        "Security patch level": "2017-07-05"
+    },
+    {
+        "Build": "N2G47Z",
+        "Tag": "android-7.1.2_r18",
+        "Version": "Nougat",
+        "Supported devices": "Nexus 5X",
+        "Security patch level": "2017-07-05"
+    },
+    {
+        "Build": "NJH47B",
+        "Tag": "android-7.1.2_r17",
+        "Version": "Nougat",
+        "Supported devices": "Pixel XL, Pixel",
+        "Security patch level": "2017-06-05"
+    },
+    {
+        "Build": "NJH34C",
+        "Tag": "android-7.1.2_r16",
+        "Version": "Nougat",
+        "Supported devices": "Pixel XL, Pixel",
+        "Security patch level": "2017-06-05"
+    },
+    {
+        "Build": "NKG47L",
+        "Tag": "android-7.1.2_r15",
+        "Version": "Nougat",
+        "Supported devices": "Pixel XL, Pixel",
+        "Security patch level": "2017-06-05"
+    },
+    {
+        "Build": "NHG47N",
+        "Tag": "android-7.1.2_r14",
+        "Version": "Nougat",
+        "Supported devices": "Pixel XL, Pixel",
+        "Security patch level": "2017-06-05"
+    },
+    {
+        "Build": "N2G47X",
+        "Tag": "android-7.1.2_r13",
+        "Version": "Nougat",
+        "Supported devices": "Nexus Player",
+        "Security patch level": "2017-06-05"
+    },
+    {
+        "Build": "N2G47W",
+        "Tag": "android-7.1.2_r12",
+        "Version": "Nougat",
+        "Supported devices": "Nexus 5X, Nexus 6P, Pixel C",
+        "Security patch level": "2017-06-05"
+    },
+    {
+        "Build": "NHG47L",
+        "Tag": "android-7.1.2_r11",
+        "Version": "Nougat",
+        "Supported devices": "Pixel XL, Pixel",
+        "Security patch level": "2017-05-05"
+    },
+    {
+        "Build": "N2G47T",
+        "Tag": "android-7.1.2_r10",
+        "Version": "Nougat",
+        "Supported devices": "Pixel XL, Pixel",
+        "Security patch level": "2017-05-05"
+    },
+    {
+        "Build": "N2G47R",
+        "Tag": "android-7.1.2_r9",
+        "Version": "Nougat",
+        "Supported devices": "Nexus Player",
+        "Security patch level": "2017-05-05"
+    },
+    {
+        "Build": "N2G47O",
+        "Tag": "android-7.1.2_r8",
+        "Version": "Nougat",
+        "Supported devices": "Nexus 5X, Nexus 6P, Pixel XL, Pixel, Pixel C",
+        "Security patch level": "2017-05-05"
+    },
+    {
+        "Build": "NHG47K",
+        "Tag": "android-7.1.2_r6",
+        "Version": "Nougat",
+        "Supported devices": "Pixel XL, Pixel",
+        "Security patch level": "2017-04-05"
+    },
+    {
+        "Build": "N2G47J",
+        "Tag": "android-7.1.2_r5",
+        "Version": "Nougat",
+        "Supported devices": "Pixel XL, Pixel",
+        "Security patch level": "2017-04-05"
+    },
+    {
+        "Build": "N2G47H",
+        "Tag": "android-7.1.2_r4",
+        "Version": "Nougat",
+        "Supported devices": "Nexus 6P, Nexus Player",
+        "Security patch level": "2017-04-05"
+    },
+    {
+        "Build": "N2G47F",
+        "Tag": "android-7.1.2_r3",
+        "Version": "Nougat",
+        "Supported devices": "Nexus 5X",
+        "Security patch level": "2017-04-05"
+    },
+    {
+        "Build": "N2G47E",
+        "Tag": "android-7.1.2_r2",
+        "Version": "Nougat",
+        "Supported devices": "Pixel XL, Pixel",
+        "Security patch level": "2017-04-05"
+    },
+    {
+        "Build": "N2G47D",
+        "Tag": "android-7.1.2_r1",
+        "Version": "Nougat",
+        "Supported devices": "Pixel C",
+        "Security patch level": "2017-04-05"
+    },
+    {
+        "Build": "5787798",
+        "Tag": "android-7.1.1_r61",
+        "Version": "Nougat",
+        "Supported devices": "N/A",
+        "Security patch level": "2017-10-01"
+    },
+    {
+        "Build": "5725749",
+        "Tag": "android-7.1.1_r60",
+        "Version": "Nougat",
+        "Supported devices": "N/A",
+        "Security patch level": "2017-10-01"
+    },
+    {
+        "Build": "5650809",
+        "Tag": "android-7.1.1_r59",
+        "Version": "Nougat",
+        "Supported devices": "N/A",
+        "Security patch level": "2017-10-01"
+    },
+    {
+        "Build": "N9F27M",
+        "Tag": "android-7.1.1_r58",
+        "Version": "Nougat",
+        "Supported devices": "Nexus 9 (volantis)",
+        "Security patch level": "2017-10-05"
+    },
+    {
+        "Build": "NGI77B",
+        "Tag": "android-7.1.1_r57",
+        "Version": "Nougat",
+        "Supported devices": "Nexus 6",
+        "Security patch level": "2017-10-05"
+    },
+    {
+        "Build": "N8I11F",
+        "Tag": "android-7.1.1_r56",
+        "Version": "Nougat",
+        "Supported devices": "Nexus 6",
+        "Security patch level": "2017-10-05"
+    },
+    {
+        "Build": "N6F27M",
+        "Tag": "android-7.1.1_r55",
+        "Version": "Nougat",
+        "Supported devices": "Nexus 6",
+        "Security patch level": "2017-10-05"
+    },
+    {
+        "Build": "N4F27P",
+        "Tag": "android-7.1.1_r54",
+        "Version": "Nougat",
+        "Supported devices": "Nexus 9 (volantisg)",
+        "Security patch level": "2017-10-05"
+    },
+    {
+        "Build": "N9F27L",
+        "Tag": "android-7.1.1_r53",
+        "Version": "Nougat",
+        "Supported devices": "Nexus 9",
+        "Security patch level": "2017-09-05"
+    },
+    {
+        "Build": "NGI55D",
+        "Tag": "android-7.1.1_r52",
+        "Version": "Nougat",
+        "Supported devices": "Nexus 6",
+        "Security patch level": "2017-09-05"
+    },
+    {
+        "Build": "N4F27O",
+        "Tag": "android-7.1.1_r51",
+        "Version": "Nougat",
+        "Supported devices": "Nexus 9 (volantisg)",
+        "Security patch level": "2017-09-05"
+    },
+    {
+        "Build": "N8I11B",
+        "Tag": "android-7.1.1_r50",
+        "Version": "Nougat",
+        "Supported devices": "Nexus 6",
+        "Security patch level": "2017-08-05"
+    },
+    {
+        "Build": "N9F27H",
+        "Tag": "android-7.1.1_r49",
+        "Version": "Nougat",
+        "Supported devices": "Nexus 9 (volantis)",
+        "Security patch level": "2017-08-05"
+    },
+    {
+        "Build": "N6F27I",
+        "Tag": "android-7.1.1_r48",
+        "Version": "Nougat",
+        "Supported devices": "Nexus 6",
+        "Security patch level": "2017-08-05"
+    },
+    {
+        "Build": "N4F27K",
+        "Tag": "android-7.1.1_r47",
+        "Version": "Nougat",
+        "Supported devices": "Nexus 9 (volantisg)",
+        "Security patch level": "2017-08-05"
+    },
+    {
+        "Build": "N9F27F",
+        "Tag": "android-7.1.1_r46",
+        "Version": "Nougat",
+        "Supported devices": "Nexus 9 (volantis)",
+        "Security patch level": "2017-07-05"
+    },
+    {
+        "Build": "N6F27H",
+        "Tag": "android-7.1.1_r45",
+        "Version": "Nougat",
+        "Supported devices": "Nexus 6",
+        "Security patch level": "2017-07-05"
+    },
+    {
+        "Build": "N4F27I",
+        "Tag": "android-7.1.1_r44",
+        "Version": "Nougat",
+        "Supported devices": "Nexus 9 (volantisg)",
+        "Security patch level": "2017-07-05"
+    },
+    {
+        "Build": "N9F27C",
+        "Tag": "android-7.1.1_r43",
+        "Version": "Nougat",
+        "Supported devices": "Nexus 9 (volantis)",
+        "Security patch level": "2017-06-05"
+    },
+    {
+        "Build": "N6F27E",
+        "Tag": "android-7.1.1_r42",
+        "Version": "Nougat",
+        "Supported devices": "Nexus 6",
+        "Security patch level": "2017-06-05"
+    },
+    {
+        "Build": "N4F27E",
+        "Tag": "android-7.1.1_r41",
+        "Version": "Nougat",
+        "Supported devices": "Nexus 9 (volantisg)",
+        "Security patch level": "2017-06-05"
+    },
+    {
+        "Build": "N6F27C",
+        "Tag": "android-7.1.1_r40",
+        "Version": "Nougat",
+        "Supported devices": "Nexus 6",
+        "Security patch level": "2017-05-05"
+    },
+    {
+        "Build": "N4F27B",
+        "Tag": "android-7.1.1_r39",
+        "Version": "Nougat",
+        "Supported devices": "Nexus 9 (volantis/volantisg)",
+        "Security patch level": "2017-05-05"
+    },
+    {
+        "Build": "N6F26Y",
+        "Tag": "android-7.1.1_r38",
+        "Version": "Nougat",
+        "Supported devices": "Nexus 6",
+        "Security patch level": "2017-04-01"
+    },
+    {
+        "Build": "NOF27D",
+        "Tag": "android-7.1.1_r35",
+        "Version": "Nougat",
+        "Supported devices": "Pixel XL, Pixel",
+        "Security patch level": "2017-04-01"
+    },
+    {
+        "Build": "N4F26X",
+        "Tag": "android-7.1.1_r33",
+        "Version": "Nougat",
+        "Supported devices": "Nexus 9 (volantis/volantisg)",
+        "Security patch level": "2017-04-01"
+    },
+    {
+        "Build": "N4F26U",
+        "Tag": "android-7.1.1_r31",
+        "Version": "Nougat",
+        "Supported devices": "Nexus 5X, Nexus 6P",
+        "Security patch level": "2017-04-01"
+    },
+    {
+        "Build": "N6F26U",
+        "Tag": "android-7.1.1_r28",
+        "Version": "Nougat",
+        "Supported devices": "Nexus 6",
+        "Security patch level": "2017-03-05"
+    },
+    {
+        "Build": "NUF26N",
+        "Tag": "android-7.1.1_r27",
+        "Version": "Nougat",
+        "Supported devices": "Nexus 6P",
+        "Security patch level": "2017-03-05"
+    },
+    {
+        "Build": "NOF27C",
+        "Tag": "android-7.1.1_r26",
+        "Version": "Nougat",
+        "Supported devices": "Pixel XL, Pixel",
+        "Security patch level": "2017-03-05"
+    },
+    {
+        "Build": "NOF27B",
+        "Tag": "android-7.1.1_r25",
+        "Version": "Nougat",
+        "Supported devices": "Pixel XL, Pixel",
+        "Security patch level": "2017-03-05"
+    },
+    {
+        "Build": "N4F26T",
+        "Tag": "android-7.1.1_r24",
+        "Version": "Nougat",
+        "Supported devices": "Nexus 5X, Nexus 6P, Nexus 9 (volantis/volantisg), Pixel C",
+        "Security patch level": "2017-03-05"
+    },
+    {
+        "Build": "NMF27D",
+        "Tag": "android-7.1.1_r23",
+        "Version": "Nougat",
+        "Supported devices": "Nexus Player",
+        "Security patch level": "2017-03-05"
+    },
+    {
+        "Build": "NMF26X",
+        "Tag": "android-7.1.1_r22",
+        "Version": "Nougat",
+        "Supported devices": "Nexus Player",
+        "Security patch level": "2017-02-05"
+    },
+    {
+        "Build": "NOF26W",
+        "Tag": "android-7.1.1_r21",
+        "Version": "Nougat",
+        "Supported devices": "Pixel XL, Pixel",
+        "Security patch level": "2017-02-05"
+    },
+    {
+        "Build": "NOF26V",
+        "Tag": "android-7.1.1_r20",
+        "Version": "Nougat",
+        "Supported devices": "Pixel XL, Pixel",
+        "Security patch level": "2017-02-05"
+    },
+    {
+        "Build": "N6F26R",
+        "Tag": "android-7.1.1_r17",
+        "Version": "Nougat",
+        "Supported devices": "Nexus 6",
+        "Security patch level": "2017-02-05"
+    },
+    {
+        "Build": "NUF26K",
+        "Tag": "android-7.1.1_r16",
+        "Version": "Nougat",
+        "Supported devices": "Nexus 6P",
+        "Security patch level": "2017-02-05"
+    },
+    {
+        "Build": "N4F26Q",
+        "Tag": "android-7.1.1_r15",
+        "Version": "Nougat",
+        "Supported devices": "Nexus 9 (volantis/volantisg)",
+        "Security patch level": "2017-02-05"
+    },
+    {
+        "Build": "N4F26O",
+        "Tag": "android-7.1.1_r14",
+        "Version": "Nougat",
+        "Supported devices": "Nexus 5X, Nexus 6P, Pixel C",
+        "Security patch level": "2017-02-05"
+    },
+    {
+        "Build": "N6F26Q",
+        "Tag": "android-7.1.1_r13",
+        "Version": "Nougat",
+        "Supported devices": "Nexus 6",
+        "Security patch level": "2017-01-05"
+    },
+    {
+        "Build": "N4F26M",
+        "Tag": "android-7.1.1_r12",
+        "Version": "Nougat",
+        "Supported devices": "Nexus 9 (volantis)",
+        "Security patch level": "2017-01-01"
+    },
+    {
+        "Build": "N4F26J",
+        "Tag": "android-7.1.1_r11",
+        "Version": "Nougat",
+        "Supported devices": "Nexus 5X, Nexus 6P",
+        "Security patch level": "2017-01-05"
+    },
+    {
+        "Build": "N4F26I",
+        "Tag": "android-7.1.1_r10",
+        "Version": "Nougat",
+        "Supported devices": "Nexus 5X, Nexus 6P, Pixel C",
+        "Security patch level": "2017-01-05"
+    },
+    {
+        "Build": "NMF26V",
+        "Tag": "android-7.1.1_r9",
+        "Version": "Nougat",
+        "Supported devices": "Pixel XL, Pixel",
+        "Security patch level": "2017-01-05"
+    },
+    {
+        "Build": "NMF26U",
+        "Tag": "android-7.1.1_r8",
+        "Version": "Nougat",
+        "Supported devices": "Pixel XL, Pixel",
+        "Security patch level": "2017-01-05"
+    },
+    {
+        "Build": "NMF26R",
+        "Tag": "android-7.1.1_r7",
+        "Version": "Nougat",
+        "Supported devices": "Nexus Player",
+        "Security patch level": "2017-01-05"
+    },
+    {
+        "Build": "NMF26Q",
+        "Tag": "android-7.1.1_r6",
+        "Version": "Nougat",
+        "Supported devices": "Pixel XL, Pixel",
+        "Security patch level": "2016-12-05"
+    },
+    {
+        "Build": "NMF26O",
+        "Tag": "android-7.1.1_r4",
+        "Version": "Nougat",
+        "Supported devices": "Pixel XL, Pixel",
+        "Security patch level": "2016-12-05"
+    },
+    {
+        "Build": "NMF26J",
+        "Tag": "android-7.1.1_r3",
+        "Version": "Nougat",
+        "Supported devices": "Nexus Player",
+        "Security patch level": "2016-12-05"
+    },
+    {
+        "Build": "NMF26H",
+        "Tag": "android-7.1.1_r2",
+        "Version": "Nougat",
+        "Supported devices": "Pixel C",
+        "Security patch level": "2016-12-05"
+    },
+    {
+        "Build": "NMF26F",
+        "Tag": "android-7.1.1_r1",
+        "Version": "Nougat",
+        "Supported devices": "Nexus 5X, Nexus 6P, Nexus 9 (volantis/volantisg)",
+        "Security patch level": "2016-12-05"
+    },
+    {
+        "Build": "NDE63X",
+        "Tag": "android-7.1.0_r7",
+        "Version": "Nougat",
+        "Supported devices": "Pixel XL, Pixel",
+        "Security patch level": "2016-11-05"
+    },
+    {
+        "Build": "NDE63V",
+        "Tag": "android-7.1.0_r6",
+        "Version": "Nougat",
+        "Supported devices": "Pixel XL, Pixel",
+        "Security patch level": "2016-11-05"
+    },
+    {
+        "Build": "NDE63U",
+        "Tag": "android-7.1.0_r5",
+        "Version": "Nougat",
+        "Supported devices": "Pixel XL, Pixel",
+        "Security patch level": "2016-11-05"
+    },
+    {
+        "Build": "NDE63P",
+        "Tag": "android-7.1.0_r4",
+        "Version": "Nougat",
+        "Supported devices": "Pixel XL, Pixel",
+        "Security patch level": "2016-10-05"
+    },
+    {
+        "Build": "NDE63L",
+        "Tag": "android-7.1.0_r2",
+        "Version": "Nougat",
+        "Supported devices": "Pixel XL, Pixel",
+        "Security patch level": "2016-10-05"
+    },
+    {
+        "Build": "NDE63H",
+        "Tag": "android-7.1.0_r1",
+        "Version": "Nougat",
+        "Supported devices": "Pixel XL, Pixel",
+        "Security patch level": "2016-10-05"
+    },
+    {
+        "Build": "NBD92Y",
+        "Tag": "android-7.0.0_r36",
+        "Version": "Nougat",
+        "Supported devices": "N/A",
+        "Security patch level": "2019-03-01"
+    },
+    {
+        "Build": "NBD92Q",
+        "Tag": "android-7.0.0_r35",
+        "Version": "Nougat",
+        "Supported devices": "N/A",
+        "Security patch level": "2017-11-01"
+    },
+    {
+        "Build": "NBD92N",
+        "Tag": "android-7.0.0_r34",
+        "Version": "Nougat",
+        "Supported devices": "N/A",
+        "Security patch level": "2017-10-01"
+    },
+    {
+        "Build": "NBD92G",
+        "Tag": "android-7.0.0_r33",
+        "Version": "Nougat",
+        "Supported devices": "Nexus 6",
+        "Security patch level": "2017-04-01"
+    },
+    {
+        "Build": "NBD92F",
+        "Tag": "android-7.0.0_r32",
+        "Version": "Nougat",
+        "Supported devices": "Nexus 6",
+        "Security patch level": "2017-04-01"
+    },
+    {
+        "Build": "NBD92E",
+        "Tag": "android-7.0.0_r31",
+        "Version": "Nougat",
+        "Supported devices": "Nexus 6",
+        "Security patch level": "2017-03-05"
+    },
+    {
+        "Build": "NBD92D",
+        "Tag": "android-7.0.0_r30",
+        "Version": "Nougat",
+        "Supported devices": "Nexus 6",
+        "Security patch level": "2017-03-05"
+    },
+    {
+        "Build": "NBD91Z",
+        "Tag": "android-7.0.0_r29",
+        "Version": "Nougat",
+        "Supported devices": "Nexus 6",
+        "Security patch level": "2017-02-05"
+    },
+    {
+        "Build": "NBD91Y",
+        "Tag": "android-7.0.0_r28",
+        "Version": "Nougat",
+        "Supported devices": "Nexus 6",
+        "Security patch level": "2017-02-05"
+    },
+    {
+        "Build": "NBD91X",
+        "Tag": "android-7.0.0_r27",
+        "Version": "Nougat",
+        "Supported devices": "Nexus 6",
+        "Security patch level": "2017-01-05"
+    },
+    {
+        "Build": "NBD91U",
+        "Tag": "android-7.0.0_r24",
+        "Version": "Nougat",
+        "Supported devices": "Nexus 6",
+        "Security patch level": "2016-12-05"
+    },
+    {
+        "Build": "N5D91L",
+        "Tag": "android-7.0.0_r21",
+        "Version": "Nougat",
+        "Supported devices": "Nexus 5X",
+        "Security patch level": "2016-11-05"
+    },
+    {
+        "Build": "NBD91P",
+        "Tag": "android-7.0.0_r19",
+        "Version": "Nougat",
+        "Supported devices": "Nexus 6",
+        "Security patch level": "2016-11-05"
+    },
+    {
+        "Build": "NRD91K",
+        "Tag": "android-7.0.0_r17",
+        "Version": "Nougat",
+        "Supported devices": "Nexus 6P",
+        "Security patch level": "2016-11-05"
+    },
+    {
+        "Build": "NRD91N",
+        "Tag": "android-7.0.0_r15",
+        "Version": "Nougat",
+        "Supported devices": "Nexus 5X, Pixel C, Nexus Player, Nexus 9 (volantis/volantisg)",
+        "Security patch level": "2016-11-05"
+    },
+    {
+        "Build": "NBD90Z",
+        "Tag": "android-7.0.0_r14",
+        "Version": "Nougat",
+        "Supported devices": "Nexus 6",
+        "Security patch level": "2016-10-05"
+    },
+    {
+        "Build": "NBD90X",
+        "Tag": "android-7.0.0_r13",
+        "Version": "Nougat",
+        "Supported devices": "Nexus 6P",
+        "Security patch level": "2016-10-05"
+    },
+    {
+        "Build": "NBD90W",
+        "Tag": "android-7.0.0_r12",
+        "Version": "Nougat",
+        "Supported devices": "Nexus 5X",
+        "Security patch level": "2016-10-05"
+    },
+    {
+        "Build": "NRD91D",
+        "Tag": "android-7.0.0_r7",
+        "Version": "Nougat",
+        "Supported devices": "Pixel C, Nexus Player, Nexus 9 (Wi-Fi)",
+        "Security patch level": "2016-10-05"
+    },
+    {
+        "Build": "NRD90U",
+        "Tag": "android-7.0.0_r6",
+        "Version": "Nougat",
+        "Supported devices": "Nexus 6P",
+        "Security patch level": "2016-09-06"
+    },
+    {
+        "Build": "NRD90T",
+        "Tag": "android-7.0.0_r5",
+        "Version": "Nougat",
+        "Supported devices": "Nexus 6P",
+        "Security patch level": "2016-09-06"
+    },
+    {
+        "Build": "NRD90S",
+        "Tag": "android-7.0.0_r4",
+        "Version": "Nougat",
+        "Supported devices": "Nexus 5X",
+        "Security patch level": "2016-09-06"
+    },
+    {
+        "Build": "NRD90R",
+        "Tag": "android-7.0.0_r3",
+        "Version": "Nougat",
+        "Supported devices": "Nexus 5X, Nexus 9 (volantis), Nexus Player, Pixel C",
+        "Security patch level": "2016-09-06"
+    },
+    {
+        "Build": "NRD90M",
+        "Tag": "android-7.0.0_r1",
+        "Version": "Nougat",
+        "Supported devices": "Nexus 5X, Nexus 9 (volantis), Nexus Player, Pixel C",
+        "Security patch level": "2016-08-05"
+    },
+    {
+        "Build": "MOI10E",
+        "Tag": "android-6.0.1_r81",
+        "Version": "Marshmallow",
+        "Supported devices": "N/A",
+        "Security patch level": "2017-10-01"
+    },
+    {
+        "Build": "MOB31Z",
+        "Tag": "android-6.0.1_r80",
+        "Version": "Marshmallow",
+        "Supported devices": "N/A",
+        "Security patch level": "2017-07-01"
+    },
+    {
+        "Build": "MOB31T",
+        "Tag": "android-6.0.1_r79",
+        "Version": "Marshmallow",
+        "Supported devices": "Nexus 6",
+        "Security patch level": "2017-02-01"
+    },
+    {
+        "Build": "MOB31S",
+        "Tag": "android-6.0.1_r78",
+        "Version": "Marshmallow",
+        "Supported devices": "Nexus 6",
+        "Security patch level": "2017-01-05"
+    },
+    {
+        "Build": "M4B30Z",
+        "Tag": "android-6.0.1_r77",
+        "Version": "Marshmallow",
+        "Supported devices": "Nexus 5",
+        "Security patch level": "2016-10-05"
+    },
+    {
+        "Build": "MOB31K",
+        "Tag": "android-6.0.1_r74",
+        "Version": "Marshmallow",
+        "Supported devices": "Nexus 6",
+        "Security patch level": "2016-11-05"
+    },
+    {
+        "Build": "MMB31C",
+        "Tag": "android-6.0.1_r73",
+        "Version": "Marshmallow",
+        "Supported devices": "Nexus 6",
+        "Security patch level": "2016-11-05"
+    },
+    {
+        "Build": "M4B30X",
+        "Tag": "android-6.0.1_r72",
+        "Version": "Marshmallow",
+        "Supported devices": "Nexus 5",
+        "Security patch level": "2016-10-05"
+    },
+    {
+        "Build": "MOB31H",
+        "Tag": "android-6.0.1_r70",
+        "Version": "Marshmallow",
+        "Supported devices": "Nexus 6",
+        "Security patch level": "2016-10-05"
+    },
+    {
+        "Build": "MMB30Y",
+        "Tag": "android-6.0.1_r69",
+        "Version": "Marshmallow",
+        "Supported devices": "Nexus 6",
+        "Security patch level": "2016-10-05"
+    },
+    {
+        "Build": "MTC20K",
+        "Tag": "android-6.0.1_r67",
+        "Version": "Marshmallow",
+        "Supported devices": "Nexus 5X",
+        "Security patch level": "2016-09-06"
+    },
+    {
+        "Build": "MOB31E",
+        "Tag": "android-6.0.1_r66",
+        "Version": "Marshmallow",
+        "Supported devices": "Nexus 5, Nexus 6, Nexus 9 (volantis)",
+        "Security patch level": "2016-09-06"
+    },
+    {
+        "Build": "MMB30W",
+        "Tag": "android-6.0.1_r65",
+        "Version": "Marshmallow",
+        "Supported devices": "Nexus 6",
+        "Security patch level": "2016-09-06"
+    },
+    {
+        "Build": "MXC89L",
+        "Tag": "android-6.0.1_r63",
+        "Version": "Marshmallow",
+        "Supported devices": "Pixel C",
+        "Security patch level": "2016-08-05"
+    },
+    {
+        "Build": "MTC20F",
+        "Tag": "android-6.0.1_r62",
+        "Version": "Marshmallow",
+        "Supported devices": "Nexus 5X, Nexus 6P",
+        "Security patch level": "2016-08-05"
+    },
+    {
+        "Build": "MOB30Y",
+        "Tag": "android-6.0.1_r60",
+        "Version": "Marshmallow",
+        "Supported devices": "Nexus 5",
+        "Security patch level": "2016-08-05"
+    },
+    {
+        "Build": "MOB30X",
+        "Tag": "android-6.0.1_r59",
+        "Version": "Marshmallow",
+        "Supported devices": "Nexus 7 (flo/deb)",
+        "Security patch level": "2016-08-05"
+    },
+    {
+        "Build": "MOB30W",
+        "Tag": "android-6.0.1_r58",
+        "Version": "Marshmallow",
+        "Supported devices": "Nexus 6, Nexus 9 (volantis/volantisg), Nexus Player",
+        "Security patch level": "2016-08-05"
+    },
+    {
+        "Build": "MMB30S",
+        "Tag": "android-6.0.1_r57",
+        "Version": "Marshmallow",
+        "Supported devices": "Nexus 7 (deb)",
+        "Security patch level": "2016-08-05"
+    },
+    {
+        "Build": "MMB30R",
+        "Tag": "android-6.0.1_r56",
+        "Version": "Marshmallow",
+        "Supported devices": "Nexus 6",
+        "Security patch level": "2016-08-05"
+    },
+    {
+        "Build": "MXC89K",
+        "Tag": "android-6.0.1_r55",
+        "Version": "Marshmallow",
+        "Supported devices": "Pixel C",
+        "Security patch level": "2016-07-05"
+    },
+    {
+        "Build": "MTC19Z",
+        "Tag": "android-6.0.1_r54",
+        "Version": "Marshmallow",
+        "Supported devices": "Nexus 5X",
+        "Security patch level": "2016-07-05"
+    },
+    {
+        "Build": "MTC19X",
+        "Tag": "android-6.0.1_r53",
+        "Version": "Marshmallow",
+        "Supported devices": "Nexus 6P",
+        "Security patch level": "2016-07-05"
+    },
+    {
+        "Build": "MOB30P",
+        "Tag": "android-6.0.1_r50",
+        "Version": "Marshmallow",
+        "Supported devices": "Nexus 5, Nexus 7 (flo/deb), Nexus 9 (volantis/volantisg), Nexus Player",
+        "Security patch level": "2016-07-05"
+    },
+    {
+        "Build": "MOB30O",
+        "Tag": "android-6.0.1_r49",
+        "Version": "Marshmallow",
+        "Supported devices": "Nexus 6",
+        "Security patch level": "2016-07-05"
+    },
+    {
+        "Build": "MMB30M",
+        "Tag": "android-6.0.1_r48",
+        "Version": "Marshmallow",
+        "Supported devices": "Nexus 7 (deb)",
+        "Security patch level": "2016-07-05"
+    },
+    {
+        "Build": "MMB30K",
+        "Tag": "android-6.0.1_r47",
+        "Version": "Marshmallow",
+        "Supported devices": "Nexus 6",
+        "Security patch level": "2016-07-05"
+    },
+    {
+        "Build": "MOB30M",
+        "Tag": "android-6.0.1_r46",
+        "Version": "Marshmallow",
+        "Supported devices": "Nexus 5, Nexus 6, Nexus 7 (flo/deb), Nexus 9 (volantis/volantisg), Nexus Player",
+        "Security patch level": "2016-06-01"
+    },
+    {
+        "Build": "MTC19V",
+        "Tag": "android-6.0.1_r45",
+        "Version": "Marshmallow",
+        "Supported devices": "Nexus 5X, Nexus 6P",
+        "Security patch level": "2016-06-01"
+    },
+    {
+        "Build": "MOB30J",
+        "Tag": "android-6.0.1_r43",
+        "Version": "Marshmallow",
+        "Supported devices": "Nexus 7 (flo/deb)",
+        "Security patch level": "2016-05-01"
+    },
+    {
+        "Build": "MOB30I",
+        "Tag": "android-6.0.1_r42",
+        "Version": "Marshmallow",
+        "Supported devices": "Nexus 6",
+        "Security patch level": "2016-05-01"
+    },
+    {
+        "Build": "MOB30H",
+        "Tag": "android-6.0.1_r41",
+        "Version": "Marshmallow",
+        "Supported devices": "Nexus 5",
+        "Security patch level": "2016-05-01"
+    },
+    {
+        "Build": "MOB30G",
+        "Tag": "android-6.0.1_r40",
+        "Version": "Marshmallow",
+        "Supported devices": "Nexus 9 (volantis/volantisg), Nexus Player",
+        "Security patch level": "2016-05-01"
+    },
+    {
+        "Build": "MXC89H",
+        "Tag": "android-6.0.1_r33",
+        "Version": "Marshmallow",
+        "Supported devices": "Pixel C",
+        "Security patch level": "2016-06-01"
+    },
+    {
+        "Build": "MXC89F",
+        "Tag": "android-6.0.1_r32",
+        "Version": "Marshmallow",
+        "Supported devices": "Pixel C",
+        "Security patch level": "2016-05-01"
+    },
+    {
+        "Build": "MMB30J",
+        "Tag": "android-6.0.1_r28",
+        "Version": "Marshmallow",
+        "Supported devices": "Nexus 6, Nexus 7 (deb)",
+        "Security patch level": "2016-06-01"
+    },
+    {
+        "Build": "MTC19T",
+        "Tag": "android-6.0.1_r25",
+        "Version": "Marshmallow",
+        "Supported devices": "Nexus 5X, Nexus 6P",
+        "Security patch level": "2016-05-01"
+    },
+    {
+        "Build": "M5C14J",
+        "Tag": "android-6.0.1_r31",
+        "Version": "Marshmallow",
+        "Supported devices": "Pixel C",
+        "Security patch level": "2016-04-01"
+    },
+    {
+        "Build": "MOB30D",
+        "Tag": "android-6.0.1_r30",
+        "Version": "Marshmallow",
+        "Supported devices": "Nexus 5, Nexus 6, Nexus 7 (flo/deb), Nexus 9 (volantis/volantisg), Nexus Player",
+        "Security patch level": "2016-04-02"
+    },
+    {
+        "Build": "MHC19Q",
+        "Tag": "android-6.0.1_r24",
+        "Version": "Marshmallow",
+        "Supported devices": "Nexus 5X, Nexus 6P",
+        "Security patch level": "2016-04-02"
+    },
+    {
+        "Build": "MHC19J",
+        "Tag": "android-6.0.1_r22",
+        "Version": "Marshmallow",
+        "Supported devices": "Nexus 5X",
+        "Security patch level": "2016-03-01"
+    },
+    {
+        "Build": "MHC19I",
+        "Tag": "android-6.0.1_r21",
+        "Version": "Marshmallow",
+        "Supported devices": "Nexus 6P",
+        "Security patch level": "2016-03-01"
+    },
+    {
+        "Build": "MMB29X",
+        "Tag": "android-6.0.1_r20",
+        "Version": "Marshmallow",
+        "Supported devices": "Nexus 5, Nexus 6, Nexus 7 (deb), Nexus 9 (volantisg)",
+        "Security patch level": "2016-04-02"
+    },
+    {
+        "Build": "MXC14G",
+        "Tag": "android-6.0.1_r18",
+        "Version": "Marshmallow",
+        "Supported devices": "Pixel C",
+        "Security patch level": "2016-03-01"
+    },
+    {
+        "Build": "MMB29V",
+        "Tag": "android-6.0.1_r17",
+        "Version": "Marshmallow",
+        "Supported devices": "Nexus 5, Nexus 5X, Nexus 6, Nexus 6P, Nexus 7 (flo/deb), Nexus 9 (volantis/volantisg)",
+        "Security patch level": "2016-03-01"
+    },
+    {
+        "Build": "MXB48T",
+        "Tag": "android-6.0.1_r16",
+        "Version": "Marshmallow",
+        "Supported devices": "Pixel C",
+        "Security patch level": "2016-02-01"
+    },
+    {
+        "Build": "MMB29U",
+        "Tag": "android-6.0.1_r13",
+        "Version": "Marshmallow",
+        "Supported devices": "Nexus Player",
+        "Security patch level": "2016-02-01"
+    },
+    {
+        "Build": "MMB29R",
+        "Tag": "android-6.0.1_r12",
+        "Version": "Marshmallow",
+        "Supported devices": "Nexus 9 (volantis/volantisg)",
+        "Security patch level": "2016-02-01"
+    },
+    {
+        "Build": "MMB29Q",
+        "Tag": "android-6.0.1_r11",
+        "Version": "Marshmallow",
+        "Supported devices": "Nexus 5, Nexus 5X, Nexus 6, Nexus 6P, Nexus 7 (flo/deb)",
+        "Security patch level": "2016-02-01"
+    },
+    {
+        "Build": "MMB29T",
+        "Tag": "android-6.0.1_r10",
+        "Version": "Marshmallow",
+        "Supported devices": "Nexus Player",
+        "Security patch level": "2016-01-01"
+    },
+    {
+        "Build": "MMB29S",
+        "Tag": "android-6.0.1_r9",
+        "Version": "Marshmallow",
+        "Supported devices": "Nexus 5, Nexus 6, Nexus 9 (volantis/volantisg)",
+        "Security patch level": "2016-01-01"
+    },
+    {
+        "Build": "MMB29P",
+        "Tag": "android-6.0.1_r8",
+        "Version": "Marshmallow",
+        "Supported devices": "Nexus 5X, Nexus 6P",
+        "Security patch level": "2016-01-01"
+    },
+    {
+        "Build": "MMB29O",
+        "Tag": "android-6.0.1_r7",
+        "Version": "Marshmallow",
+        "Supported devices": "Nexus 7 (flo/deb)",
+        "Security patch level": "2016-01-01"
+    },
+    {
+        "Build": "MXB48K",
+        "Tag": "android-6.0.1_r5",
+        "Version": "Marshmallow",
+        "Supported devices": "Pixel C",
+        "Security patch level": "2015-12-01"
+    },
+    {
+        "Build": "MXB48J",
+        "Tag": "android-6.0.1_r4",
+        "Version": "Marshmallow",
+        "Supported devices": "Pixel C",
+        "Security patch level": "2015-12-01"
+    },
+    {
+        "Build": "MMB29M",
+        "Tag": "android-6.0.1_r3",
+        "Version": "Marshmallow",
+        "Supported devices": "Nexus 6P, Nexus Player",
+        "Security patch level": "2015-12-01"
+    },
+    {
+        "Build": "MMB29K",
+        "Tag": "android-6.0.1_r1",
+        "Version": "Marshmallow",
+        "Supported devices": "Nexus 5, Nexus 5X, Nexus 6, Nexus 7 (flo/deb), Nexus 9 (volantis/volantisg)",
+        "Security patch level": "2015-12-01"
+    },
+    {
+        "Build": "MMB29N",
+        "Tag": "android-6.0.0_r41",
+        "Version": "Marshmallow",
+        "Supported devices": "Nexus 6P",
+        "Security patch level": "2015-11-01"
+    },
+    {
+        "Build": "MDB08M",
+        "Tag": "android-6.0.0_r26",
+        "Version": "Marshmallow",
+        "Supported devices": "Nexus 5X, Nexus 6P",
+        "Security patch level": "2015-11-01"
+    },
+    {
+        "Build": "MDB08L",
+        "Tag": "android-6.0.0_r25",
+        "Version": "Marshmallow",
+        "Supported devices": "Nexus 5X, Nexus 6P",
+        "Security patch level": "2015-11-01"
+    },
+    {
+        "Build": "MDB08K",
+        "Tag": "android-6.0.0_r24",
+        "Version": "Marshmallow",
+        "Supported devices": "Nexus 6P",
+        "Security patch level": "2015-10-01"
+    },
+    {
+        "Build": "MDB08I",
+        "Tag": "android-6.0.0_r23",
+        "Version": "Marshmallow",
+        "Supported devices": "Nexus 5X",
+        "Security patch level": "2015-10-01"
+    },
+    {
+        "Build": "MDA89E",
+        "Tag": "android-6.0.0_r12",
+        "Version": "Marshmallow",
+        "Supported devices": "Nexus 5X",
+        "Security patch level": "2015-10-01"
+    },
+    {
+        "Build": "MDA89D",
+        "Tag": "android-6.0.0_r11",
+        "Version": "Marshmallow",
+        "Supported devices": "Nexus 6P",
+        "Security patch level": "2015-10-01"
+    },
+    {
+        "Build": "MRA59B",
+        "Tag": "android-6.0.0_r7",
+        "Version": "Marshmallow",
+        "Supported devices": "Nexus 7 (deb)",
+        "Security patch level": "2015-12-01"
+    },
+    {
+        "Build": "MRA58X",
+        "Tag": "android-6.0.0_r6",
+        "Version": "Marshmallow",
+        "Supported devices": "Nexus 6",
+        "Security patch level": "2015-11-01"
+    },
+    {
+        "Build": "MRA58V",
+        "Tag": "android-6.0.0_r5",
+        "Version": "Marshmallow",
+        "Supported devices": "Nexus 7 (flo/deb)",
+        "Security patch level": "2015-11-01"
+    },
+    {
+        "Build": "MRA58U",
+        "Tag": "android-6.0.0_r4",
+        "Version": "Marshmallow",
+        "Supported devices": "Nexus 7 (flo)",
+        "Security patch level": "2015-10-01"
+    },
+    {
+        "Build": "MRA58N",
+        "Tag": "android-6.0.0_r2",
+        "Version": "Marshmallow",
+        "Supported devices": "Nexus 5, Nexus 6, Nexus 7 (flo/deb), Nexus 9 (volantis/volantisg), Nexus Player",
+        "Security patch level": "2015-11-01"
+    },
+    {
+        "Build": "MRA58K",
+        "Tag": "android-6.0.0_r1",
+        "Version": "Marshmallow",
+        "Supported devices": "Nexus 5, Nexus 6, Nexus 7 (flo/deb), Nexus 9 (volantis/volantisg), Nexus Player",
+        "Security patch level": "2015-10-01"
+    },
+    {
+        "Build": "LMY49M",
+        "Tag": "android-5.1.1_r38",
+        "Version": "Lollipop",
+        "Supported devices": "Nexus 10",
+        "Security patch level": "2016-07-05"
+    },
+    {
+        "Build": "LMY49J",
+        "Tag": "android-5.1.1_r37",
+        "Version": "Lollipop",
+        "Supported devices": "Nexus 10",
+        "Security patch level": "2016-04-01"
+    },
+    {
+        "Build": "LMY49I",
+        "Tag": "android-5.1.1_r36",
+        "Version": "Lollipop",
+        "Supported devices": "Nexus 10",
+        "Security patch level": "2016-03-01"
+    },
+    {
+        "Build": "LMY49H",
+        "Tag": "android-5.1.1_r35",
+        "Version": "Lollipop",
+        "Supported devices": "Nexus 10",
+        "Security patch level": "2016-03-01"
+    },
+    {
+        "Build": "LMY49G",
+        "Tag": "android-5.1.1_r34",
+        "Version": "Lollipop",
+        "Supported devices": "Nexus 10",
+        "Security patch level": "2016-02-01"
+    },
+    {
+        "Build": "LMY49F",
+        "Tag": "android-5.1.1_r33",
+        "Version": "Lollipop",
+        "Supported devices": "Nexus 9 (volantisg), Nexus 10",
+        "Security patch level": "2016-01-01"
+    },
+    {
+        "Build": "LMY48Z",
+        "Tag": "android-5.1.1_r30",
+        "Version": "Lollipop",
+        "Supported devices": "Nexus 6, Nexus 7 (deb), Nexus 9 (volantisg), Nexus 10",
+        "Security patch level": "2015-12-01"
+    },
+    {
+        "Build": "LYZ28N",
+        "Tag": "android-5.1.1_r28",
+        "Version": "Lollipop",
+        "Supported devices": "Nexus 6 (for T-Mobile ONLY)",
+        "Security patch level": "2015-11-01"
+    },
+    {
+        "Build": "LMY48Y",
+        "Tag": "android-5.1.1_r26",
+        "Version": "Lollipop",
+        "Supported devices": "Nexus 6",
+        "Security patch level": "2015-11-01"
+    },
+    {
+        "Build": "LMY48X",
+        "Tag": "android-5.1.1_r25",
+        "Version": "Lollipop",
+        "Supported devices": "Nexus 6, Nexus 7 (deb), Nexus 9 (volantisg), Nexus 10",
+        "Security patch level": "2015-11-01"
+    },
+    {
+        "Build": "LMY48W",
+        "Tag": "android-5.1.1_r24",
+        "Version": "Lollipop",
+        "Supported devices": "Nexus 6",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "LVY48H",
+        "Tag": "android-5.1.1_r23",
+        "Version": "Lollipop",
+        "Supported devices": "Nexus 6 (for Google Fi ONLY)",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "LYZ28M",
+        "Tag": "android-5.1.1_r22",
+        "Version": "Lollipop",
+        "Supported devices": "Nexus 6 (for T-Mobile ONLY)",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "LMY48U",
+        "Tag": "android-5.1.1_r20",
+        "Version": "Lollipop",
+        "Supported devices": "Nexus 7 (deb)",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "LMY48T",
+        "Tag": "android-5.1.1_r19",
+        "Version": "Lollipop",
+        "Supported devices": "Nexus 4, Nexus 6, Nexus 9 (volantis/volantisg), Nexus 10",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "LVY48F",
+        "Tag": "android-5.1.1_r18",
+        "Version": "Lollipop",
+        "Supported devices": "Nexus 6 (for Google Fi ONLY)",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "LYZ28K",
+        "Tag": "android-5.1.1_r17",
+        "Version": "Lollipop",
+        "Supported devices": "Nexus 6 (for T-Mobile ONLY)",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "LMY48P",
+        "Tag": "android-5.1.1_r16",
+        "Version": "Lollipop",
+        "Supported devices": "Nexus 7 (deb)",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "LMY48N",
+        "Tag": "android-5.1.1_r15",
+        "Version": "Lollipop",
+        "Supported devices": "Nexus Player",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "LMY48M",
+        "Tag": "android-5.1.1_r14",
+        "Version": "Lollipop",
+        "Supported devices": "Nexus 4, Nexus 5, Nexus 6, Nexus 7 (flo), Nexus 9 (volantis/volantisg), Nexus 10",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "LVY48E",
+        "Tag": "android-5.1.1_r13",
+        "Version": "Lollipop",
+        "Supported devices": "Nexus 6 (for Google Fi ONLY)",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "LYZ28J",
+        "Tag": "android-5.1.1_r12",
+        "Version": "Lollipop",
+        "Supported devices": "Nexus 6 (for T-Mobile ONLY)",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "LMY48J",
+        "Tag": "android-5.1.1_r10",
+        "Version": "Lollipop",
+        "Supported devices": "Nexus Player",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "LMY48I",
+        "Tag": "android-5.1.1_r9",
+        "Version": "Lollipop",
+        "Supported devices": "Nexus 4, Nexus 5, Nexus 6, Nexus 7 (flo), Nexus 9 (volantis/volantisg), Nexus 10",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "LVY48C",
+        "Tag": "android-5.1.1_r8",
+        "Version": "Lollipop",
+        "Supported devices": "Nexus 6 (for Google Fi ONLY)",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "LMY48G",
+        "Tag": "android-5.1.1_r6",
+        "Version": "Lollipop",
+        "Supported devices": "Nexus 7 (flo)",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "LYZ28E",
+        "Tag": "android-5.1.1_r5",
+        "Version": "Lollipop",
+        "Supported devices": "Nexus 6 (for T-Mobile ONLY)",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "LMY47Z",
+        "Tag": "android-5.1.1_r4",
+        "Version": "Lollipop",
+        "Supported devices": "Nexus 6 (all carriers except T-Mobile US)",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "LMY48B",
+        "Tag": "android-5.1.1_r3",
+        "Version": "Lollipop",
+        "Supported devices": "Nexus 5",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "LMY47X",
+        "Tag": "android-5.1.1_r2",
+        "Version": "Lollipop",
+        "Supported devices": "Nexus 9 (volantis)",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "LMY47V",
+        "Tag": "android-5.1.1_r1",
+        "Version": "Lollipop",
+        "Supported devices": "Nexus 7 (flo/grouper), Nexus 10, Nexus Player",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "LMY47O",
+        "Tag": "android-5.1.0_r5",
+        "Version": "Lollipop",
+        "Supported devices": "Nexus 4, Nexus 7 (flo/deb)",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "LMY47M",
+        "Tag": "android-5.1.0_r4",
+        "Version": "Lollipop",
+        "Supported devices": "Nexus 6 (for T-Mobile ONLY)",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "LMY47I",
+        "Tag": "android-5.1.0_r3",
+        "Version": "Lollipop",
+        "Supported devices": "Nexus 5, Nexus 6",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "LMY47E",
+        "Tag": "android-5.1.0_r2",
+        "Version": "Lollipop",
+        "Supported devices": "Nexus 6",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "LMY47D",
+        "Tag": "android-5.1.0_r1",
+        "Version": "Lollipop",
+        "Supported devices": "Nexus 5, Nexus 6, Nexus 7 (grouper/tilapia), Nexus 10, Nexus Player",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "LRX22L",
+        "Tag": "android-5.0.2_r3",
+        "Version": "Lollipop",
+        "Supported devices": "Nexus 9 (volantis/volantisg)",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "LRX22G",
+        "Tag": "android-5.0.2_r1",
+        "Version": "Lollipop",
+        "Supported devices": "Nexus 7 (flo/deb/grouper/tilapia), Nexus 10",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "LRX22C",
+        "Tag": "android-5.0.1_r1",
+        "Version": "Lollipop",
+        "Supported devices": "Nexus 4, Nexus 5, Nexus 6 (shamu), Nexus 7 (flo), Nexus 9 (volantis/volantisg), Nexus 10",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "LRX21V",
+        "Tag": "android-5.0.0_r7.0.1",
+        "Version": "Lollipop",
+        "Supported devices": "Nexus Player (fugu)",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "LRX21T",
+        "Tag": "android-5.0.0_r6.0.1",
+        "Version": "Lollipop",
+        "Supported devices": "Nexus 4",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "LRX21R",
+        "Tag": "android-5.0.0_r5.1.0.1",
+        "Version": "Lollipop",
+        "Supported devices": "Nexus 9 (volantis)",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "LRX21Q",
+        "Tag": "android-5.0.0_r5.0.1",
+        "Version": "Lollipop",
+        "Supported devices": "Nexus 9 (volantis)",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "LRX21P",
+        "Tag": "android-5.0.0_r4.0.1",
+        "Version": "Lollipop",
+        "Supported devices": "Nexus 7 (flo/grouper), Nexus 10",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "LRX21O",
+        "Tag": "android-5.0.0_r3.0.1",
+        "Version": "Lollipop",
+        "Supported devices": "Nexus 5 (hammerhead), Nexus 6 (shamu)",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "LRX21M",
+        "Tag": "android-5.0.0_r2.0.1",
+        "Version": "Lollipop",
+        "Supported devices": "Nexus Player (fugu)",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "LRX21L",
+        "Tag": "android-5.0.0_r1.0.1",
+        "Version": "Lollipop",
+        "Supported devices": "Nexus 9 (volantis)",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "KTU84Q",
+        "Tag": "android-4.4.4_r2",
+        "Version": "KitKat",
+        "Supported devices": "Nexus 5 (hammerhead) (for 2Degrees/NZ, Telstra/AUS and India ONLY)",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "KTU84P",
+        "Tag": "android-4.4.4_r1",
+        "Version": "KitKat",
+        "Supported devices": "Nexus 5, Nexus 7 (flo/deb/grouper/tilapia), Nexus 4, Nexus 10",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "KTU84M",
+        "Tag": "android-4.4.3_r1.1",
+        "Version": "KitKat",
+        "Supported devices": "Nexus 5 (hammerhead)",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "KTU84L",
+        "Tag": "android-4.4.3_r1",
+        "Version": "KitKat",
+        "Supported devices": "Nexus 7 (flo/deb/grouper/tilapia), Nexus 4, Nexus 10",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "KVT49L",
+        "Tag": "android-4.4.2_r2",
+        "Version": "KitKat",
+        "Supported devices": "Nexus 7 (deb Verizon)",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "KOT49H",
+        "Tag": "android-4.4.2_r1",
+        "Version": "KitKat",
+        "Supported devices": "Nexus 5, Nexus 7 (flo/deb/grouper/tilapia), Nexus 4, Nexus 10",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "KOT49E",
+        "Tag": "android-4.4.1_r1",
+        "Version": "KitKat",
+        "Supported devices": "Nexus 5, Nexus 7 (flo/deb/grouper/tilapia), Nexus 4, Nexus 10",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "KRT16S",
+        "Tag": "android-4.4_r1.2",
+        "Version": "KitKat",
+        "Supported devices": "Nexus 7 (flo/deb/grouper/tilapia), Nexus 4, Nexus 10",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "KRT16M",
+        "Tag": "android-4.4_r1",
+        "Version": "KitKat",
+        "Supported devices": "Nexus 5 (hammerhead)",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "JLS36I",
+        "Tag": "android-4.3.1_r1",
+        "Version": "Jelly Bean",
+        "Supported devices": "Nexus 7 (deb)",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "JLS36C",
+        "Tag": "android-4.3_r3",
+        "Version": "Jelly Bean",
+        "Supported devices": "Nexus 7 (deb)",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "JSS15R",
+        "Tag": "android-4.3_r2.3",
+        "Version": "Jelly Bean",
+        "Supported devices": "Nexus 7 (flo)",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "JSS15Q",
+        "Tag": "android-4.3_r2.2",
+        "Version": "Jelly Bean",
+        "Supported devices": "Nexus 7 (flo)",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "JSS15J",
+        "Tag": "android-4.3_r2.1",
+        "Version": "Jelly Bean",
+        "Supported devices": "Nexus 7 (flo/deb)",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "JSR78D",
+        "Tag": "android-4.3_r2",
+        "Version": "Jelly Bean",
+        "Supported devices": "Nexus 7 (deb)",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "JWR66Y",
+        "Tag": "android-4.3_r1.1",
+        "Version": "Jelly Bean",
+        "Supported devices": "Galaxy Nexus, Nexus 7 (grouper/tilapia), Nexus 4, Nexus 10",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "JWR66V",
+        "Tag": "android-4.3_r1",
+        "Version": "Jelly Bean",
+        "Supported devices": "Galaxy Nexus, Nexus 7 (grouper/tilapia), Nexus 4, Nexus 10",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "JWR66N",
+        "Tag": "android-4.3_r0.9.1",
+        "Version": "Jelly Bean",
+        "Supported devices": "Galaxy Nexus, Nexus 7 (grouper/tilapia/flo), Nexus 4, Nexus 10",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "JWR66L",
+        "Tag": "android-4.3_r0.9",
+        "Version": "Jelly Bean",
+        "Supported devices": "Nexus 7",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "JDQ39E",
+        "Tag": "android-4.2.2_r1.2",
+        "Version": "Jelly Bean",
+        "Supported devices": "Nexus 4",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "JDQ39B",
+        "Tag": "android-4.2.2_r1.1",
+        "Version": "Jelly Bean",
+        "Supported devices": "Nexus 7",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "JDQ39",
+        "Tag": "android-4.2.2_r1",
+        "Version": "Jelly Bean",
+        "Supported devices": "Galaxy Nexus, Nexus 7, Nexus 4, Nexus 10",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "JOP40G",
+        "Tag": "android-4.2.1_r1.2",
+        "Version": "Jelly Bean",
+        "Supported devices": "Nexus 4",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "JOP40F",
+        "Tag": "android-4.2.1_r1.1",
+        "Version": "Jelly Bean",
+        "Supported devices": "Nexus 10",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "JOP40D",
+        "Tag": "android-4.2.1_r1",
+        "Version": "Jelly Bean",
+        "Supported devices": "Galaxy Nexus, Nexus 7, Nexus 4, Nexus 10",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "JOP40C",
+        "Tag": "android-4.2_r1",
+        "Version": "Jelly Bean",
+        "Supported devices": "Galaxy Nexus, Nexus 7, Nexus 4, Nexus 10",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "JZO54M",
+        "Tag": "android-4.1.2_r2.1",
+        "Version": "Jelly Bean",
+        "Supported devices": "N/A",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "JZO54L",
+        "Tag": "android-4.1.2_r2",
+        "Version": "Jelly Bean",
+        "Supported devices": "N/A",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "JZO54K",
+        "Tag": "android-4.1.2_r1",
+        "Version": "Jelly Bean",
+        "Supported devices": "Nexus S, Galaxy Nexus, Nexus 7",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "JRO03S",
+        "Tag": "android-4.1.1_r6.1",
+        "Version": "Jelly Bean",
+        "Supported devices": "Nexus 7",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "JRO03R",
+        "Tag": "android-4.1.1_r6",
+        "Version": "Jelly Bean",
+        "Supported devices": "Nexus S 4G",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "JRO03O",
+        "Tag": "android-4.1.1_r5",
+        "Version": "Jelly Bean",
+        "Supported devices": "Galaxy Nexus",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "JRO03L",
+        "Tag": "android-4.1.1_r4",
+        "Version": "Jelly Bean",
+        "Supported devices": "Nexus S",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "JRO03H",
+        "Tag": "android-4.1.1_r3",
+        "Version": "Jelly Bean",
+        "Supported devices": "N/A",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "JRO03E",
+        "Tag": "android-4.1.1_r2",
+        "Version": "Jelly Bean",
+        "Supported devices": "Nexus S",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "JRO03D",
+        "Tag": "android-4.1.1_r1.1",
+        "Version": "Jelly Bean",
+        "Supported devices": "Nexus 7",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "JRO03C",
+        "Tag": "android-4.1.1_r1",
+        "Version": "Jelly Bean",
+        "Supported devices": "Galaxy Nexus",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "IMM76L",
+        "Tag": "android-4.0.4_r2.1",
+        "Version": "Ice Cream Sandwich",
+        "Supported devices": "\u00a0",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "IMM76K",
+        "Tag": "android-4.0.4_r2",
+        "Version": "Ice Cream Sandwich",
+        "Supported devices": "Galaxy Nexus",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "IMM76I",
+        "Tag": "android-4.0.4_r1.2",
+        "Version": "Ice Cream Sandwich",
+        "Supported devices": "Galaxy Nexus",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "IMM76D",
+        "Tag": "android-4.0.4_r1.1",
+        "Version": "Ice Cream Sandwich",
+        "Supported devices": "Nexus S, Nexus S 4G, Galaxy Nexus",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "IMM76",
+        "Tag": "android-4.0.4_r1",
+        "Version": "Ice Cream Sandwich",
+        "Supported devices": "N/A",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "IML77",
+        "Tag": "android-4.0.3_r1.1",
+        "Version": "Ice Cream Sandwich",
+        "Supported devices": "N/A",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "IML74K",
+        "Tag": "android-4.0.3_r1",
+        "Version": "Ice Cream Sandwich",
+        "Supported devices": "Nexus S",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "ICL53F",
+        "Tag": "android-4.0.2_r1",
+        "Version": "Ice Cream Sandwich",
+        "Supported devices": "Galaxy Nexus",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "ITL41F",
+        "Tag": "android-4.0.1_r1.2",
+        "Version": "Ice Cream Sandwich",
+        "Supported devices": "Galaxy Nexus",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "ITL41D",
+        "Tag": "android-4.0.1_r1.1",
+        "Version": "Ice Cream Sandwich",
+        "Supported devices": "Galaxy Nexus",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "ITL41D",
+        "Tag": "android-4.0.1_r1",
+        "Version": "Ice Cream Sandwich",
+        "Supported devices": "Galaxy Nexus",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "GWK74",
+        "Tag": "android-2.3.7_r1",
+        "Version": "Gingerbread",
+        "Supported devices": "Nexus S 4G",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "GRK39F",
+        "Tag": "android-2.3.6_r1",
+        "Version": "Gingerbread",
+        "Supported devices": "Nexus One, Nexus S",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "GRK39C",
+        "Tag": "android-2.3.6_r0.9",
+        "Version": "Gingerbread",
+        "Supported devices": "Nexus S",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "GRJ90",
+        "Tag": "android-2.3.5_r1",
+        "Version": "Gingerbread",
+        "Supported devices": "Nexus S 4G",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "GRJ22",
+        "Tag": "android-2.3.4_r1",
+        "Version": "Gingerbread",
+        "Supported devices": "Nexus One, Nexus S, Nexus S 4G",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "GRJ06D",
+        "Tag": "android-2.3.4_r0.9",
+        "Version": "Gingerbread",
+        "Supported devices": "Nexus S 4G",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "GRI54",
+        "Tag": "android-2.3.3_r1.1",
+        "Version": "Gingerbread",
+        "Supported devices": "Nexus S",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "GRI40",
+        "Tag": "android-2.3.3_r1",
+        "Version": "Gingerbread",
+        "Supported devices": "Nexus One, Nexus S",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "GRH78C",
+        "Tag": "android-2.3.2_r1",
+        "Version": "Gingerbread",
+        "Supported devices": "Nexus S",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "GRH78",
+        "Tag": "android-2.3.1_r1",
+        "Version": "Gingerbread",
+        "Supported devices": "Nexus S",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "GRH55",
+        "Tag": "android-2.3_r1",
+        "Version": "Gingerbread",
+        "Supported devices": "Earliest Gingerbread version, Nexus S",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "FRK76C",
+        "Tag": "android-2.2.3_r2",
+        "Version": "Froyo",
+        "Supported devices": "\u00a0",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "FRK76",
+        "Tag": "android-2.2.3_r1",
+        "Version": "Froyo",
+        "Supported devices": "N/A",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "FRG83G",
+        "Tag": "android-2.2.2_r1",
+        "Version": "Froyo",
+        "Supported devices": "Nexus One",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "FRG83D",
+        "Tag": "android-2.2.1_r2",
+        "Version": "Froyo",
+        "Supported devices": "Nexus One",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "FRG83",
+        "Tag": "android-2.2.1_r1",
+        "Version": "Froyo",
+        "Supported devices": "Nexus One",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "FRG22D",
+        "Tag": "android-2.2_r1.3",
+        "Version": "Froyo",
+        "Supported devices": "N/A",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "FRG01B",
+        "Tag": "android-2.2_r1.2",
+        "Version": "Froyo",
+        "Supported devices": "N/A",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "FRF91",
+        "Tag": "android-2.2_r1.1",
+        "Version": "Froyo",
+        "Supported devices": "Nexus One",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "FRF85B",
+        "Tag": "android-2.2_r1",
+        "Version": "Froyo",
+        "Supported devices": "Nexus One",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "EPF21B",
+        "Tag": "android-2.1_r2.1p2",
+        "Version": "Eclair",
+        "Supported devices": "\u00a0",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "ESE81",
+        "Tag": "android-2.1_r2.1s",
+        "Version": "Eclair",
+        "Supported devices": "N/A",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "EPE54B",
+        "Tag": "android-2.1_r2.1p",
+        "Version": "Eclair",
+        "Supported devices": "Nexus One",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "ERE27",
+        "Tag": "android-2.1_r2",
+        "Version": "Eclair",
+        "Supported devices": "Nexus One",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "ERD79",
+        "Tag": "android-2.1_r1",
+        "Version": "Eclair",
+        "Supported devices": "Nexus One",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "ESD56",
+        "Tag": "android-2.0.1_r1",
+        "Version": "Eclair",
+        "Supported devices": "N/A",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "ESD20",
+        "Tag": "android-2.0_r1",
+        "Version": "Eclair",
+        "Supported devices": "\u00a0",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "DMD64",
+        "Tag": "android-1.6_r1.5",
+        "Version": "Donut",
+        "Supported devices": "\u00a0",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "DRD20",
+        "Tag": "android-1.6_r1.4",
+        "Version": "N/A",
+        "Supported devices": "N/A",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "DRD08",
+        "Tag": "android-1.6_r1.3",
+        "Version": "N/A",
+        "Supported devices": "N/A",
+        "Security patch level": "N/A"
+    },
+    {
+        "Build": "DRC92",
+        "Tag": "android-1.6_r1.2",
+        "Version": "N/A",
+        "Supported devices": "N/A",
+        "Security patch level": "N/A"
+    }
+]
