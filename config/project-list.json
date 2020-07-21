@@ -1,10 +1,8 @@
 {
     "tag": "android-10.0.0_r2",
     "projects": [
-        "build/make",
         "build/blueprint",
         "build/kati",
-        "build/soong",
         "art",
         "bionic",
         "bootable/recovery",
@@ -492,7 +490,6 @@
         "hardware/qcom/neuralnetworks/hvxservice",
         "hardware/qcom/power",
         "hardware/qcom/sdm845/bt",
-        "hardware/qcom/sdm845/data/ipacfg-mgr",
         "hardware/qcom/sdm845/display",
         "hardware/qcom/sdm845/gps",
         "hardware/qcom/sdm845/media",
@@ -655,7 +652,6 @@
         "prebuilts/tools",
         "prebuilts/vndk/v27",
         "prebuilts/vndk/v28",
-        "sdk",
         "system/apex",
         "system/ashmemd",
         "system/bt",
