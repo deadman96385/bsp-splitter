@@ -1,0 +1,12 @@
+{
+    "settings": {
+        "commit_message": "BSP Changes",
+        "excluded_projects": [
+            "build/make",
+            "build/soong",
+            "hardware/qcom/sdm845/data/ipacfg-mgr",
+            "sdk"
+        ],
+        "tmp_working_path": "/speedy/testing/temp"
+    }
+}
