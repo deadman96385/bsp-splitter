@@ -1,3 +1,4 @@
+art
 bionic
 bootable/recovery
 cts
@@ -468,6 +469,7 @@ hardware/qcom/audio
 hardware/qcom/bootctrl
 hardware/qcom/bt
 hardware/qcom/camera
+hardware/qcom/data/ipacfg-mgr
 hardware/qcom/display
 hardware/qcom/gps
 hardware/qcom/keymaster
@@ -732,4 +734,3 @@ tools/test/graphicsbenchmark
 tools/tradefederation/core
 tools/tradefederation/contrib
 tools/trebuchet
-filler-line
