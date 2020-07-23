@@ -19,11 +19,11 @@ rm -rf $temp_dir_path
 # Delete any previous files
 rm -f not_found.txt
 rm -f no_changes.txt
+rm -f changed.txt
 
 # Known repo detection
 while read -r line; do
     if [ -d "${bsp_path}/${line}/" ]; then
-        #echo ${bsp_path}/${line}/
         mkdir $temp_dir_path
         cd ${temp_dir_path}/
         git init
@@ -36,11 +36,13 @@ while read -r line; do
             echo /${line}/ has no changes!
             echo $line >> ${cur_dir}/no_changes.txt
         else
+            echo /${line}/ changed!
             git add --all
             git commit -m "Add MediaTek changes
 Branch: ${branch_name}"
             hub create mtk-watch/android_$(echo "${line}" | sed 's#/#_#g')
             git push -f origin $branch_name
+            echo $line >> ${cur_dir}/changed.txt
         fi
 
         rm -rf $temp_dir_path
