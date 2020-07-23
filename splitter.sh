@@ -27,7 +27,15 @@ while read -r line; do
         mkdir $temp_dir_path
         cd ${temp_dir_path}/
         git init
-        git remote add google https://android.googlesource.com/platform/$line
+        if [[ $line == tools/tradefederation/core ]]; then
+            git remote add google https://android.googlesource.com/platform/tools/tradefederation
+        elif [[ $line == packages/apps/PermissionController ]]; then
+            git remote add google https://android.googlesource.com/platform/packages/apps/PackageInstaller
+        elif [[ $line == device* ]] || [[ $line == kernel* ]] || [[ $line == toolchain* ]]; then
+            git remote add google https://android.googlesource.com/$line
+        else
+            git remote add google https://android.googlesource.com/platform/$line
+        fi
         git fetch google
         git checkout tags/${manifest} -b $branch_name
         cp -rf ${bsp_path}/${line}/* .
@@ -40,7 +48,11 @@ while read -r line; do
             git add --all
             git commit -m "Add MediaTek changes
 Branch: ${branch_name}"
-            hub create mtk-watch/android_$(echo "${line}" | sed 's#/#_#g')
+            if [[ $line == tools/tradefederation/core ]]; then
+                hub create mtk-watch/android_tools_tradefederation
+            else
+                hub create mtk-watch/android_$(echo "${line}" | sed 's#/#_#g')
+            fi
             git push -f origin $branch_name
             echo $line >> ${cur_dir}/changed.txt
         fi
