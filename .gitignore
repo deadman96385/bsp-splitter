@@ -1,0 +1,9 @@
+# ignore macOS .DS_Store files
+**/.DS_Store
+
+# ignore pycache files
+__pycache__/
+*.py[cod]
+
+# ignore the project list, as this is fetched automatically
+config/project-list.json
