@@ -181,7 +181,7 @@ if __name__ == '__main__':
 
             shutil.rmtree(working_path)
         else:
-            print("Project '{}' jrom projects list not found in BSP.".format(project))
+            print("Project '{}' from projects list not found in BSP.".format(project))
             not_found.append(project)
 
     bsp_migration_results_json["modified"] = modified
