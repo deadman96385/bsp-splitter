@@ -7,3 +7,6 @@ __pycache__/
 
 # ignore the project list, as this is fetched automatically
 config/project-list.json
+
+# ignore any reports that get generated
+output/

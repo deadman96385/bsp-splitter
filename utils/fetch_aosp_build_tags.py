@@ -59,4 +59,4 @@ def fetch_latest_build_tags():
     print("Done!")
 
 if __name__ == '__main__':
-    fetch_latest_build_tags();
+    fetch_latest_build_tags()

@@ -1,12 +1,22 @@
 {
     "settings": {
         "commit_message": "BSP Changes",
+        "branch_name": "t-alps-q0.mp1-V9.107",
+        "org_name": "mtk-watch",
+        "tmp_directory": "/tmp/bsp-splitter",
         "excluded_projects": [
             "build/make",
             "build/soong",
             "hardware/qcom/sdm845/data/ipacfg-mgr",
             "sdk"
         ],
-        "tmp_working_path": "/speedy/testing/temp"
+        "project_origin_replacements": {
+            "tools/tradefederation/core": "platform/tools/tradefederation",
+            "packages/apps/PermissionController": "platform/packages/apps/PackageInstaller",
+            "device/": "{project}",
+            "kernel/": "{project}",
+            "toolchain/": "{project}",
+            "": "platform/{project}"
+        }
     }
 }

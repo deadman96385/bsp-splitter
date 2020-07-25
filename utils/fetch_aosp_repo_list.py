@@ -11,6 +11,8 @@ script_dir = os.path.dirname(__file__)
 output_filename = "project-list.json"
 settings_filename = "settings.json"
 
+manifest_base = "https://android.googlesource.com/platform/manifest"
+
 try:
     settings_path = os.path.join(script_dir, "../config/{}".format(settings_filename))
 
@@ -22,13 +24,6 @@ except:
     exit()
     
 excluded_projects = settings['settings']['excluded_projects']
-
-parser = argparse.ArgumentParser(description='Fetch a list of project paths for a given AOSP tag')
-parser.add_argument('-t', '--tag', help='AOSP tag to pull the manifest for', default='android-10.0.0_r2')
-args = parser.parse_args()
-
-manifest_base = "https://android.googlesource.com/platform/manifest"
-tag_name = args.tag
 
 def fetch_manifest_for_tag(tag):
     print("Fetching manifest for tag '{}'".format(tag))
@@ -50,6 +45,17 @@ def fetch_manifest_for_tag(tag):
 
     projects_json = {"tag": tag, "projects": projects}
 
+    return projects_json
+    
+if __name__ == '__main__':
+    parser = argparse.ArgumentParser(description='Fetch a list of project paths for a given AOSP tag')
+    parser.add_argument('-t', '--tag', help='AOSP tag to pull the manifest for', default='android-10.0.0_r2')
+    args = parser.parse_args()
+
+    tag_name = args.tag
+
+    projects_json = fetch_manifest_for_tag(tag_name)
+    
     print("Saving to '{}'...".format(output_filename))
     try:
         output_path = os.path.join(script_dir, "../config/{}".format(output_filename))
@@ -62,6 +68,3 @@ def fetch_manifest_for_tag(tag):
         exit()
 
     print("Done!")
-    
-if __name__ == '__main__':
-    fetch_manifest_for_tag(tag_name);
