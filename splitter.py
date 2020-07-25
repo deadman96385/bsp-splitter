@@ -147,6 +147,7 @@ if __name__ == '__main__':
             corrected_origin_path = get_origin_path_for_project(project)
         
             if (os.path.exists(local_project_path + "/.git")):
+                print("Project {} has a .git folder, marking as failed.".format(project))
                 failed.append(project)
                 continue
 
