@@ -10,6 +10,7 @@ import shutil
 import utils.fetch_aosp_build_tags as tags_helper
 import utils.fetch_aosp_repo_list as repo_helper
 
+start_time = datetime.now().strftime('%Y%m%d-%H%M%S')
 script_dir = os.path.dirname(__file__)
 
 req_modules = ["bs4", "requests"]
@@ -46,6 +47,9 @@ if (not bsp_path.endswith("/")):
 working_path = args.working
 if (not working_path.endswith("/")):
     working_path += "/"
+out_path = os.path.join(script_dir, "./output/")
+if (not os.path.exists(out_path)):
+    os.mkdir(out_path)
 branch_name = args.branch
 org_name = args.organization
 commit_message = args.commit
@@ -117,6 +121,25 @@ def git(*args):
     args = ("-C", working_path) + args
     return subprocess.check_output(['git'] + list(args))
 
+def save_output_file(modified, no_changes, not_found, failed, rejected):
+    bsp_migration_results_json["modified"] = modified
+    bsp_migration_results_json["no_changes"] = no_changes
+    bsp_migration_results_json["not_found"] = not_found
+    bsp_migration_results_json["failed"] = failed
+    bsp_migration_results_json["rejected"] = rejected
+    
+    results_filename = "results_{}.json".format(start_time)
+    print("Saving to '{}'...".format(results_filename))
+    try:
+        script_dir = os.path.dirname(__file__)
+        results_file = os.path.join(script_dir, "./output/{}".format(results_filename))
+
+        f = open(results_file, 'w')
+        f.write(json.dumps(bsp_migration_results_json, indent=4))
+        f.close()
+    except:
+        print("Unable to save contents to file!")
+
 def copy_bsp_project_to_tmp_folder(project_path, tmp_folder):
     for item in glob.glob(tmp_folder + "*"):
         if ".git" not in item:    
@@ -138,6 +161,7 @@ if __name__ == '__main__':
     no_changes = []
     not_found = []
     failed = []
+    rejected = []
     
     for project in projects:
         local_project_path = bsp_path + project
@@ -149,6 +173,7 @@ if __name__ == '__main__':
             if (os.path.exists(local_project_path + "/.git")):
                 print("Project {} has a .git folder, marking as failed.".format(project))
                 failed.append(project)
+                save_output_file(modified, no_changes, not_found, failed, rejected)
                 continue
 
             if (os.path.exists(working_path)):
@@ -161,7 +186,13 @@ if __name__ == '__main__':
 
             git("init")
             git("remote", "add", "google", "https://android.googlesource.com/{}".format(corrected_origin_path))
-            git("fetch", "google")
+            try:
+                git("fetch", "google")
+            except subprocess.CalledProcessError:
+                print("Failed to fetch {}".format(corrected_origin_path))
+                failed.append(project)
+                save_output_file(modified, no_changes, not_found, failed, rejected)
+                continue
             git("checkout", "tags/{}".format(build_tag), "-b", branch_name)
             git("config", "core.filemode", "false")
 
@@ -170,36 +201,28 @@ if __name__ == '__main__':
             if (git("status", "-s") == b''):
                 print("No changes in {}.".format(project))
                 no_changes.append(project)
+                save_output_file(modified, no_changes, not_found, failed, rejected)
             else:
                 git("add", "--all")
                 git("commit", "-m", commit_message)
                 repository_name = "{}/android_{}".format(org_name, project.replace("/", "_"))
                 print("Pushing to {}...".format(repository_name))
                 os.system("cd {}; hub create {}".format(working_path, repository_name))
-                git("push", "-f", "origin", branch_name)
+                try:
+                    git("push", "-f", "origin", branch_name)
+                except subprocess.CalledProcessError:
+                    print("{} was rejected!".format(project))
+                    rejected.append(project)
+                    save_output_file(modified, no_changes, not_found, failed, rejected)
+                    continue
                 print("Pushed changes for {}".format(project))
                 modified.append(project)
+                save_output_file(modified, no_changes, not_found, failed, rejected)
 
             shutil.rmtree(working_path)
         else:
             print("Project '{}' from projects list not found in BSP.".format(project))
             not_found.append(project)
+            save_output_file(modified, no_changes, not_found, failed, rejected)
 
-    bsp_migration_results_json["modified"] = modified
-    bsp_migration_results_json["no_changes"] = no_changes
-    bsp_migration_results_json["not_found"] = not_found
-    bsp_migration_results_json["failed"] = failed
-    
-    results_filename = "results_{}.json".format(datetime.now().strftime('%Y%m%d-%H%M%S'))
-    print("Saving to '{}'...".format(results_filename))
-    try:
-        script_dir = os.path.dirname(__file__)
-        results_file = os.path.join(script_dir, "./output/{}".format(results_filename))
-
-        f = open(results_file, 'w')
-        f.write(json.dumps(bsp_migration_results_json, indent=4))
-        f.close()
-    except:
-        print("Unable to save contents to file!")
-        exit()
     print("Done!")

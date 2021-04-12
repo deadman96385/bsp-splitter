@@ -1,16 +1,18 @@
 {
     "settings": {
-        "commit_message": "BSP Changes",
-        "branch_name": "t-alps-q0.mp1-V9.107",
-        "org_name": "mtk-watch",
+        "commit_message": "Add Unisoc Changes",
+        "branch_name": "W20.13.3",
+        "org_name": "unisoc-android",
         "tmp_directory": "/tmp/bsp-splitter",
         "excluded_projects": [
             "build/make",
             "build/soong",
+            "cts",
             "hardware/qcom/sdm845/data/ipacfg-mgr",
             "sdk"
         ],
         "project_origin_replacements": {
+            "device/ti/beagle_x15": "device/ti/beagle-x15",
             "tools/tradefederation/core": "platform/tools/tradefederation",
             "packages/apps/PermissionController": "platform/packages/apps/PackageInstaller",
             "device/": "{project}",
