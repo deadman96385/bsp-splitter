@@ -78,7 +78,7 @@ def print_build_info(build):
     print("    Security Patch Level: {}".format(build["Security patch level"]))
 
 def get_bsp_build_id(bsp_path):
-    build_id_file = "build/make/core/build_id.mk"
+    build_id_file = "build/core/build_id.mk"
     build_id_text = "BUILD_ID="
     
     if (not bsp_path.endswith("/")):
@@ -91,11 +91,12 @@ def get_bsp_build_id(bsp_path):
             .format(bsp_path + build_id_file))
         exit()
     for line in bsp_build_id_file.readlines():
-        if (line.startswith(build_id_text)):
+        if (build_id_text in line):
             bsp_build_id_file.close()
-            bsp_build_id = line.rstrip().replace(build_id_text, "")
+            bsp_build_id = line.rstrip().split(build_id_text)[-1]
             print("BSP has BUILD_ID of {}".format(bsp_build_id))
             return bsp_build_id
+    bsp_build_id_file.close()
     print("String '{}' not found in file at {}. Please make sure the BSP is complete."
         .format(build_id_text, bsp_path + build_id_file))
     exit()
