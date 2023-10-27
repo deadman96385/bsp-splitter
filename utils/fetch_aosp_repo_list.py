@@ -49,7 +49,7 @@ def fetch_manifest_for_tag(tag):
     
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Fetch a list of project paths for a given AOSP tag')
-    parser.add_argument('-t', '--tag', help='AOSP tag to pull the manifest for', default='android-10.0.0_r2')
+    parser.add_argument('-t', '--tag', help='AOSP tag to pull the manifest for', required=True)
     args = parser.parse_args()
 
     tag_name = args.tag

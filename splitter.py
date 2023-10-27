@@ -72,7 +72,7 @@ def check_tools():
             exit()
 
 def print_build_info(build):
-    print("    Build ID: {}".format(build["Build"]))
+    print("    Build ID: {}".format(build["Build ID"]))
     print("    Build Tag: {}".format(build["Tag"]))
     print("    Build Version: {}".format(build["Version"]))
     print("    Security Patch Level: {}".format(build["Security patch level"]))
@@ -104,7 +104,7 @@ def get_bsp_build_id(bsp_path):
 def get_tag_for_build_id(build_id):
     build_tags = read_config("build-tags.json")
     for build in build_tags:
-        if (build["Build"] == build_id):
+        if (build["Build ID"] == build_id):
             print("Found build info matching Build ID {}".format(build_id))
             print_build_info(build)
             return build["Tag"]
@@ -208,7 +208,13 @@ if __name__ == '__main__':
                 git("commit", "-m", commit_message)
                 repository_name = "{}/android_{}".format(org_name, project.replace("/", "_"))
                 print("Pushing to {}...".format(repository_name))
-                os.system("cd {}; hub create {}".format(working_path, repository_name))
+
+                exit_code = os.system("gh repo create {} --public -s {}".format(repository_name, working_path))
+                if exit_code != 0:
+                    # Repository exists
+                    git("remote", "add", "origin", "git@github.com:{}.git".format(repository_name))
+                    print("Added existing repository {}".format(repository_name))
+                    
                 try:
                     git("push", "-f", "origin", branch_name)
                 except subprocess.CalledProcessError:
