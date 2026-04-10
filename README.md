@@ -5,17 +5,8 @@ Takes a BSP that does not contain aosp git history and overlays the OEM's change
 ## Installation
 
 1. Clone the repo 
-2. Install Github's CLI tool called [Hub](https://github.com/github/hub#installation)
-3. Create a oauth token on [github](https://github.com/settings/tokens)
-4. Give it all of the repo scope
-5. Create/Edit the file located at ~/.config/hub with the following format
-
-```python
-github.com:
-- user: deadman96385
-  oauth_token: xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-  protocol: https
-```
+2. Install GitHub's CLI tool called [gh](https://cli.github.com/)
+3. Authenticate with GitHub using `gh auth login` and grant the tool `repo` scopes.
 
 ## Usage
 TBD

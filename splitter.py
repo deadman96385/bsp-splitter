@@ -7,6 +7,7 @@ import json
 import os
 import subprocess
 import shutil
+import time
 import utils.fetch_aosp_build_tags as tags_helper
 import utils.fetch_aosp_repo_list as repo_helper
 
@@ -14,7 +15,7 @@ start_time = datetime.now().strftime('%Y%m%d-%H%M%S')
 script_dir = os.path.dirname(__file__)
 
 req_modules = ["bs4", "requests"]
-req_tools = ["hub", "git"]
+req_tools = ["gh", "git"]
 
 def read_config(filename):
     try:
@@ -34,11 +35,15 @@ parser = argparse.ArgumentParser(description="Merge a BSP with the closest match
 parser.add_argument('-r', '--refresh', help='Force a refresh of the latest AOSP build tags from Google', action='store_true')
 parser.add_argument('-p', '--path', help='Path at which the BSP is located', required=True)
 # These values are optional, and will default to the corresponding values in settings.json
-parser.add_argument('-w', '--working', help='Path to a temporary working directory', default=settings["tmp_directory"])
-parser.add_argument('-b', '--branch', help='Branch name to use for the changes', default=settings["branch_name"])
-parser.add_argument('-o', '--organization', help='Organization name to use for pushing the repositories to', default=settings["org_name"])
-parser.add_argument('-c', '--commit', help='Commit message to use when committing the BSP changes', default=settings["commit_message"])
-args = parser.parse_args()
+parser.add_argument('-w', '--working', help='Path to a temporary working directory', default='/tmp/bsp-splitter')
+parser.add_argument('-b', '--branch', help='Branch name to use for the changes', required=True)
+parser.add_argument('-o', '--organization', help='Organization name to use for pushing the repositories to', required=True)
+parser.add_argument('-c', '--commit', help='Commit message to use when committing the BSP changes', required=True)
+parser.add_argument('--resume', help='Path to a previous results.json file to resume from. Will skip successfully completed projects.', default=None)
+if __name__ == '__main__':
+    args = parser.parse_args()
+else:
+    args = argparse.Namespace(refresh=False, path="/tmp/dummy", working="/tmp/working", branch="test", organization="test", commit="test", resume=None)
 
 force_tags_refresh = args.refresh
 bsp_path = args.path
@@ -122,6 +127,27 @@ def git(*args):
     args = ("-C", working_path) + args
     return subprocess.check_output(['git'] + list(args))
 
+def execute_with_retry(func, *args, retries=3, delay=5, **kwargs):
+    for attempt in range(retries):
+        try:
+            return func(*args, **kwargs)
+        except subprocess.CalledProcessError as e:
+            if attempt < retries - 1:
+                print("Command failed! Retrying in {} seconds... ({}/{})".format(delay, attempt + 1, retries))
+                time.sleep(delay)
+            else:
+                raise e
+
+def create_gh_repo(working_path, repository_name):
+    try:
+        subprocess.check_output(["gh", "repo", "create", repository_name, "--private"], stderr=subprocess.STDOUT, cwd=working_path)
+    except subprocess.CalledProcessError as e:
+        output = e.output.decode('utf-8', errors='ignore')
+        if "Name already exists" in output:
+            print("Repository {} already exists. Skipping creation.".format(repository_name))
+        else:
+            raise e
+
 def save_output_file(modified, no_changes, not_found, failed, rejected):
     bsp_migration_results_json["modified"] = modified
     bsp_migration_results_json["no_changes"] = no_changes
@@ -147,11 +173,27 @@ def copy_bsp_project_to_tmp_folder(project_path, tmp_folder):
             os.system("rm -rf {}".format(item))
     os.system("cp -rf {}/* {}".format(project_path, tmp_folder))
 
+def get_skipped_projects(resume_file):
+    try:
+        with open(resume_file, 'r') as f:
+            resume_data = json.load(f)
+            skip_projects = resume_data.get("modified", []) + resume_data.get("no_changes", [])
+            print("Resuming from {}: Skipping {} previously successful projects.".format(resume_file, len(skip_projects)))
+            return skip_projects
+    except Exception as e:
+        print("Failed to load resume file {}: {}".format(resume_file, e))
+        exit()
+
 if __name__ == '__main__':
     check_modules()
     check_tools()
     if (force_tags_refresh):
         tags_helper.fetch_latest_build_tags()
+        
+    if args.resume:
+        skip_projects = get_skipped_projects(args.resume)
+    else:
+        skip_projects = []
     
     build_id = get_bsp_build_id(bsp_path)
     build_tag = get_tag_for_build_id(build_id)
@@ -165,6 +207,10 @@ if __name__ == '__main__':
     rejected = []
     
     for project in projects:
+        if project in skip_projects:
+            print("Skipping {} (Already completed successfully in previous run)".format(project))
+            continue
+            
         local_project_path = bsp_path + project
         
         if (os.path.exists(local_project_path) and os.path.isdir(local_project_path)):
@@ -188,7 +234,7 @@ if __name__ == '__main__':
             git("init")
             git("remote", "add", "google", "https://android.googlesource.com/{}".format(corrected_origin_path))
             try:
-                git("fetch", "google")
+                execute_with_retry(git, "fetch", "google")
             except subprocess.CalledProcessError:
                 print("Failed to fetch {}".format(corrected_origin_path))
                 failed.append(project)
@@ -208,9 +254,21 @@ if __name__ == '__main__':
                 git("commit", "-m", commit_message)
                 repository_name = "{}/android_{}".format(org_name, project.replace("/", "_"))
                 print("Pushing to {}...".format(repository_name))
-                os.system("cd {}; hub create {}".format(working_path, repository_name))
+                print("Creating repository {}...".format(repository_name))
                 try:
-                    git("push", "-f", "origin", branch_name)
+                    execute_with_retry(create_gh_repo, working_path, repository_name)
+                except subprocess.CalledProcessError as e:
+                    output = e.output.decode('utf-8', errors='ignore') if hasattr(e, 'output') and e.output else str(e)
+                    print("Failed to create repository {}! Error: {}".format(repository_name, output))
+                    failed.append(project)
+                    save_output_file(modified, no_changes, not_found, failed, rejected)
+                    continue
+                try:
+                    git("remote", "add", "origin", "git@github.com:{}.git".format(repository_name))
+                except subprocess.CalledProcessError:
+                    pass # Remote might already exist
+                try:
+                    execute_with_retry(git, "push", "-f", "origin", branch_name)
                 except subprocess.CalledProcessError:
                     print("{} was rejected!".format(project))
                     rejected.append(project)

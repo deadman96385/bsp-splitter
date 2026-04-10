@@ -1,5 +1,3344 @@
 [
     {
+        "Build": "BP4A.251205.006",
+        "Tag": "android-16.0.0_r4",
+        "Version": "Android16",
+        "Supported devices": "N/A",
+        "Security patch level": "2025-12-05"
+    },
+    {
+        "Build": "BP3A.250905.014",
+        "Tag": "android-16.0.0_r3",
+        "Version": "Android16",
+        "Supported devices": "N/A",
+        "Security patch level": "2025-09-05"
+    },
+    {
+        "Build": "14841870",
+        "Tag": "android-security-16.0.0_r5",
+        "Version": "Android16",
+        "Supported devices": "N/A",
+        "Security patch level": "2025-08-05"
+    },
+    {
+        "Build": "14733871",
+        "Tag": "android-security-16.0.0_r4",
+        "Version": "Android16",
+        "Supported devices": "N/A",
+        "Security patch level": "2025-08-05"
+    },
+    {
+        "Build": "14367590",
+        "Tag": "android-security-16.0.0_r3",
+        "Version": "Android16",
+        "Supported devices": "N/A",
+        "Security patch level": "2025-08-05"
+    },
+    {
+        "Build": "14094968",
+        "Tag": "android-security-16.0.0_r2",
+        "Version": "Android16",
+        "Supported devices": "N/A",
+        "Security patch level": "2025-08-05"
+    },
+    {
+        "Build": "13943552",
+        "Tag": "android-security-16.0.0_r1",
+        "Version": "Android16",
+        "Supported devices": "N/A",
+        "Security patch level": "2025-08-05"
+    },
+    {
+        "Build": "BP2A.250605.031.A3",
+        "Tag": "android-16.0.0_r2",
+        "Version": "Android16",
+        "Supported devices": "N/A",
+        "Security patch level": "2025-06-05"
+    },
+    {
+        "Build": "BP2A.250605.031.A2",
+        "Tag": "android-16.0.0_r1",
+        "Version": "Android16",
+        "Supported devices": "N/A",
+        "Security patch level": "2025-06-05"
+    },
+    {
+        "Build": "BP1A.250505.005.D1",
+        "Tag": "android-15.0.0_r36",
+        "Version": "Android15",
+        "Supported devices": "Pixel 9, Pixel 9 Pro, Pixel 9 Pro Fold, Pixel 9 Pro XL",
+        "Security patch level": "2025-05-05"
+    },
+    {
+        "Build": "BP1A.250505.005.C1",
+        "Tag": "android-15.0.0_r35",
+        "Version": "Android15",
+        "Supported devices": "Pixel 9, Pixel 9 Pro, Pixel 9 Pro Fold, Pixel 9 Pro XL",
+        "Security patch level": "2025-05-05"
+    },
+    {
+        "Build": "BP1A.250505.005.B1",
+        "Tag": "android-15.0.0_r34",
+        "Version": "Android15",
+        "Supported devices": "Pixel 7, Pixel 7 Pro, Pixel 7a, Pixel 8, Pixel 8 Pro, Pixel 8a, Pixel Fold",
+        "Security patch level": "2025-05-05"
+    },
+    {
+        "Build": "BP1A.250505.005.A1",
+        "Tag": "android-15.0.0_r33",
+        "Version": "Android15",
+        "Supported devices": "Pixel 9, Pixel 9 Pro, Pixel 9 Pro Fold, Pixel 9 Pro XL",
+        "Security patch level": "2025-05-05"
+    },
+    {
+        "Build": "BP1A.250505.005",
+        "Tag": "android-15.0.0_r32",
+        "Version": "Android15",
+        "Supported devices": "Pixel 6, Pixel 6 Pro, Pixel 6a, Pixel 9, Pixel 9 Pro, Pixel 9 Pro Fold, Pixel 9 Pro XL, Pixel Tablet",
+        "Security patch level": "2025-05-05"
+    },
+    {
+        "Build": "BD4A.250505.003",
+        "Tag": "android-15.0.0_r31",
+        "Version": "Android15",
+        "Supported devices": "Pixel 9a",
+        "Security patch level": "2025-05-05"
+    },
+    {
+        "Build": "BP1A.250405.007.D1",
+        "Tag": "android-15.0.0_r30",
+        "Version": "Android15",
+        "Supported devices": "Pixel 9, Pixel 9 Pro, Pixel 9 Pro Fold, Pixel 9 Pro XL",
+        "Security patch level": "2025-04-05"
+    },
+    {
+        "Build": "BP1A.250405.007.C1",
+        "Tag": "android-15.0.0_r29",
+        "Version": "Android15",
+        "Supported devices": "Pixel 9, Pixel 9 Pro, Pixel 9 Pro Fold, Pixel 9 Pro XL",
+        "Security patch level": "2025-04-05"
+    },
+    {
+        "Build": "BP1A.250405.007.B1",
+        "Tag": "android-15.0.0_r28",
+        "Version": "Android15",
+        "Supported devices": "Pixel 7, Pixel 7a, Pixel 7 Pro, Pixel 8, Pixel 8a, Pixel 8 Pro, Pixel Fold",
+        "Security patch level": "2025-04-05"
+    },
+    {
+        "Build": "BP1A.250405.007.A1",
+        "Tag": "android-15.0.0_r27",
+        "Version": "Android15",
+        "Supported devices": "Pixel 9, Pixel 9 Pro, Pixel 9 Pro Fold, Pixel 9 Pro XL",
+        "Security patch level": "2025-04-05"
+    },
+    {
+        "Build": "BP1A.250405.007",
+        "Tag": "android-15.0.0_r26",
+        "Version": "Android15",
+        "Supported devices": "Pixel 6, Pixel 6a, Pixel 6 Pro, Pixel 9, Pixel 9 Pro, Pixel 9 Pro Fold, Pixel 9 Pro XL, Pixel Tablet",
+        "Security patch level": "2025-04-05"
+    },
+    {
+        "Build": "BD4A.250405.003",
+        "Tag": "android-15.0.0_r25",
+        "Version": "Android15",
+        "Supported devices": "Pixel 9a",
+        "Security patch level": "2025-02-05"
+    },
+    {
+        "Build": "BD4A.240925.111",
+        "Tag": "android-15.0.0_r24",
+        "Version": "Android15",
+        "Supported devices": "Pixel 9a",
+        "Security patch level": "2025-01-05"
+    },
+    {
+        "Build": "BP1A.250305.020.T2",
+        "Tag": "android-15.0.0_r23",
+        "Version": "Android15",
+        "Supported devices": "Pixel Tablet",
+        "Security patch level": "2025-03-05"
+    },
+    {
+        "Build": "BP1A.250305.020.A2",
+        "Tag": "android-15.0.0_r22",
+        "Version": "Android15",
+        "Supported devices": "Pixel 9, Pixel 9 Pro, Pixel 9 Pro Fold, Pixel 9 Pro XL",
+        "Security patch level": "2025-03-05"
+    },
+    {
+        "Build": "BP1A.250305.020",
+        "Tag": "android-15.0.0_r21",
+        "Version": "Android15",
+        "Supported devices": "Pixel 9, Pixel 9 Pro, Pixel 9 Pro Fold, Pixel 9 Pro XL",
+        "Security patch level": "2025-03-05"
+    },
+    {
+        "Build": "BP1A.250305.019",
+        "Tag": "android-15.0.0_r20",
+        "Version": "Android15",
+        "Supported devices": "Pixel 6, Pixel 6 Pro, Pixel 6a, Pixel 7, Pixel 7 Pro, Pixel 7a, Pixel 8, Pixel 8 Pro, Pixel 8a, Pixel Fold",
+        "Security patch level": "2025-03-05"
+    },
+    {
+        "Build": "AP4A.250205.002.C1",
+        "Tag": "android-15.0.0_r17",
+        "Version": "Android15",
+        "Supported devices": "Pixel 9, Pixel 9 Pro, Pixel 9 Pro Fold, Pixel 9 Pro XL",
+        "Security patch level": "2025-02-05"
+    },
+    {
+        "Build": "AP4A.250205.002.B2",
+        "Tag": "android-15.0.0_r16",
+        "Version": "Android15",
+        "Supported devices": "Pixel 7, Pixel 7 Pro, Pixel 7a, Pixel 8, Pixel 8 Pro, Pixel 8a, Pixel 9, Pixel 9 Pro, Pixel 9 Pro Fold, Pixel 9 Pro XL, Pixel Fold",
+        "Security patch level": "2025-02-05"
+    },
+    {
+        "Build": "AP4A.250205.002.A1",
+        "Tag": "android-15.0.0_r15",
+        "Version": "Android15",
+        "Supported devices": "Pixel 6, Pixel 6 Pro, Pixel 6a",
+        "Security patch level": "2025-02-05"
+    },
+    {
+        "Build": "AP4A.250205.002",
+        "Tag": "android-15.0.0_r14",
+        "Version": "Android15",
+        "Supported devices": "Pixel 6, Pixel 6 Pro, Pixel 6a, Pixel 7, Pixel 7 Pro, Pixel 7a, Pixel 8, Pixel 8 Pro, Pixel 8a, Pixel 9, Pixel 9 Pro, Pixel 9 Pro Fold, Pixel 9 Pro XL, Pixel Fold, Pixel Tablet",
+        "Security patch level": "2025-02-05"
+    },
+    {
+        "Build": "AP4A.250105.002.C1",
+        "Tag": "android-15.0.0_r13",
+        "Version": "Android15",
+        "Supported devices": "Pixel 9, Pixel 9 Pro, Pixel 9 Pro Fold, Pixel 9 Pro XL",
+        "Security patch level": "2025-01-05"
+    },
+    {
+        "Build": "AP4A.250105.002.B1",
+        "Tag": "android-15.0.0_r12",
+        "Version": "Android15",
+        "Supported devices": "Pixel 7, Pixel 7a, Pixel 7 Pro, Pixel 8, Pixel 8a, Pixel 8 Pro, Pixel 9, Pixel 9 Pro, Pixel 9 Pro Fold, Pixel 9 Pro XL, Pixel Fold",
+        "Security patch level": "2025-01-05"
+    },
+    {
+        "Build": "AP4A.250105.002.A1",
+        "Tag": "android-15.0.0_r11",
+        "Version": "Android15",
+        "Supported devices": "Pixel 6, Pixel 6a, Pixel 6 Pro",
+        "Security patch level": "2025-01-05"
+    },
+    {
+        "Build": "AP4A.250105.002",
+        "Tag": "android-15.0.0_r10",
+        "Version": "Android15",
+        "Supported devices": "Pixel 6, Pixel 6a, Pixel 6 Pro, Pixel 7, Pixel 7a, Pixel 7 Pro, Pixel 8, Pixel 8a, Pixel 8 Pro, Pixel 9, Pixel 9 Pro, Pixel 9 Pro Fold, Pixel 9 Pro XL, Pixel Fold, Pixel Tablet",
+        "Security patch level": "2025-01-05"
+    },
+    {
+        "Build": "AP4A.241205.013.C1",
+        "Tag": "android-15.0.0_r9",
+        "Version": "Android15",
+        "Supported devices": "Pixel 7, Pixel 7 Pro, Pixel 7a, Pixel 8, Pixel 8 Pro, Pixel 8a, Pixel 9, Pixel 9 Pro, Pixel 9 Pro Fold, Pixel 9 Pro XL, Pixel Fold",
+        "Security patch level": "2024-12-05"
+    },
+    {
+        "Build": "AP4A.241205.013.B1",
+        "Tag": "android-15.0.0_r8",
+        "Version": "Android15",
+        "Supported devices": "Pixel 7, Pixel 7 Pro, Pixel 7a, Pixel 8, Pixel 8 Pro, Pixel 8a, Pixel 9, Pixel 9 Pro, Pixel 9 Pro Fold, Pixel 9 Pro XL, Pixel Fold",
+        "Security patch level": "2024-12-05"
+    },
+    {
+        "Build": "AP4A.241205.013.A2",
+        "Tag": "android-15.0.0_r7",
+        "Version": "Android15",
+        "Supported devices": "Pixel 6, Pixel 6 Pro, Pixel 6a",
+        "Security patch level": "2024-12-05"
+    },
+    {
+        "Build": "AP4A.241205.013",
+        "Tag": "android-15.0.0_r6",
+        "Version": "Android15",
+        "Supported devices": "Pixel 6, Pixel 6 Pro, Pixel 6a, Pixel 7, Pixel 7 Pro, Pixel 7a, Pixel 8, Pixel 8 Pro, Pixel 8a, Pixel 9, Pixel 9 Pro, Pixel 9 Pro Fold, Pixel 9 Pro XL, Pixel Fold, Pixel Tablet",
+        "Security patch level": "2024-12-05"
+    },
+    {
+        "Build": "AP3A.241105.008",
+        "Tag": "android-15.0.0_r5",
+        "Version": "Android15",
+        "Supported devices": "Pixel 9, Pixel 9 Pro, Pixel 9 Pro Fold, Pixel 9 Pro XL",
+        "Security patch level": "2024-11-05"
+    },
+    {
+        "Build": "AP3A.241105.007",
+        "Tag": "android-15.0.0_r4",
+        "Version": "Android15",
+        "Supported devices": "Pixel 6, Pixel 6a, Pixel 6 Pro, Pixel 7, Pixel 7a, Pixel 7 Pro, Pixel 8, Pixel 8a, Pixel 8 Pro, Pixel Fold, Pixel Tablet",
+        "Security patch level": "2024-11-05"
+    },
+    {
+        "Build": "AP3A.241005.015.A2",
+        "Tag": "android-15.0.0_r3",
+        "Version": "Android15",
+        "Supported devices": "Pixel 6, Pixel 6 Pro, Pixel 6a, Pixel 7, Pixel 7 Pro, Pixel 7a, Pixel 8, Pixel 8 Pro, Pixel 8a, Pixel 9, Pixel 9 Pro, Pixel 9 Pro Fold, Pixel 9 Pro XL, Pixel Fold",
+        "Security patch level": "2024-10-05"
+    },
+    {
+        "Build": "AP3A.241005.015",
+        "Tag": "android-15.0.0_r2",
+        "Version": "Android15",
+        "Supported devices": "Pixel 6, Pixel 6 Pro, Pixel 6a, Pixel 7, Pixel 7 Pro, Pixel 7a, Pixel 8, Pixel 8 Pro, Pixel 8a, Pixel 9, Pixel 9 Pro, Pixel 9 Pro Fold, Pixel 9 Pro XL, Pixel Fold, Pixel Tablet",
+        "Security patch level": "2024-10-05"
+    },
+    {
+        "Build": "AP3A.240905.015.A2",
+        "Tag": "android-15.0.0_r1",
+        "Version": "Android15",
+        "Supported devices": "N/A",
+        "Security patch level": "2024-09-05"
+    },
+    {
+        "Build": "14841869",
+        "Tag": "android-security-15.0.0_r14",
+        "Version": "Android15",
+        "Supported devices": "N/A",
+        "Security patch level": "2024-09-05"
+    },
+    {
+        "Build": "14723107",
+        "Tag": "android-security-15.0.0_r13",
+        "Version": "Android15",
+        "Supported devices": "N/A",
+        "Security patch level": "2024-09-05"
+    },
+    {
+        "Build": "14367589",
+        "Tag": "android-security-15.0.0_r12",
+        "Version": "Android15",
+        "Supported devices": "N/A",
+        "Security patch level": "2024-09-05"
+    },
+    {
+        "Build": "14094965",
+        "Tag": "android-security-15.0.0_r11",
+        "Version": "Android15",
+        "Supported devices": "N/A",
+        "Security patch level": "2024-09-05"
+    },
+    {
+        "Build": "13793697",
+        "Tag": "android-security-15.0.0_r10",
+        "Version": "Android15",
+        "Supported devices": "N/A",
+        "Security patch level": "2024-09-05"
+    },
+    {
+        "Build": "13338164",
+        "Tag": "android-security-15.0.0_r9",
+        "Version": "Android15",
+        "Supported devices": "N/A",
+        "Security patch level": "2024-09-05"
+    },
+    {
+        "Build": "13206049",
+        "Tag": "android-security-15.0.0_r8",
+        "Version": "Android15",
+        "Supported devices": "N/A",
+        "Security patch level": "2024-09-05"
+    },
+    {
+        "Build": "13129382",
+        "Tag": "android-security-15.0.0_r7",
+        "Version": "Android15",
+        "Supported devices": "N/A",
+        "Security patch level": "2024-09-05"
+    },
+    {
+        "Build": "12895207",
+        "Tag": "android-security-15.0.0_r6",
+        "Version": "Android15",
+        "Supported devices": "N/A",
+        "Security patch level": "2024-09-05"
+    },
+    {
+        "Build": "12787471",
+        "Tag": "android-security-15.0.0_r5",
+        "Version": "Android15",
+        "Supported devices": "N/A",
+        "Security patch level": "2024-09-05"
+    },
+    {
+        "Build": "12617838",
+        "Tag": "android-security-15.0.0_r4",
+        "Version": "Android15",
+        "Supported devices": "N/A",
+        "Security patch level": "2024-09-05"
+    },
+    {
+        "Build": "12496839",
+        "Tag": "android-security-15.0.0_r3",
+        "Version": "Android15",
+        "Supported devices": "N/A",
+        "Security patch level": "2024-09-05"
+    },
+    {
+        "Build": "12392826",
+        "Tag": "android-security-15.0.0_r2",
+        "Version": "Android15",
+        "Supported devices": "N/A",
+        "Security patch level": "2024-09-05"
+    },
+    {
+        "Build": "12319019",
+        "Tag": "android-security-15.0.0_r1",
+        "Version": "Android15",
+        "Supported devices": "N/A",
+        "Security patch level": "2024-09-05"
+    },
+    {
+        "Build": "AP2A.240805.005.S4",
+        "Tag": "android-14.0.0_r75",
+        "Version": "Android14",
+        "Supported devices": "Pixel 5a (5G)",
+        "Security patch level": "2024-08-05"
+    },
+    {
+        "Build": "AD1A.240905.004",
+        "Tag": "android-14.0.0_r74",
+        "Version": "Android14",
+        "Supported devices": "Pixel 9, Pixel 9 Pro, Pixel 9 Pro Fold, Pixel 9 Pro XL",
+        "Security patch level": "2024-09-05"
+    },
+    {
+        "Build": "AP2A.240905.003.F1",
+        "Tag": "android-14.0.0_r73",
+        "Version": "Android14",
+        "Supported devices": "Pixel 6, Pixel 6a, Pixel 6 Pro",
+        "Security patch level": "2024-09-05"
+    },
+    {
+        "Build": "AP2A.240905.003.E1",
+        "Tag": "android-14.0.0_r72",
+        "Version": "Android14",
+        "Supported devices": "Pixel 8a",
+        "Security patch level": "2024-09-05"
+    },
+    {
+        "Build": "AP2A.240905.003.D1",
+        "Tag": "android-14.0.0_r71",
+        "Version": "Android14",
+        "Supported devices": "Pixel 8, Pixel 8 Pro",
+        "Security patch level": "2024-09-05"
+    },
+    {
+        "Build": "AP2A.240905.003.C1",
+        "Tag": "android-14.0.0_r70",
+        "Version": "Android14",
+        "Supported devices": "Pixel 8a",
+        "Security patch level": "2024-09-05"
+    },
+    {
+        "Build": "AP2A.240905.003.B1",
+        "Tag": "android-14.0.0_r69",
+        "Version": "Android14",
+        "Supported devices": "Pixel 8, Pixel 8 Pro",
+        "Security patch level": "2024-09-05"
+    },
+    {
+        "Build": "AP2A.240905.003.A1",
+        "Tag": "android-14.0.0_r68",
+        "Version": "Android14",
+        "Supported devices": "Pixel 8a",
+        "Security patch level": "2024-09-05"
+    },
+    {
+        "Build": "AP2A.240905.003",
+        "Tag": "android-14.0.0_r67",
+        "Version": "Android14",
+        "Supported devices": "Pixel 7, Pixel 7a, Pixel 7 Pro, Pixel 8, Pixel 8 Pro, Pixel Fold, Pixel Tablet",
+        "Security patch level": "2024-09-05"
+    },
+    {
+        "Build": "AD1A.240530.047",
+        "Tag": "android-14.0.0_r66",
+        "Version": "Android14",
+        "Supported devices": "Pixel 9, Pixel 9 Pro, Pixel 9 Pro XL, Pixel 9 Pro Fold",
+        "Security patch level": "2024-08-05"
+    },
+    {
+        "Build": "AD1A.240530.030.B1",
+        "Tag": "android-14.0.0_r65",
+        "Version": "Android14",
+        "Supported devices": "Pixel 9",
+        "Security patch level": "2024-07-05"
+    },
+    {
+        "Build": "AD1A.240530.030.A2",
+        "Tag": "android-14.0.0_r64",
+        "Version": "Android14",
+        "Supported devices": "Pixel 9, Pixel 9 Pro, Pixel 9 Pro XL",
+        "Security patch level": "2024-07-05"
+    },
+    {
+        "Build": "AD1A.240530.030.A1",
+        "Tag": "android-14.0.0_r63",
+        "Version": "Android14",
+        "Supported devices": "Pixel 9, Pixel 9 Pro, Pixel 9 Pro XL, Pixel 9 Pro Fold",
+        "Security patch level": "2024-07-05"
+    },
+    {
+        "Build": "AD1A.240530.030",
+        "Tag": "android-14.0.0_r62",
+        "Version": "Android14",
+        "Supported devices": "Pixel 9, Pixel 9 Pro, Pixel 9 Pro XL, Pixel 9 Pro Fold",
+        "Security patch level": "2024-07-05"
+    },
+    {
+        "Build": "AP2A.240805.005.F1",
+        "Tag": "android-14.0.0_r61",
+        "Version": "Android14",
+        "Supported devices": "Pixel 6, Pixel 6 Pro, Pixel 6a",
+        "Security patch level": "2024-08-05"
+    },
+    {
+        "Build": "AP2A.240805.005.E1",
+        "Tag": "android-14.0.0_r60",
+        "Version": "Android14",
+        "Supported devices": "Pixel 8a",
+        "Security patch level": "2024-08-05"
+    },
+    {
+        "Build": "AP2A.240805.005.D1",
+        "Tag": "android-14.0.0_r59",
+        "Version": "Android14",
+        "Supported devices": "Pixel 8, Pixel 8 Pro",
+        "Security patch level": "2024-08-05"
+    },
+    {
+        "Build": "AP2A.240805.005.C1",
+        "Tag": "android-14.0.0_r58",
+        "Version": "Android14",
+        "Supported devices": "Pixel 8a",
+        "Security patch level": "2024-08-05"
+    },
+    {
+        "Build": "AP2A.240805.005.B1",
+        "Tag": "android-14.0.0_r57",
+        "Version": "Android14",
+        "Supported devices": "Pixel 8, Pixel 8 Pro",
+        "Security patch level": "2024-08-05"
+    },
+    {
+        "Build": "AP2A.240805.005.A1",
+        "Tag": "android-14.0.0_r56",
+        "Version": "Android14",
+        "Supported devices": "Pixel 8a",
+        "Security patch level": "2024-08-05"
+    },
+    {
+        "Build": "AP2A.240805.005",
+        "Tag": "android-14.0.0_r55",
+        "Version": "Android14",
+        "Supported devices": "Pixel 5a (5G), Pixel 7, Pixel 7 Pro, Pixel 7a, Pixel 8, Pixel 8 Pro, Pixel Fold, Pixel Tablet",
+        "Security patch level": "2024-08-05"
+    },
+    {
+        "Build": "AP2A.240705.005.A1",
+        "Tag": "android-14.0.0_r54",
+        "Version": "Android14",
+        "Supported devices": "Pixel 8, Pixel 8a, Pixel 8 Pro",
+        "Security patch level": "2024-07-05"
+    },
+    {
+        "Build": "AP2A.240705.005",
+        "Tag": "android-14.0.0_r53",
+        "Version": "Android14",
+        "Supported devices": "Pixel 8, Pixel 8a, Pixel 8 Pro",
+        "Security patch level": "2024-07-05"
+    },
+    {
+        "Build": "AP2A.240705.004",
+        "Tag": "android-14.0.0_r52",
+        "Version": "Android14",
+        "Supported devices": "Pixel 5a (5G), Pixel 6, Pixel 6a, Pixel 6 Pro, Pixel 7, Pixel 7a, Pixel 7 Pro, Pixel Fold, Pixel Tablet",
+        "Security patch level": "2024-07-05"
+    },
+    {
+        "Build": "AP2A.240605.024.A1",
+        "Tag": "android-14.0.0_r51",
+        "Version": "Android14",
+        "Supported devices": "Pixel 8, Pixel 8 Pro, Pixel 8a",
+        "Security patch level": "2024-06-05"
+    },
+    {
+        "Build": "AP2A.240605.024",
+        "Tag": "android-14.0.0_r50",
+        "Version": "Android14",
+        "Supported devices": "Pixel 5a (5G), Pixel 6, Pixel 6 Pro, Pixel 6a, Pixel 7, Pixel 7 Pro, Pixel 7a, Pixel Tablet, Pixel Fold, Pixel 8, Pixel 8 Pro, Pixel 8a",
+        "Security patch level": "2024-06-05"
+    },
+    {
+        "Build": "UD2A.240505.001.W1",
+        "Tag": "android-14.0.0_r45",
+        "Version": "Android14",
+        "Supported devices": "Pixel 8a",
+        "Security patch level": "2024-05-05"
+    },
+    {
+        "Build": "UD2A.240505.001.D1",
+        "Tag": "android-14.0.0_r44",
+        "Version": "Android14",
+        "Supported devices": "Pixel 8a",
+        "Security patch level": "2024-05-05"
+    },
+    {
+        "Build": "UD2A.240505.001.B1",
+        "Tag": "android-14.0.0_r43",
+        "Version": "Android14",
+        "Supported devices": "Pixel 8a",
+        "Security patch level": "2024-05-05"
+    },
+    {
+        "Build": "UD2A.240505.001.A1",
+        "Tag": "android-14.0.0_r42",
+        "Version": "Android14",
+        "Supported devices": "Pixel 8a",
+        "Security patch level": "2024-05-05"
+    },
+    {
+        "Build": "UD2A.240505.001",
+        "Tag": "android-14.0.0_r41",
+        "Version": "Android14",
+        "Supported devices": "Pixel 8a",
+        "Security patch level": "2024-05-05"
+    },
+    {
+        "Build": "UD2A.231203.057.A1",
+        "Tag": "android-14.0.0_r40",
+        "Version": "Android14",
+        "Supported devices": "Pixel 8a",
+        "Security patch level": "2024-03-05"
+    },
+    {
+        "Build": "UD2A.231203.057",
+        "Tag": "android-14.0.0_r39",
+        "Version": "Android14",
+        "Supported devices": "Pixel 8a",
+        "Security patch level": "2024-03-05"
+    },
+    {
+        "Build": "UD2A.231203.054",
+        "Tag": "android-14.0.0_r38",
+        "Version": "Android14",
+        "Supported devices": "Pixel 8a",
+        "Security patch level": "2024-03-05"
+    },
+    {
+        "Build": "AP1A.240505.005.B1",
+        "Tag": "android-14.0.0_r37",
+        "Version": "Android14",
+        "Supported devices": "Pixel 7, Pixel 7a, Pixel 7 Pro, Pixel 8, Pixel 8 Pro, Pixel Fold",
+        "Security patch level": "2024-05-05"
+    },
+    {
+        "Build": "AP1A.240505.005.A1",
+        "Tag": "android-14.0.0_r36",
+        "Version": "Android14",
+        "Supported devices": "Pixel 7, Pixel 7a, Pixel 7 Pro, Pixel 8, Pixel 8 Pro, Pixel Fold",
+        "Security patch level": "2024-05-05"
+    },
+    {
+        "Build": "AP1A.240505.005",
+        "Tag": "android-14.0.0_r35",
+        "Version": "Android14",
+        "Supported devices": "Pixel 7, Pixel 7a, Pixel 7 Pro, Pixel 8, Pixel 8 Pro, Pixel Fold",
+        "Security patch level": "2024-05-05"
+    },
+    {
+        "Build": "AP1A.240505.004",
+        "Tag": "android-14.0.0_r34",
+        "Version": "Android14",
+        "Supported devices": "Pixel 5a (5G), Pixel 6, Pixel 6a, Pixel 6 Pro, Pixel 7, Pixel 7a, Pixel 7 Pro, Pixel 8, Pixel 8 Pro, Pixel Fold, Pixel Tablet",
+        "Security patch level": "2024-05-05"
+    },
+    {
+        "Build": "AP1A.240405.002.B1",
+        "Tag": "android-14.0.0_r33",
+        "Version": "Android14",
+        "Supported devices": "Pixel 7, Pixel 7 Pro, Pixel 7a, Pixel 8, Pixel 8 Pro",
+        "Security patch level": "2024-04-05"
+    },
+    {
+        "Build": "AP1A.240405.002.A2",
+        "Tag": "android-14.0.0_r32",
+        "Version": "Android14",
+        "Supported devices": "Pixel Fold",
+        "Security patch level": "2024-04-05"
+    },
+    {
+        "Build": "AP1A.240405.002.A1",
+        "Tag": "android-14.0.0_r31",
+        "Version": "Android14",
+        "Supported devices": "Pixel Fold",
+        "Security patch level": "2024-04-05"
+    },
+    {
+        "Build": "AP1A.240405.002",
+        "Tag": "android-14.0.0_r30",
+        "Version": "Android14",
+        "Supported devices": "Pixel 5a (5G), Pixel 6, Pixel 6a, Pixel 6 Pro, Pixel 7, Pixel 7a, Pixel 7 Pro, Pixel 8, Pixel 8 Pro, Pixel Tablet",
+        "Security patch level": "2024-04-05"
+    },
+    {
+        "Build": "AP1A.240305.019.A1",
+        "Tag": "android-14.0.0_r29",
+        "Version": "Android14",
+        "Supported devices": "Pixel 5a (5G), Pixel 6, Pixel 6a, Pixel 6 Pro, Pixel 7, Pixel 7a, Pixel 7 Pro, Pixel 8, Pixel 8 Pro, Pixel Fold, Pixel Tablet",
+        "Security patch level": "2024-03-05"
+    },
+    {
+        "Build": "UP1A.231105.001.B2",
+        "Tag": "android-14.0.0_r28",
+        "Version": "Android14",
+        "Supported devices": "Pixel 4a (5G), Pixel 5",
+        "Security patch level": "2023-11-05"
+    },
+    {
+        "Build": "UQ1A.240205.004.B1",
+        "Tag": "android-14.0.0_r27",
+        "Version": "Android14",
+        "Supported devices": "Pixel 8, Pixel 8 Pro",
+        "Security patch level": "2024-02-05"
+    },
+    {
+        "Build": "UQ1A.240205.004.A1",
+        "Tag": "android-14.0.0_r26",
+        "Version": "Android14",
+        "Supported devices": "Pixel 8, Pixel 8 Pro",
+        "Security patch level": "2024-02-05"
+    },
+    {
+        "Build": "UQ1A.240205.004",
+        "Tag": "android-14.0.0_r25",
+        "Version": "Android14",
+        "Supported devices": "Pixel 8, Pixel 8 Pro",
+        "Security patch level": "2024-02-05"
+    },
+    {
+        "Build": "UQ1A.240205.002.B1",
+        "Tag": "android-14.0.0_r24",
+        "Version": "Android14",
+        "Supported devices": "Pixel 7, Pixel 7 Pro, Pixel 7a, Pixel Fold",
+        "Security patch level": "2024-02-05"
+    },
+    {
+        "Build": "UQ1A.240205.002.A1",
+        "Tag": "android-14.0.0_r23",
+        "Version": "Android14",
+        "Supported devices": "Pixel 7, Pixel 7 Pro, Pixel 7a, Pixel Fold",
+        "Security patch level": "2024-02-05"
+    },
+    {
+        "Build": "UQ1A.240205.002",
+        "Tag": "android-14.0.0_r22",
+        "Version": "Android14",
+        "Supported devices": "Pixel 5a (5G), Pixel 6, Pixel 6 Pro, Pixel 6a, Pixel 7, Pixel 7 Pro, Pixel 7a, Pixel Fold, Pixel Tablet",
+        "Security patch level": "2024-02-05"
+    },
+    {
+        "Build": "UQ1A.240105.004.A1",
+        "Tag": "android-14.0.0_r21",
+        "Version": "Android14",
+        "Supported devices": "Pixel 7, Pixel 7a, Pixel 7 Pro, Pixel 8, Pixel 8 Pro, Pixel Fold",
+        "Security patch level": "2024-01-05"
+    },
+    {
+        "Build": "UQ1A.240105.004",
+        "Tag": "android-14.0.0_r20",
+        "Version": "Android14",
+        "Supported devices": "Pixel 7, Pixel 7a, Pixel 7 Pro, Pixel 8, Pixel 8 Pro, Pixel Fold",
+        "Security patch level": "2024-01-05"
+    },
+    {
+        "Build": "UQ1A.240105.002",
+        "Tag": "android-14.0.0_r19",
+        "Version": "Android14",
+        "Supported devices": "Pixel 5a (5G), Pixel 6, Pixel 6a, Pixel 6 Pro, Pixel Tablet",
+        "Security patch level": "2024-01-05"
+    },
+    {
+        "Build": "UQ1A.231205.015.A1",
+        "Tag": "android-14.0.0_r18",
+        "Version": "Android14",
+        "Supported devices": "Pixel 7, Pixel 7 Pro, Pixel 7a, Pixel 8, Pixel 8 Pro, Pixel Fold, Pixel Tablet",
+        "Security patch level": "2023-12-05"
+    },
+    {
+        "Build": "UQ1A.231205.015",
+        "Tag": "android-14.0.0_r17",
+        "Version": "Android14",
+        "Supported devices": "Pixel 6, Pixel 6 Pro, Pixel 6a, Pixel 7, Pixel 7 Pro, Pixel 7a, Pixel 8, Pixel 8 Pro, Pixel Fold, Pixel Tablet",
+        "Security patch level": "2023-12-05"
+    },
+    {
+        "Build": "UQ1A.231205.014",
+        "Tag": "android-14.0.0_r16",
+        "Version": "Android14",
+        "Supported devices": "Pixel 5a",
+        "Security patch level": "2023-12-05"
+    },
+    {
+        "Build": "UP1A.231105.003.A1",
+        "Tag": "android-14.0.0_r15",
+        "Version": "Android14",
+        "Supported devices": "Pixel 6, Pixel 6a, Pixel 6 Pro, Pixel 7, Pixel 7a, Pixel 7 Pro, Pixel Fold",
+        "Security patch level": "2023-11-01"
+    },
+    {
+        "Build": "UP1A.231105.003",
+        "Tag": "android-14.0.0_r14",
+        "Version": "Android14",
+        "Supported devices": "Pixel 6, Pixel 6a, Pixel 6 Pro, Pixel 7, Pixel 7a, Pixel 7 Pro, Pixel Fold, Pixel Tablet",
+        "Security patch level": "2023-11-01"
+    },
+    {
+        "Build": "UP1A.231105.001",
+        "Tag": "android-14.0.0_r13",
+        "Version": "Android14",
+        "Supported devices": "Pixel 4a (5G), Pixel 5, Pixel 5a (5G)",
+        "Security patch level": "2023-11-05"
+    },
+    {
+        "Build": "UD1A.231105.004",
+        "Tag": "android-14.0.0_r12",
+        "Version": "Android14",
+        "Supported devices": "Pixel 8, Pixel 8 Pro",
+        "Security patch level": "2023-11-05"
+    },
+    {
+        "Build": "UD1A.230803.041",
+        "Tag": "android-14.0.0_r11",
+        "Version": "Android14",
+        "Supported devices": "Pixel 8, Pixel 8 Pro",
+        "Security patch level": "2023-10-05"
+    },
+    {
+        "Build": "UD1A.230803.022.D1",
+        "Tag": "android-14.0.0_r10",
+        "Version": "Android14",
+        "Supported devices": "Pixel 8",
+        "Security patch level": "2023-09-05"
+    },
+    {
+        "Build": "UD1A.230803.022.C1",
+        "Tag": "android-14.0.0_r9",
+        "Version": "Android14",
+        "Supported devices": "Pixel 8",
+        "Security patch level": "2023-09-05"
+    },
+    {
+        "Build": "UD1A.230803.022.B2",
+        "Tag": "android-14.0.0_r8",
+        "Version": "Android14",
+        "Supported devices": "Pixel 8",
+        "Security patch level": "2023-09-05"
+    },
+    {
+        "Build": "UD1A.230803.022.B1",
+        "Tag": "android-14.0.0_r7",
+        "Version": "Android14",
+        "Supported devices": "Pixel 8 Pro",
+        "Security patch level": "2023-09-05"
+    },
+    {
+        "Build": "UD1A.230803.022.A5",
+        "Tag": "android-14.0.0_r6",
+        "Version": "Android14",
+        "Supported devices": "Pixel 8",
+        "Security patch level": "2023-09-05"
+    },
+    {
+        "Build": "UD1A.230803.022.A4",
+        "Tag": "android-14.0.0_r5",
+        "Version": "Android14",
+        "Supported devices": "Pixel 8 Pro",
+        "Security patch level": "2023-09-05"
+    },
+    {
+        "Build": "UD1A.230803.022.A3",
+        "Tag": "android-14.0.0_r4",
+        "Version": "Android14",
+        "Supported devices": "Pixel 8 Pro",
+        "Security patch level": "2023-09-05"
+    },
+    {
+        "Build": "UD1A.230803.022",
+        "Tag": "android-14.0.0_r3",
+        "Version": "Android14",
+        "Supported devices": "Pixel 8 Pro",
+        "Security patch level": "2023-09-05"
+    },
+    {
+        "Build": "UP1A.231005.007.A1",
+        "Tag": "android-14.0.0_r2",
+        "Version": "Android14",
+        "Supported devices": "Pixel 6, Pixel 6 Pro, Pixel 6a, Pixel 7, Pixel 7 Pro, Pixel 7a, Pixel Fold",
+        "Security patch level": "2023-10-05"
+    },
+    {
+        "Build": "UP1A.231005.007",
+        "Tag": "android-14.0.0_r1",
+        "Version": "Android14",
+        "Supported devices": "Pixel 4a (5G), Pixel 5, Pixel 5a (5G), Pixel 6, Pixel 6 Pro, Pixel 6a, Pixel 7, Pixel 7 Pro, Pixel 7a, Pixel Fold, Pixel Tablet",
+        "Security patch level": "2023-10-05"
+    },
+    {
+        "Build": "14841868",
+        "Tag": "android-security-14.0.0_r26",
+        "Version": "Android14",
+        "Supported devices": "N/A",
+        "Security patch level": "2023-10-05"
+    },
+    {
+        "Build": "14723106",
+        "Tag": "android-security-14.0.0_r25",
+        "Version": "Android14",
+        "Supported devices": "N/A",
+        "Security patch level": "2023-10-05"
+    },
+    {
+        "Build": "14367588",
+        "Tag": "android-security-14.0.0_r24",
+        "Version": "Android14",
+        "Supported devices": "N/A",
+        "Security patch level": "2023-10-05"
+    },
+    {
+        "Build": "14094963",
+        "Tag": "android-security-14.0.0_r23",
+        "Version": "Android14",
+        "Supported devices": "N/A",
+        "Security patch level": "2023-10-05"
+    },
+    {
+        "Build": "13793696",
+        "Tag": "android-security-14.0.0_r22",
+        "Version": "Android14",
+        "Supported devices": "N/A",
+        "Security patch level": "2023-10-05"
+    },
+    {
+        "Build": "13336552",
+        "Tag": "android-security-14.0.0_r21",
+        "Version": "Android14",
+        "Supported devices": "N/A",
+        "Security patch level": "2023-10-05"
+    },
+    {
+        "Build": "13218413",
+        "Tag": "android-security-14.0.0_r20",
+        "Version": "Android14",
+        "Supported devices": "N/A",
+        "Security patch level": "2023-10-05"
+    },
+    {
+        "Build": "13039521",
+        "Tag": "android-security-14.0.0_r19",
+        "Version": "Android14",
+        "Supported devices": "N/A",
+        "Security patch level": "2023-10-05"
+    },
+    {
+        "Build": "12895206",
+        "Tag": "android-security-14.0.0_r18",
+        "Version": "Android14",
+        "Supported devices": "N/A",
+        "Security patch level": "2023-10-05"
+    },
+    {
+        "Build": "12787469",
+        "Tag": "android-security-14.0.0_r17",
+        "Version": "Android14",
+        "Supported devices": "N/A",
+        "Security patch level": "2023-10-05"
+    },
+    {
+        "Build": "12617837",
+        "Tag": "android-security-14.0.0_r16",
+        "Version": "Android14",
+        "Supported devices": "N/A",
+        "Security patch level": "2023-10-05"
+    },
+    {
+        "Build": "12496787",
+        "Tag": "android-security-14.0.0_r15",
+        "Version": "Android14",
+        "Supported devices": "N/A",
+        "Security patch level": "2023-10-05"
+    },
+    {
+        "Build": "12392824",
+        "Tag": "android-security-14.0.0_r14",
+        "Version": "Android14",
+        "Supported devices": "N/A",
+        "Security patch level": "2023-10-05"
+    },
+    {
+        "Build": "12199513",
+        "Tag": "android-security-14.0.0_r13",
+        "Version": "Android14",
+        "Supported devices": "N/A",
+        "Security patch level": "2023-10-05"
+    },
+    {
+        "Build": "12123283",
+        "Tag": "android-security-14.0.0_r12",
+        "Version": "Android14",
+        "Supported devices": "N/A",
+        "Security patch level": "2023-10-05"
+    },
+    {
+        "Build": "11933031",
+        "Tag": "android-security-14.0.0_r11",
+        "Version": "Android14",
+        "Supported devices": "N/A",
+        "Security patch level": "2023-10-05"
+    },
+    {
+        "Build": "11818036",
+        "Tag": "android-security-14.0.0_r10",
+        "Version": "Android14",
+        "Supported devices": "N/A",
+        "Security patch level": "2023-10-05"
+    },
+    {
+        "Build": "11698591",
+        "Tag": "android-security-14.0.0_r9",
+        "Version": "Android14",
+        "Supported devices": "N/A",
+        "Security patch level": "2023-10-05"
+    },
+    {
+        "Build": "11584912",
+        "Tag": "android-security-14.0.0_r8",
+        "Version": "Android14",
+        "Supported devices": "N/A",
+        "Security patch level": "2023-10-05"
+    },
+    {
+        "Build": "11422633",
+        "Tag": "android-security-14.0.0_r7",
+        "Version": "Android14",
+        "Supported devices": "N/A",
+        "Security patch level": "2023-10-05"
+    },
+    {
+        "Build": "11299696",
+        "Tag": "android-security-14.0.0_r6",
+        "Version": "Android14",
+        "Supported devices": "N/A",
+        "Security patch level": "2023-10-05"
+    },
+    {
+        "Build": "11228181",
+        "Tag": "android-security-14.0.0_r5",
+        "Version": "Android14",
+        "Supported devices": "N/A",
+        "Security patch level": "2023-10-05"
+    },
+    {
+        "Build": "11083643",
+        "Tag": "android-security-14.0.0_r4",
+        "Version": "Android14",
+        "Supported devices": "N/A",
+        "Security patch level": "2023-10-05"
+    },
+    {
+        "Build": "10993244",
+        "Tag": "android-security-14.0.0_r3",
+        "Version": "Android14",
+        "Supported devices": "N/A",
+        "Security patch level": "2023-10-05"
+    },
+    {
+        "Build": "10844938",
+        "Tag": "android-security-14.0.0_r2",
+        "Version": "Android14",
+        "Supported devices": "N/A",
+        "Security patch level": "2023-10-05"
+    },
+    {
+        "Build": "10640587",
+        "Tag": "android-security-14.0.0_r1",
+        "Version": "Android14",
+        "Supported devices": "N/A",
+        "Security patch level": "2023-08-05"
+    },
+    {
+        "Build": "TQ3A.230805.001.S2",
+        "Tag": "android-13.0.0_r84",
+        "Version": "Android13",
+        "Supported devices": "Pixel 4a",
+        "Security patch level": "2023-08-05"
+    },
+    {
+        "Build": "TQ3A.230805.001.S1",
+        "Tag": "android-13.0.0_r83",
+        "Version": "Android13",
+        "Supported devices": "Pixel 4a",
+        "Security patch level": "2023-08-05"
+    },
+    {
+        "Build": "TQ3C.230901.001.B1",
+        "Tag": "android-13.0.0_r82",
+        "Version": "Android13",
+        "Supported devices": "Pixel Fold",
+        "Security patch level": "2023-09-01"
+    },
+    {
+        "Build": "TQ3C.230901.001.A2",
+        "Tag": "android-13.0.0_r81",
+        "Version": "Android13",
+        "Supported devices": "Pixel Fold",
+        "Security patch level": "2023-09-01"
+    },
+    {
+        "Build": "TQ3C.230901.001.A1",
+        "Tag": "android-13.0.0_r80",
+        "Version": "Android13",
+        "Supported devices": "Pixel Fold",
+        "Security patch level": "2023-09-01"
+    },
+    {
+        "Build": "TQ3A.230901.001.C3",
+        "Tag": "android-13.0.0_r79",
+        "Version": "Android13",
+        "Supported devices": "Pixel 7a",
+        "Security patch level": "2023-09-01"
+    },
+    {
+        "Build": "TQ3A.230901.001.C2",
+        "Tag": "android-13.0.0_r78",
+        "Version": "Android13",
+        "Supported devices": "Pixel 4a (5G), Pixel 5, Pixel 5a (5G), Pixel 6, Pixel 6a, Pixel 6 Pro, Pixel 7, Pixel 7 Pro",
+        "Security patch level": "2023-09-01"
+    },
+    {
+        "Build": "TQ3A.230901.001.C1",
+        "Tag": "android-13.0.0_r77",
+        "Version": "Android13",
+        "Supported devices": "Pixel 6, Pixel 6a, Pixel 6 Pro",
+        "Security patch level": "2023-09-01"
+    },
+    {
+        "Build": "TQ3A.230901.001.B1",
+        "Tag": "android-13.0.0_r76",
+        "Version": "Android13",
+        "Supported devices": "Pixel Tablet",
+        "Security patch level": "2023-09-01"
+    },
+    {
+        "Build": "TQ3C.230805.001.B2",
+        "Tag": "android-13.0.0_r74",
+        "Version": "Android13",
+        "Supported devices": "Pixel Fold",
+        "Security patch level": "2023-08-05"
+    },
+    {
+        "Build": "TQ3C.230805.001.A4",
+        "Tag": "android-13.0.0_r73",
+        "Version": "Android13",
+        "Supported devices": "Pixel Fold",
+        "Security patch level": "2023-08-05"
+    },
+    {
+        "Build": "TQ3C.230805.001.A3",
+        "Tag": "android-13.0.0_r72",
+        "Version": "Android13",
+        "Supported devices": "Pixel Fold",
+        "Security patch level": "2023-08-05"
+    },
+    {
+        "Build": "TQ3A.230805.001.B1",
+        "Tag": "android-13.0.0_r71",
+        "Version": "Android13",
+        "Supported devices": "Pixel Tablet",
+        "Security patch level": "2023-08-05"
+    },
+    {
+        "Build": "TQ3A.230805.001.A3",
+        "Tag": "android-13.0.0_r70",
+        "Version": "Android13",
+        "Supported devices": "Pixel 7a",
+        "Security patch level": "2023-08-05"
+    },
+    {
+        "Build": "TQ3A.230805.001.A2",
+        "Tag": "android-13.0.0_r69",
+        "Version": "Android13",
+        "Supported devices": "Pixel 4a (5G), Pixel 4a, Pixel 5, Pixel 5a (5G), Pixel 6 Pro, Pixel 6, Pixel 6a, Pixel 7 Pro, Pixel 7",
+        "Security patch level": "2023-08-05"
+    },
+    {
+        "Build": "TQ3A.230805.001.A1",
+        "Tag": "android-13.0.0_r68",
+        "Version": "Android13",
+        "Supported devices": "Pixel 6 Pro, Pixel 6, Pixel 6a",
+        "Security patch level": "2023-08-05"
+    },
+    {
+        "Build": "TQ3A.230805.001",
+        "Tag": "android-13.0.0_r67",
+        "Version": "Android13",
+        "Supported devices": "Pixel 4a (5G), Pixel 4a, Pixel 5, Pixel 5a (5G), Pixel 6 Pro, Pixel 6, Pixel 6a, Pixel 7 Pro, Pixel 7, Pixel 7a",
+        "Security patch level": "2023-08-05"
+    },
+    {
+        "Build": "TQ3C.230705.001.C2",
+        "Tag": "android-13.0.0_r66",
+        "Version": "Android13",
+        "Supported devices": "Pixel Fold",
+        "Security patch level": "2023-07-05"
+    },
+    {
+        "Build": "TQ3C.230705.001.C1",
+        "Tag": "android-13.0.0_r65",
+        "Version": "Android13",
+        "Supported devices": "Pixel Fold",
+        "Security patch level": "2023-07-05"
+    },
+    {
+        "Build": "TQ3C.230705.001.B1",
+        "Tag": "android-13.0.0_r64",
+        "Version": "Android13",
+        "Supported devices": "Pixel Fold",
+        "Security patch level": "2023-07-05"
+    },
+    {
+        "Build": "TQ3A.230705.001.B4",
+        "Tag": "android-13.0.0_r63",
+        "Version": "Android13",
+        "Supported devices": "Pixel Tablet",
+        "Security patch level": "2023-07-05"
+    },
+    {
+        "Build": "TQ3A.230705.001.A1",
+        "Tag": "android-13.0.0_r62",
+        "Version": "Android13",
+        "Supported devices": "Pixel 6, Pixel 6a, Pixel 6 Pro, Pixel 7, Pixel 7 Pro",
+        "Security patch level": "2023-07-05"
+    },
+    {
+        "Build": "TQ3A.230705.001",
+        "Tag": "android-13.0.0_r61",
+        "Version": "Android13",
+        "Supported devices": "Pixel 4a, Pixel 4a (5G), Pixel 5, Pixel 5a (5G), Pixel 6, Pixel 6a, Pixel 6 Pro, Pixel 7, Pixel 7 Pro",
+        "Security patch level": "2023-07-05"
+    },
+    {
+        "Build": "TQ3C.230605.010.D1",
+        "Tag": "android-13.0.0_r60",
+        "Version": "Android13",
+        "Supported devices": "Pixel Fold",
+        "Security patch level": "2023-06-05"
+    },
+    {
+        "Build": "TQ3C.230605.010.C2",
+        "Tag": "android-13.0.0_r59",
+        "Version": "Android13",
+        "Supported devices": "Pixel Fold",
+        "Security patch level": "2023-06-05"
+    },
+    {
+        "Build": "TQ3C.230605.010.C1",
+        "Tag": "android-13.0.0_r58",
+        "Version": "Android13",
+        "Supported devices": "Pixel Fold",
+        "Security patch level": "2023-06-05"
+    },
+    {
+        "Build": "TD3A.230203.070.A1",
+        "Tag": "android-13.0.0_r57",
+        "Version": "Android13",
+        "Supported devices": "Pixel Fold",
+        "Security patch level": "2023-04-05"
+    },
+    {
+        "Build": "TQ3A.230605.009.A1",
+        "Tag": "android-13.0.0_r56",
+        "Version": "Android13",
+        "Supported devices": "Pixel Tablet",
+        "Security patch level": "2023-06-05"
+    },
+    {
+        "Build": "TD2A.230203.028",
+        "Tag": "android-13.0.0_r55",
+        "Version": "Android13",
+        "Supported devices": "Pixel Tablet",
+        "Security patch level": "2023-03-05"
+    },
+    {
+        "Build": "TQ3A.230605.012.A1",
+        "Tag": "android-13.0.0_r54",
+        "Version": "Android13",
+        "Supported devices": "Pixel 7, Pixel 7 Pro, Pixel 7a",
+        "Security patch level": "2023-06-05"
+    },
+    {
+        "Build": "TQ3A.230605.010.A1",
+        "Tag": "android-13.0.0_r53",
+        "Version": "Android13",
+        "Supported devices": "Pixel 6, Pixel 6 Pro, Pixel 6a",
+        "Security patch level": "2023-06-05"
+    },
+    {
+        "Build": "TQ3A.230605.012",
+        "Tag": "android-13.0.0_r52",
+        "Version": "Android13",
+        "Supported devices": "Pixel 7, Pixel 7 Pro, Pixel 7a",
+        "Security patch level": "2023-06-05"
+    },
+    {
+        "Build": "TQ3A.230605.011",
+        "Tag": "android-13.0.0_r51",
+        "Version": "Android13",
+        "Supported devices": "Pixel 4a, Pixel 4a (5G), Pixel 5, Pixel 5a",
+        "Security patch level": "2023-06-05"
+    },
+    {
+        "Build": "TQ3A.230605.010",
+        "Tag": "android-13.0.0_r50",
+        "Version": "Android13",
+        "Supported devices": "Pixel 6, Pixel 6 Pro, Pixel 6a",
+        "Security patch level": "2023-06-05"
+    },
+    {
+        "Build": "TQ2B.230505.005.A1",
+        "Tag": "android-13.0.0_r49",
+        "Version": "Android13",
+        "Supported devices": "Pixel 7a",
+        "Security patch level": "2023-05-05"
+    },
+    {
+        "Build": "TD4A.221205.042.B1",
+        "Tag": "android-13.0.0_r48",
+        "Version": "Android13",
+        "Supported devices": "Pixel 7a",
+        "Security patch level": "2023-03-05"
+    },
+    {
+        "Build": "TD4A.221205.042.A1",
+        "Tag": "android-13.0.0_r47",
+        "Version": "Android13",
+        "Supported devices": "Pixel 7a",
+        "Security patch level": "2023-03-05"
+    },
+    {
+        "Build": "TD4A.221205.042",
+        "Tag": "android-13.0.0_r46",
+        "Version": "Android13",
+        "Supported devices": "Pixel 7a",
+        "Security patch level": "2023-03-05"
+    },
+    {
+        "Build": "TQ2A.230505.002.G1",
+        "Tag": "android-13.0.0_r45",
+        "Version": "Android13",
+        "Supported devices": "Pixel 6, Pixel 6a, Pixel 6 Pro",
+        "Security patch level": "2023-05-05"
+    },
+    {
+        "Build": "TQ2A.230505.002.A1",
+        "Tag": "android-13.0.0_r44",
+        "Version": "Android13",
+        "Supported devices": "Pixel 4a (5G), Pixel 5, Pixel 5a (5G)",
+        "Security patch level": "2023-05-05"
+    },
+    {
+        "Build": "TQ2A.230505.002",
+        "Tag": "android-13.0.0_r43",
+        "Version": "Android13",
+        "Supported devices": "Pixel 4a, Pixel 4a (5G), Pixel 5, Pixel 5a (5G), Pixel 6, Pixel 6a, Pixel 6 Pro, Pixel 7, Pixel 7 Pro",
+        "Security patch level": "2023-05-05"
+    },
+    {
+        "Build": "TQ2A.230405.003.G1",
+        "Tag": "android-13.0.0_r42",
+        "Version": "Android13",
+        "Supported devices": "Pixel 6, Pixel 6 Pro, Pixel 6a",
+        "Security patch level": "2023-04-05"
+    },
+    {
+        "Build": "TQ2A.230405.003.E1",
+        "Tag": "android-13.0.0_r41",
+        "Version": "Android13",
+        "Supported devices": "Pixel 6, Pixel 6 Pro, Pixel 6a, Pixel 7, Pixel 7 Pro",
+        "Security patch level": "2023-04-05"
+    },
+    {
+        "Build": "TQ2A.230405.003.B2",
+        "Tag": "android-13.0.0_r40",
+        "Version": "Android13",
+        "Supported devices": "Pixel 4a, Pixel 4a (5G), Pixel 5, Pixel 5a",
+        "Security patch level": "2023-04-05"
+    },
+    {
+        "Build": "TQ2A.230405.003.A2",
+        "Tag": "android-13.0.0_r39",
+        "Version": "Android13",
+        "Supported devices": "Pixel 4a (5G), Pixel 5, Pixel 5a",
+        "Security patch level": "2023-04-05"
+    },
+    {
+        "Build": "TQ2A.230405.003",
+        "Tag": "android-13.0.0_r38",
+        "Version": "Android13",
+        "Supported devices": "Pixel 4a, Pixel 4a (5G), Pixel 5, Pixel 5a",
+        "Security patch level": "2023-04-05"
+    },
+    {
+        "Build": "TQ2A.230305.008.F1",
+        "Tag": "android-13.0.0_r37",
+        "Version": "Android13",
+        "Supported devices": "Pixel 6, Pixel 6a, Pixel 6 Pro",
+        "Security patch level": "2023-03-05"
+    },
+    {
+        "Build": "TQ2A.230305.008.E1",
+        "Tag": "android-13.0.0_r36",
+        "Version": "Android13",
+        "Supported devices": "Pixel 6, Pixel 6a, Pixel 6 Pro",
+        "Security patch level": "2023-03-05"
+    },
+    {
+        "Build": "TQ2A.230305.008.C1",
+        "Tag": "android-13.0.0_r35",
+        "Version": "Android13",
+        "Supported devices": "Pixel 4a, Pixel 4a (5G), Pixel 5, Pixel 5a (5G), Pixel 7 Pro",
+        "Security patch level": "2023-03-05"
+    },
+    {
+        "Build": "TQ2A.230305.008.A3",
+        "Tag": "android-13.0.0_r34",
+        "Version": "Android13",
+        "Supported devices": "Pixel 4a (5G), Pixel 5, Pixel 5a (5G), Pixel 7 Pro",
+        "Security patch level": "2023-03-05"
+    },
+    {
+        "Build": "TQ2A.230305.008.A1",
+        "Tag": "android-13.0.0_r33",
+        "Version": "Android13",
+        "Supported devices": "Pixel 7",
+        "Security patch level": "2023-03-05"
+    },
+    {
+        "Build": "TQ2A.230305.008",
+        "Tag": "android-13.0.0_r32",
+        "Version": "Android13",
+        "Supported devices": "Pixel 7",
+        "Security patch level": "2023-03-05"
+    },
+    {
+        "Build": "TP1A.221005.002.B2",
+        "Tag": "android-13.0.0_r31",
+        "Version": "Android13",
+        "Supported devices": "Pixel 4, Pixel 4 XL",
+        "Security patch level": "2022-10-05"
+    },
+    {
+        "Build": "TQ1A.230205.002",
+        "Tag": "android-13.0.0_r30",
+        "Version": "Android13",
+        "Supported devices": "Pixel 4a, Pixel 4a (5G), Pixel 5, Pixel 5a, Pixel 6, Pixel 6 Pro, Pixel 6a, Pixel 7, Pixel 7 Pro",
+        "Security patch level": "2023-02-05"
+    },
+    {
+        "Build": "TQ1A.230205.001.D2",
+        "Tag": "android-13.0.0_r29",
+        "Version": "Android13",
+        "Supported devices": "Pixel 4a (5G), Pixel 5, Pixel 5a, Pixel 6, Pixel 6 Pro, Pixel 6a, Pixel 7, Pixel 7 Pro",
+        "Security patch level": "2023-02-05"
+    },
+    {
+        "Build": "TQ1A.230205.001.B2",
+        "Tag": "android-13.0.0_r28",
+        "Version": "Android13",
+        "Supported devices": "Pixel 4a",
+        "Security patch level": "2023-02-05"
+    },
+    {
+        "Build": "TQ1A.230205.001.A2",
+        "Tag": "android-13.0.0_r27",
+        "Version": "Android13",
+        "Supported devices": "Pixel 7, Pixel 7 Pro",
+        "Security patch level": "2023-02-05"
+    },
+    {
+        "Build": "TQ1A.230105.002.A1",
+        "Tag": "android-13.0.0_r24",
+        "Version": "Android13",
+        "Supported devices": "Pixel 7 Pro",
+        "Security patch level": "2023-01-05"
+    },
+    {
+        "Build": "TQ1A.230105.002",
+        "Tag": "android-13.0.0_r23",
+        "Version": "Android13",
+        "Supported devices": "Pixel 6, Pixel 6 Pro, Pixel 7 Pro",
+        "Security patch level": "2023-01-05"
+    },
+    {
+        "Build": "TQ1A.230105.001.B1",
+        "Tag": "android-13.0.0_r22",
+        "Version": "Android13",
+        "Supported devices": "Pixel 4a",
+        "Security patch level": "2023-01-05"
+    },
+    {
+        "Build": "TQ1A.230105.001.A3",
+        "Tag": "android-13.0.0_r21",
+        "Version": "Android13",
+        "Supported devices": "Pixel 7",
+        "Security patch level": "2023-01-05"
+    },
+    {
+        "Build": "TQ1A.230105.001.A2",
+        "Tag": "android-13.0.0_r20",
+        "Version": "Android13",
+        "Supported devices": "Pixel 6a, Pixel 7",
+        "Security patch level": "2023-01-05"
+    },
+    {
+        "Build": "TQ1A.230105.001",
+        "Tag": "android-13.0.0_r19",
+        "Version": "Android13",
+        "Supported devices": "Pixel 4a, Pixel 4a (5G), Pixel 5, Pixel 5a (5G)",
+        "Security patch level": "2023-01-05"
+    },
+    {
+        "Build": "TQ1A.221205.012",
+        "Tag": "android-13.0.0_r18",
+        "Version": "Android13",
+        "Supported devices": "Pixel 6a, Pixel 7, Pixel 7 Pro",
+        "Security patch level": "2022-12-05"
+    },
+    {
+        "Build": "TQ1A.221205.011.B1",
+        "Tag": "android-13.0.0_r17",
+        "Version": "Android13",
+        "Supported devices": "Pixel 4a",
+        "Security patch level": "2022-12-05"
+    },
+    {
+        "Build": "TQ1A.221205.011",
+        "Tag": "android-13.0.0_r16",
+        "Version": "Android13",
+        "Supported devices": "Pixel 4a, Pixel 4a (5G), Pixel 5, Pixel 5a (5G), Pixel 6, Pixel 6 Pro, Pixel 6a, Pixel 7, Pixel 7 Pro",
+        "Security patch level": "2022-12-05"
+    },
+    {
+        "Build": "TD1A.221105.001.A1",
+        "Tag": "android-13.0.0_r15",
+        "Version": "Android13",
+        "Supported devices": "Pixel 7, Pixel 7 Pro",
+        "Security patch level": "2022-11-05"
+    },
+    {
+        "Build": "TD1A.221105.003",
+        "Tag": "android-13.0.0_r14",
+        "Version": "Android13",
+        "Supported devices": "Pixel 7, Pixel 7 Pro",
+        "Security patch level": "2022-11-05"
+    },
+    {
+        "Build": "TD1A.221105.001",
+        "Tag": "android-13.0.0_r13",
+        "Version": "Android13",
+        "Supported devices": "Pixel 7, Pixel 7 Pro",
+        "Security patch level": "2022-11-05"
+    },
+    {
+        "Build": "TP1A.221105.002",
+        "Tag": "android-13.0.0_r12",
+        "Version": "Android13",
+        "Supported devices": "Pixel 4a, Pixel 4a (5G), Pixel 5, Pixel 5a (5G), Pixel 6, Pixel 6a, Pixel 6 Pro",
+        "Security patch level": "2022-11-05"
+    },
+    {
+        "Build": "TD1A.220804.031",
+        "Tag": "android-13.0.0_r11",
+        "Version": "Android13",
+        "Supported devices": "Pixel 7, Pixel 7 Pro",
+        "Security patch level": "2022-10-05"
+    },
+    {
+        "Build": "TD1A.220804.009.A5",
+        "Tag": "android-13.0.0_r10",
+        "Version": "Android13",
+        "Supported devices": "Pixel 7, Pixel 7 Pro",
+        "Security patch level": "2022-09-05"
+    },
+    {
+        "Build": "TD1A.220804.009.A2",
+        "Tag": "android-13.0.0_r9",
+        "Version": "Android13",
+        "Supported devices": "Pixel 7, Pixel 7 Pro",
+        "Security patch level": "2022-09-05"
+    },
+    {
+        "Build": "TP1A.221005.003",
+        "Tag": "android-13.0.0_r8",
+        "Version": "Android13",
+        "Supported devices": "Pixel 6a",
+        "Security patch level": "2022-10-05"
+    },
+    {
+        "Build": "TP1A.221005.002",
+        "Tag": "android-13.0.0_r7",
+        "Version": "Android13",
+        "Supported devices": "Pixel 4, Pixel 4a, Pixel 4a (5G), Pixel 4 XL, Pixel 5, Pixel 5a (5G), Pixel 6, Pixel 6 Pro",
+        "Security patch level": "2022-10-05"
+    },
+    {
+        "Build": "TP1A.220905.004.A2",
+        "Tag": "android-13.0.0_r6",
+        "Version": "Android13",
+        "Supported devices": "Pixel 6a",
+        "Security patch level": "2022-09-05"
+    },
+    {
+        "Build": "TP1A.220905.004.A1",
+        "Tag": "android-13.0.0_r5",
+        "Version": "Android13",
+        "Supported devices": "Pixel 6, Pixel 6 Pro",
+        "Security patch level": "2022-09-05"
+    },
+    {
+        "Build": "TP1A.220905.004",
+        "Tag": "android-13.0.0_r4",
+        "Version": "Android13",
+        "Supported devices": "Pixel 4, Pixel 4a, Pixel 4a (5G), Pixel 4 XL, Pixel 5, Pixel 5a (5G), Pixel 6, Pixel 6 Pro",
+        "Security patch level": "2022-09-05"
+    },
+    {
+        "Build": "TP1A.220624.021.A1",
+        "Tag": "android-13.0.0_r3",
+        "Version": "Android13",
+        "Supported devices": "Pixel 6a",
+        "Security patch level": "2022-08-05"
+    },
+    {
+        "Build": "TP1A.220624.021",
+        "Tag": "android-13.0.0_r2",
+        "Version": "Android13",
+        "Supported devices": "Pixel 6, Pixel 6 Pro",
+        "Security patch level": "2022-08-05"
+    },
+    {
+        "Build": "TP1A.220624.014",
+        "Tag": "android-13.0.0_r1",
+        "Version": "Android13",
+        "Supported devices": "Pixel 4, Pixel 4a, Pixel 4a (5G), Pixel 4 XL, Pixel 5, Pixel 5a (5G)",
+        "Security patch level": "2022-08-05"
+    },
+    {
+        "Build": "14367587",
+        "Tag": "android-security-13.0.0_r33",
+        "Version": "Android13",
+        "Supported devices": "N/A",
+        "Security patch level": "2022-08-05"
+    },
+    {
+        "Build": "14094961",
+        "Tag": "android-security-13.0.0_r32",
+        "Version": "Android13",
+        "Supported devices": "N/A",
+        "Security patch level": "2022-08-05"
+    },
+    {
+        "Build": "13793695",
+        "Tag": "android-security-13.0.0_r31",
+        "Version": "Android13",
+        "Supported devices": "N/A",
+        "Security patch level": "2022-08-05"
+    },
+    {
+        "Build": "13336551",
+        "Tag": "android-security-13.0.0_r30",
+        "Version": "Android13",
+        "Supported devices": "N/A",
+        "Security patch level": "2022-08-05"
+    },
+    {
+        "Build": "13218412",
+        "Tag": "android-security-13.0.0_r29",
+        "Version": "Android13",
+        "Supported devices": "N/A",
+        "Security patch level": "2022-08-05"
+    },
+    {
+        "Build": "13020589",
+        "Tag": "android-security-13.0.0_r28",
+        "Version": "Android13",
+        "Supported devices": "N/A",
+        "Security patch level": "2022-08-05"
+    },
+    {
+        "Build": "12895205",
+        "Tag": "android-security-13.0.0_r27",
+        "Version": "Android13",
+        "Supported devices": "N/A",
+        "Security patch level": "2022-08-05"
+    },
+    {
+        "Build": "12787467",
+        "Tag": "android-security-13.0.0_r26",
+        "Version": "Android13",
+        "Supported devices": "N/A",
+        "Security patch level": "2022-08-05"
+    },
+    {
+        "Build": "12617836",
+        "Tag": "android-security-13.0.0_r25",
+        "Version": "Android13",
+        "Supported devices": "N/A",
+        "Security patch level": "2022-08-05"
+    },
+    {
+        "Build": "12496786",
+        "Tag": "android-security-13.0.0_r24",
+        "Version": "Android13",
+        "Supported devices": "N/A",
+        "Security patch level": "2022-08-05"
+    },
+    {
+        "Build": "12392823",
+        "Tag": "android-security-13.0.0_r23",
+        "Version": "Android13",
+        "Supported devices": "N/A",
+        "Security patch level": "2022-08-05"
+    },
+    {
+        "Build": "12199512",
+        "Tag": "android-security-13.0.0_r22",
+        "Version": "Android13",
+        "Supported devices": "N/A",
+        "Security patch level": "2022-08-05"
+    },
+    {
+        "Build": "12072401",
+        "Tag": "android-security-13.0.0_r21",
+        "Version": "Android13",
+        "Supported devices": "N/A",
+        "Security patch level": "2022-08-05"
+    },
+    {
+        "Build": "11933030",
+        "Tag": "android-security-13.0.0_r20",
+        "Version": "Android13",
+        "Supported devices": "N/A",
+        "Security patch level": "2022-08-05"
+    },
+    {
+        "Build": "11818035",
+        "Tag": "android-security-13.0.0_r19",
+        "Version": "Android13",
+        "Supported devices": "N/A",
+        "Security patch level": "2022-08-05"
+    },
+    {
+        "Build": "11698590",
+        "Tag": "android-security-13.0.0_r18",
+        "Version": "Android13",
+        "Supported devices": "N/A",
+        "Security patch level": "2022-08-05"
+    },
+    {
+        "Build": "11584911",
+        "Tag": "android-security-13.0.0_r17",
+        "Version": "Android13",
+        "Supported devices": "N/A",
+        "Security patch level": "2022-08-05"
+    },
+    {
+        "Build": "11422632",
+        "Tag": "android-security-13.0.0_r16",
+        "Version": "Android13",
+        "Supported devices": "N/A",
+        "Security patch level": "2022-08-05"
+    },
+    {
+        "Build": "11299695",
+        "Tag": "android-security-13.0.0_r15",
+        "Version": "Android13",
+        "Supported devices": "N/A",
+        "Security patch level": "2022-08-05"
+    },
+    {
+        "Build": "11228180",
+        "Tag": "android-security-13.0.0_r14",
+        "Version": "Android13",
+        "Supported devices": "N/A",
+        "Security patch level": "2022-08-05"
+    },
+    {
+        "Build": "11084765",
+        "Tag": "android-security-13.0.0_r13",
+        "Version": "Android13",
+        "Supported devices": "N/A",
+        "Security patch level": "2022-08-05"
+    },
+    {
+        "Build": "10993242",
+        "Tag": "android-security-13.0.0_r12",
+        "Version": "Android13",
+        "Supported devices": "N/A",
+        "Security patch level": "2022-08-05"
+    },
+    {
+        "Build": "10843705",
+        "Tag": "android-security-13.0.0_r11",
+        "Version": "Android13",
+        "Supported devices": "N/A",
+        "Security patch level": "2022-08-05"
+    },
+    {
+        "Build": "10763433",
+        "Tag": "android-security-13.0.0_r10",
+        "Version": "Android13",
+        "Supported devices": "N/A",
+        "Security patch level": "2022-08-05"
+    },
+    {
+        "Build": "10609151",
+        "Tag": "android-security-13.0.0_r9",
+        "Version": "Android13",
+        "Supported devices": "N/A",
+        "Security patch level": "2022-08-05"
+    },
+    {
+        "Build": "10286630",
+        "Tag": "android-security-13.0.0_r8",
+        "Version": "Android13",
+        "Supported devices": "N/A",
+        "Security patch level": "2022-08-05"
+    },
+    {
+        "Build": "10187392",
+        "Tag": "android-security-13.0.0_r7",
+        "Version": "Android13",
+        "Supported devices": "N/A",
+        "Security patch level": "2022-08-05"
+    },
+    {
+        "Build": "10026668",
+        "Tag": "android-security-13.0.0_r6",
+        "Version": "Android13",
+        "Supported devices": "N/A",
+        "Security patch level": "2022-08-05"
+    },
+    {
+        "Build": "9873343",
+        "Tag": "android-security-13.0.0_r5",
+        "Version": "Android13",
+        "Supported devices": "N/A",
+        "Security patch level": "2022-08-05"
+    },
+    {
+        "Build": "9682190",
+        "Tag": "android-security-13.0.0_r4",
+        "Version": "Android13",
+        "Supported devices": "N/A",
+        "Security patch level": "2022-08-05"
+    },
+    {
+        "Build": "9575282",
+        "Tag": "android-security-13.0.0_r3",
+        "Version": "Android13",
+        "Supported devices": "N/A",
+        "Security patch level": "2022-08-05"
+    },
+    {
+        "Build": "9402439",
+        "Tag": "android-security-13.0.0_r2",
+        "Version": "Android13",
+        "Supported devices": "N/A",
+        "Security patch level": "2022-08-05"
+    },
+    {
+        "Build": "TP1A.220624.014",
+        "Tag": "android-security-13.0.0_r1",
+        "Version": "Android13",
+        "Supported devices": "N/A",
+        "Security patch level": "2022-08-05"
+    },
+    {
+        "Build": "12937443",
+        "Tag": "android-security-12.1.0_r7",
+        "Version": "Android12L",
+        "Supported devices": "N/A",
+        "Security patch level": "2022-03-05"
+    },
+    {
+        "Build": "12787466",
+        "Tag": "android-security-12.1.0_r6",
+        "Version": "Android12L",
+        "Supported devices": "N/A",
+        "Security patch level": "2022-03-05"
+    },
+    {
+        "Build": "12617834",
+        "Tag": "android-security-12.1.0_r5",
+        "Version": "Android12L",
+        "Supported devices": "N/A",
+        "Security patch level": "2022-03-05"
+    },
+    {
+        "Build": "12496785",
+        "Tag": "android-security-12.1.0_r4",
+        "Version": "Android12L",
+        "Supported devices": "N/A",
+        "Security patch level": "2022-03-05"
+    },
+    {
+        "Build": "12357514",
+        "Tag": "android-security-12.1.0_r3",
+        "Version": "Android12L",
+        "Supported devices": "N/A",
+        "Security patch level": "2022-03-05"
+    },
+    {
+        "Build": "12228897",
+        "Tag": "android-security-12.1.0_r2",
+        "Version": "Android12L",
+        "Supported devices": "N/A",
+        "Security patch level": "2022-03-05"
+    },
+    {
+        "Build": "12072400",
+        "Tag": "android-security-12.1.0_r1",
+        "Version": "Android12L",
+        "Supported devices": "N/A",
+        "Security patch level": "2022-03-05"
+    },
+    {
+        "Build": "SP2A.220505.008",
+        "Tag": "android-12.1.0_r27",
+        "Version": "Android12L",
+        "Supported devices": "Pixel 3a, Pixel 3a XL",
+        "Security patch level": "2022-05-05"
+    },
+    {
+        "Build": "SD2A.220601.004.B2",
+        "Tag": "android-12.1.0_r26",
+        "Version": "Android12",
+        "Supported devices": "Pixel 6a",
+        "Security patch level": "2022-06-01"
+    },
+    {
+        "Build": "SD2A.220601.003.B1",
+        "Tag": "android-12.1.0_r25",
+        "Version": "Android12",
+        "Supported devices": "Pixel 6a",
+        "Security patch level": "2022-06-01"
+    },
+    {
+        "Build": "SD2A.220601.002.B1",
+        "Tag": "android-12.1.0_r24",
+        "Version": "Android12L",
+        "Supported devices": "Pixel 6a",
+        "Security patch level": "2022-06-01"
+    },
+    {
+        "Build": "SD2A.220601.001.B1",
+        "Tag": "android-12.1.0_r23",
+        "Version": "Android12",
+        "Supported devices": "Pixel 6a",
+        "Security patch level": "2022-06-01"
+    },
+    {
+        "Build": "SQ3A.220705.004",
+        "Tag": "android-12.1.0_r22",
+        "Version": "Android12L",
+        "Supported devices": "Pixel 6, Pixel 6 Pro",
+        "Security patch level": "2022-07-05"
+    },
+    {
+        "Build": "SQ3A.220705.001.B2",
+        "Tag": "android-12.1.0_r21",
+        "Version": "Android12",
+        "Supported devices": "Pixel 6, Pixel 6 Pro",
+        "Security patch level": "2022-07-05"
+    },
+    {
+        "Build": "SQ3A.220705.004.A1",
+        "Tag": "android-12.1.0_r20",
+        "Version": "Android12L",
+        "Supported devices": "Pixel 6, Pixel 6 Pro",
+        "Security patch level": "2022-07-05"
+    },
+    {
+        "Build": "SQ3A.220705.003.A3",
+        "Tag": "android-12.1.0_r19",
+        "Version": "Android12L",
+        "Supported devices": "Pixel 6, Pixel 6 Pro",
+        "Security patch level": "2022-07-05"
+    },
+    {
+        "Build": "SD2A.220601.003",
+        "Tag": "android-12.1.0_r18",
+        "Version": "Android12L",
+        "Supported devices": "Pixel 6a",
+        "Security patch level": "2022-06-01"
+    },
+    {
+        "Build": "SD2A.220601.002",
+        "Tag": "android-12.1.0_r17",
+        "Version": "Android12L",
+        "Supported devices": "Pixel 6a",
+        "Security patch level": "2022-06-01"
+    },
+    {
+        "Build": "SD2A.220123.051.A3",
+        "Tag": "android-12.1.0_r16",
+        "Version": "Android12L",
+        "Supported devices": "Pixel 6a",
+        "Security patch level": "2022-04-05"
+    },
+    {
+        "Build": "SD2A.220123.051.A2",
+        "Tag": "android-12.1.0_r15",
+        "Version": "Android12L",
+        "Supported devices": "Pixel 6a",
+        "Security patch level": "2022-04-05"
+    },
+    {
+        "Build": "SD2A.220123.050.A1",
+        "Tag": "android-12.1.0_r14",
+        "Version": "Android12L",
+        "Supported devices": "Pixel 6a",
+        "Security patch level": "2022-04-05"
+    },
+    {
+        "Build": "SD2A.220601.004",
+        "Tag": "android-12.1.0_r13",
+        "Version": "Android12L",
+        "Supported devices": "Pixel 6a",
+        "Security patch level": "2022-06-01"
+    },
+    {
+        "Build": "SD2A.220601.001.A1",
+        "Tag": "android-12.1.0_r12",
+        "Version": "Android12L",
+        "Supported devices": "Pixel 6a",
+        "Security patch level": "2022-06-01"
+    },
+    {
+        "Build": "SQ3A.220705.003.A1",
+        "Tag": "android-12.1.0_r11",
+        "Version": "Android12L",
+        "Supported devices": "Pixel 4, Pixel 4a, Pixel 4a (5G), Pixel 4 XL, Pixel 5, Pixel 5a (5G), Pixel 6, Pixel 6 Pro",
+        "Security patch level": "2022-07-05"
+    },
+    {
+        "Build": "SQ3A.220705.003",
+        "Tag": "android-12.1.0_r10",
+        "Version": "Android12L",
+        "Supported devices": "Pixel 6, Pixel 6 Pro",
+        "Security patch level": "2022-07-05"
+    },
+    {
+        "Build": "SQ3A.220705.001.B1",
+        "Tag": "android-12.1.0_r9",
+        "Version": "Android12L",
+        "Supported devices": "Pixel 6, Pixel 6 Pro",
+        "Security patch level": "2022-07-05"
+    },
+    {
+        "Build": "SQ3A.220605.009.B1",
+        "Tag": "android-12.1.0_r8",
+        "Version": "Android12L",
+        "Supported devices": "Pixel 6, Pixel 6 Pro",
+        "Security patch level": "2022-06-05"
+    },
+    {
+        "Build": "SQ3A.220605.009.A1",
+        "Tag": "android-12.1.0_r7",
+        "Version": "Android12L",
+        "Supported devices": "Pixel 4, Pixel 4a, Pixel 4a (5G), Pixel 4 XL, Pixel 5, Pixel 5a (5G), Pixel 6, Pixel 6 Pro",
+        "Security patch level": "2022-06-05"
+    },
+    {
+        "Build": "SP2A.220505.006",
+        "Tag": "android-12.1.0_r6",
+        "Version": "Android12L",
+        "Supported devices": "Pixel 3a, Pixel 3a XL",
+        "Security patch level": "2022-05-05"
+    },
+    {
+        "Build": "SP2A.220505.002",
+        "Tag": "android-12.1.0_r5",
+        "Version": "Android12L",
+        "Supported devices": "Pixel 3a, Pixel 3a XL, Pixel 4, Pixel 4a, Pixel 4a (5G), Pixel 4 XL, Pixel 5, Pixel 5a (5G), Pixel 6, Pixel 6 Pro",
+        "Security patch level": "2022-05-05"
+    },
+    {
+        "Build": "SP2A.220405.004",
+        "Tag": "android-12.1.0_r4",
+        "Version": "Android12L",
+        "Supported devices": "Pixel 6, Pixel 6 Pro",
+        "Security patch level": "2022-04-05"
+    },
+    {
+        "Build": "SP2A.220405.003",
+        "Tag": "android-12.1.0_r3",
+        "Version": "Android12L",
+        "Supported devices": "Pixel 3a, Pixel 3a XL, Pixel 4, Pixel 4a, Pixel 4a (5G), Pixel 4 XL, Pixel 5, Pixel 5a (5G)",
+        "Security patch level": "2022-04-05"
+    },
+    {
+        "Build": "SP2A.220305.013.A3",
+        "Tag": "android-12.1.0_r2",
+        "Version": "Android12",
+        "Supported devices": "Pixel 6, Pixel 6 Pro",
+        "Security patch level": "2022-03-05"
+    },
+    {
+        "Build": "SP2A.220305.012",
+        "Tag": "android-12.1.0_r1",
+        "Version": "Android12L",
+        "Supported devices": "Pixel 3a, Pixel 3a XL, Pixel 4, Pixel 4a, Pixel 4a (5G), Pixel 4 XL, Pixel 5, Pixel 5a (5G)",
+        "Security patch level": "2022-03-05"
+    },
+    {
+        "Build": "12895203",
+        "Tag": "android-security-12.0.0_r69",
+        "Version": "Android12",
+        "Supported devices": "N/A",
+        "Security patch level": "2021-10-05"
+    },
+    {
+        "Build": "12787465",
+        "Tag": "android-security-12.0.0_r68",
+        "Version": "Android12",
+        "Supported devices": "N/A",
+        "Security patch level": "2021-10-05"
+    },
+    {
+        "Build": "12617830",
+        "Tag": "android-security-12.0.0_r67",
+        "Version": "Android12",
+        "Supported devices": "N/A",
+        "Security patch level": "2021-10-05"
+    },
+    {
+        "Build": "12496784",
+        "Tag": "android-security-12.0.0_r66",
+        "Version": "Android12",
+        "Supported devices": "N/A",
+        "Security patch level": "2021-10-05"
+    },
+    {
+        "Build": "12392822",
+        "Tag": "android-security-12.0.0_r65",
+        "Version": "Android12",
+        "Supported devices": "N/A",
+        "Security patch level": "2021-10-05"
+    },
+    {
+        "Build": "12228898",
+        "Tag": "android-security-12.0.0_r64",
+        "Version": "Android12",
+        "Supported devices": "N/A",
+        "Security patch level": "2021-10-05"
+    },
+    {
+        "Build": "12072399",
+        "Tag": "android-security-12.0.0_r63",
+        "Version": "Android12",
+        "Supported devices": "N/A",
+        "Security patch level": "2021-10-05"
+    },
+    {
+        "Build": "11933028",
+        "Tag": "android-security-12.0.0_r62",
+        "Version": "Android12",
+        "Supported devices": "N/A",
+        "Security patch level": "2021-10-05"
+    },
+    {
+        "Build": "11818033",
+        "Tag": "android-security-12.0.0_r61",
+        "Version": "Android12",
+        "Supported devices": "N/A",
+        "Security patch level": "2021-10-05"
+    },
+    {
+        "Build": "11698588",
+        "Tag": "android-security-12.0.0_r60",
+        "Version": "Android12",
+        "Supported devices": "N/A",
+        "Security patch level": "2021-10-05"
+    },
+    {
+        "Build": "11584909",
+        "Tag": "android-security-12.0.0_r59",
+        "Version": "Android12",
+        "Supported devices": "N/A",
+        "Security patch level": "2021-10-05"
+    },
+    {
+        "Build": "11422630",
+        "Tag": "android-security-12.0.0_r58",
+        "Version": "Android12",
+        "Supported devices": "N/A",
+        "Security patch level": "2021-10-05"
+    },
+    {
+        "Build": "11299693",
+        "Tag": "android-security-12.0.0_r57",
+        "Version": "Android12",
+        "Supported devices": "N/A",
+        "Security patch level": "2021-10-05"
+    },
+    {
+        "Build": "11228178",
+        "Tag": "android-security-12.0.0_r56",
+        "Version": "Android12",
+        "Supported devices": "N/A",
+        "Security patch level": "2021-10-05"
+    },
+    {
+        "Build": "11083641",
+        "Tag": "android-security-12.0.0_r55",
+        "Version": "Android12",
+        "Supported devices": "N/A",
+        "Security patch level": "2021-10-05"
+    },
+    {
+        "Build": "10993239",
+        "Tag": "android-security-12.0.0_r54",
+        "Version": "Android12",
+        "Supported devices": "N/A",
+        "Security patch level": "2021-10-05"
+    },
+    {
+        "Build": "10843702",
+        "Tag": "android-security-12.0.0_r53",
+        "Version": "Android12",
+        "Supported devices": "N/A",
+        "Security patch level": "2021-10-05"
+    },
+    {
+        "Build": "10763434",
+        "Tag": "android-security-12.0.0_r52",
+        "Version": "Android12",
+        "Supported devices": "N/A",
+        "Security patch level": "2021-10-05"
+    },
+    {
+        "Build": "10609149",
+        "Tag": "android-security-12.0.0_r51",
+        "Version": "Android12",
+        "Supported devices": "N/A",
+        "Security patch level": "2021-10-05"
+    },
+    {
+        "Build": "10286622",
+        "Tag": "android-security-12.0.0_r50",
+        "Version": "Android12",
+        "Supported devices": "N/A",
+        "Security patch level": "2021-10-05"
+    },
+    {
+        "Build": "10187388",
+        "Tag": "android-security-12.0.0_r49",
+        "Version": "Android12",
+        "Supported devices": "N/A",
+        "Security patch level": "2021-10-05"
+    },
+    {
+        "Build": "10026669",
+        "Tag": "android-security-12.0.0_r48",
+        "Version": "Android12",
+        "Supported devices": "N/A",
+        "Security patch level": "2021-10-05"
+    },
+    {
+        "Build": "9873344",
+        "Tag": "android-security-12.0.0_r47",
+        "Version": "Android12",
+        "Supported devices": "N/A",
+        "Security patch level": "2021-10-05"
+    },
+    {
+        "Build": "9587746",
+        "Tag": "android-security-12.0.0_r46",
+        "Version": "Android12",
+        "Supported devices": "N/A",
+        "Security patch level": "2021-10-05"
+    },
+    {
+        "Build": "9575279",
+        "Tag": "android-security-12.0.0_r45",
+        "Version": "Android12",
+        "Supported devices": "N/A",
+        "Security patch level": "2021-10-05"
+    },
+    {
+        "Build": "9395439",
+        "Tag": "android-security-12.0.0_r44",
+        "Version": "Android12",
+        "Supported devices": "N/A",
+        "Security patch level": "2021-10-05"
+    },
+    {
+        "Build": "9364904",
+        "Tag": "android-security-12.0.0_r43",
+        "Version": "Android12",
+        "Supported devices": "N/A",
+        "Security patch level": "2021-10-05"
+    },
+    {
+        "Build": "9269288",
+        "Tag": "android-security-12.0.0_r42",
+        "Version": "Android12",
+        "Supported devices": "N/A",
+        "Security patch level": "2021-10-05"
+    },
+    {
+        "Build": "9095088",
+        "Tag": "android-security-12.0.0_r41",
+        "Version": "Android12",
+        "Supported devices": "N/A",
+        "Security patch level": "2021-10-05"
+    },
+    {
+        "Build": "9039305",
+        "Tag": "android-security-12.0.0_r40",
+        "Version": "Android12",
+        "Supported devices": "N/A",
+        "Security patch level": "2021-10-05"
+    },
+    {
+        "Build": "8894229",
+        "Tag": "android-security-12.0.0_r39",
+        "Version": "Android12",
+        "Supported devices": "N/A",
+        "Security patch level": "2021-10-05"
+    },
+    {
+        "Build": "8712618",
+        "Tag": "android-security-12.0.0_r38",
+        "Version": "Android12",
+        "Supported devices": "N/A",
+        "Security patch level": "2021-10-05"
+    },
+    {
+        "Build": "8693658",
+        "Tag": "android-security-12.0.0_r37",
+        "Version": "Android12",
+        "Supported devices": "N/A",
+        "Security patch level": "2021-10-05"
+    },
+    {
+        "Build": "8528210",
+        "Tag": "android-security-12.0.0_r36",
+        "Version": "Android12",
+        "Supported devices": "N/A",
+        "Security patch level": "2021-10-05"
+    },
+    {
+        "Build": "8283927",
+        "Tag": "android-security-12.0.0_r35",
+        "Version": "Android12",
+        "Supported devices": "N/A",
+        "Security patch level": "2021-10-05"
+    },
+    {
+        "Build": "8257479",
+        "Tag": "android-security-12.0.0_r34",
+        "Version": "Android12",
+        "Supported devices": "N/A",
+        "Security patch level": "2021-10-05"
+    },
+    {
+        "Build": "SP1A.210812.016.C2",
+        "Tag": "android-12.0.0_r34",
+        "Version": "Android12",
+        "Supported devices": "Pixel 3, Pixel 3 XL",
+        "Security patch level": "2021-10-05"
+    },
+    {
+        "Build": "SP1A.210812.016.B2",
+        "Tag": "android-12.0.0_r33",
+        "Version": "Android12",
+        "Supported devices": "Pixel 3, Pixel 3 XL",
+        "Security patch level": "2021-10-05"
+    },
+    {
+        "Build": "SQ1D.220205.004",
+        "Tag": "android-12.0.0_r32",
+        "Version": "Android12",
+        "Supported devices": "Pixel 6, Pixel 6 Pro",
+        "Security patch level": "2022-02-05"
+    },
+    {
+        "Build": "SP1A.210812.016.C1",
+        "Tag": "android-12.0.0_r31",
+        "Version": "Android12",
+        "Supported devices": "Pixel 3, Pixel 3 XL",
+        "Security patch level": "2021-10-05"
+    },
+    {
+        "Build": "SP1A.210812.016.B1",
+        "Tag": "android-12.0.0_r30",
+        "Version": "Android12",
+        "Supported devices": "Pixel 3, Pixel 3 XL",
+        "Security patch level": "2021-10-05"
+    },
+    {
+        "Build": "SQ1D.220205.003",
+        "Tag": "android-12.0.0_r29",
+        "Version": "Android12",
+        "Supported devices": "Pixel 6, Pixel 6 Pro",
+        "Security patch level": "2022-02-05"
+    },
+    {
+        "Build": "SQ1A.220205.002",
+        "Tag": "android-12.0.0_r28",
+        "Version": "Android12",
+        "Supported devices": "Pixel 3a, Pixel 3a XL, Pixel 4, Pixel 4 XL, Pixel 4a, Pixel 4a (5G), Pixel 5, Pixel 5a (5G)",
+        "Security patch level": "2022-02-05"
+    },
+    {
+        "Build": "SQ1D.220105.007",
+        "Tag": "android-12.0.0_r27",
+        "Version": "Android12",
+        "Supported devices": "Pixel 6, Pixel 6 Pro",
+        "Security patch level": "2022-01-05"
+    },
+    {
+        "Build": "SQ1A.220105.002",
+        "Tag": "android-12.0.0_r26",
+        "Version": "Android12",
+        "Supported devices": "Pixel 3a, Pixel 3a XL, Pixel 4, Pixel 4a, Pixel 4a (5G), Pixel 4 XL, Pixel 5, Pixel 5a (5G)",
+        "Security patch level": "2022-01-05"
+    },
+    {
+        "Build": "SP1A.210812.016.A2",
+        "Tag": "android-12.0.0_r25",
+        "Version": "Android12",
+        "Supported devices": "Pixel 3, Pixel 3 XL",
+        "Security patch level": "2021-10-05"
+    },
+    {
+        "Build": "SQ1D.211205.016.A5",
+        "Tag": "android-12.0.0_r21",
+        "Version": "Android12",
+        "Supported devices": "Pixel 6, Pixel 6 Pro",
+        "Security patch level": "2021-12-05"
+    },
+    {
+        "Build": "SQ1D.211205.016.A4",
+        "Tag": "android-12.0.0_r20",
+        "Version": "Android12",
+        "Supported devices": "Pixel 6, Pixel 6 Pro",
+        "Security patch level": "2021-12-05"
+    },
+    {
+        "Build": "SQ1D.211205.017",
+        "Tag": "android-12.0.0_r19",
+        "Version": "Android12",
+        "Supported devices": "Pixel 6, Pixel 6 Pro",
+        "Security patch level": "2021-12-05"
+    },
+    {
+        "Build": "SQ1D.211205.016.A1",
+        "Tag": "android-12.0.0_r18",
+        "Version": "Android12",
+        "Supported devices": "Pixel 6, Pixel 6 Pro",
+        "Security patch level": "2021-12-05"
+    },
+    {
+        "Build": "SQ1A.211205.008",
+        "Tag": "android-12.0.0_r16",
+        "Version": "Android12",
+        "Supported devices": "Pixel 3a, Pixel 3a XL, Pixel 4, Pixel 4a, Pixel 4a (5G), Pixel 4 XL, Pixel 5, Pixel 5a (5G)",
+        "Security patch level": "2021-12-05"
+    },
+    {
+        "Build": "SD1A.210817.037.A1",
+        "Tag": "android-12.0.0_r15",
+        "Version": "Android12",
+        "Supported devices": "Pixel 6, Pixel 6 Pro",
+        "Security patch level": "2021-11-05"
+    },
+    {
+        "Build": "SD1A.210817.037",
+        "Tag": "android-12.0.0_r14",
+        "Version": "Android12",
+        "Supported devices": "Pixel 6, Pixel 6 Pro",
+        "Security patch level": "2021-11-05"
+    },
+    {
+        "Build": "SD1A.210817.036.A8",
+        "Tag": "android-12.0.0_r13",
+        "Version": "Android12",
+        "Supported devices": "Pixel 6, Pixel 6 Pro",
+        "Security patch level": "2021-11-05"
+    },
+    {
+        "Build": "SD1A.210817.036",
+        "Tag": "android-12.0.0_r12",
+        "Version": "Android12",
+        "Supported devices": "Pixel 6, Pixel 6 Pro",
+        "Security patch level": "2021-11-05"
+    },
+    {
+        "Build": "SP1A.211105.004",
+        "Tag": "android-12.0.0_r11",
+        "Version": "Android12",
+        "Supported devices": "Pixel 4, Pixel 4a, Pixel 4a (5G), Pixel 4 XL, Pixel 5",
+        "Security patch level": "2021-11-05"
+    },
+    {
+        "Build": "SP1A.211105.003",
+        "Tag": "android-12.0.0_r10",
+        "Version": "Android12",
+        "Supported devices": "Pixel 4a (5G), Pixel 5, Pixel 5a (5G)",
+        "Security patch level": "2021-11-05"
+    },
+    {
+        "Build": "SP1A.211105.002.A1",
+        "Tag": "android-12.0.0_r9",
+        "Version": "Android12",
+        "Supported devices": "Pixel 3a, Pixel 3a XL, Pixel 4, Pixel 4a, Pixel 4a (5G), Pixel 4 XL, Pixel 5, Pixel 5a (5G)",
+        "Security patch level": "2021-11-05"
+    },
+    {
+        "Build": "SP1A.211105.002",
+        "Tag": "android-12.0.0_r8",
+        "Version": "Android12",
+        "Supported devices": "Pixel 3a, Pixel 3a XL, Pixel 4, Pixel 4a, Pixel 4 XL",
+        "Security patch level": "2021-11-05"
+    },
+    {
+        "Build": "SD1A.210817.019.C4",
+        "Tag": "android-12.0.0_r7",
+        "Version": "Android12",
+        "Supported devices": "Pixel 6, Pixel 6 Pro",
+        "Security patch level": "2021-10-05"
+    },
+    {
+        "Build": "SD1A.210817.019.C2",
+        "Tag": "android-12.0.0_r6",
+        "Version": "Android12",
+        "Supported devices": "Pixel 6, Pixel 6 Pro",
+        "Security patch level": "2021-10-05"
+    },
+    {
+        "Build": "SD1A.210817.019.B1",
+        "Tag": "android-12.0.0_r5",
+        "Version": "Android12",
+        "Supported devices": "Pixel 6, Pixel 6 Pro",
+        "Security patch level": "2021-10-05"
+    },
+    {
+        "Build": "SD1A.210817.015.A4",
+        "Tag": "android-12.0.0_r4",
+        "Version": "Android12",
+        "Supported devices": "Pixel 6, Pixel 6 Pro",
+        "Security patch level": "2021-10-05"
+    },
+    {
+        "Build": "SP1A.210812.016.A1",
+        "Tag": "android-12.0.0_r3",
+        "Version": "Android12",
+        "Supported devices": "Pixel 3, Pixel 3 XL, Pixel 3a, Pixel 3a XL, Pixel 4, Pixel 4 XL, Pixel 4a, Pixel 4a (5G), Pixel 5\uff0c Pixel 5a (5G)",
+        "Security patch level": "2021-10-05"
+    },
+    {
+        "Build": "SP1A.210812.015",
+        "Tag": "android-12.0.0_r1",
+        "Version": "Android12",
+        "Supported devices": "Pixel 3, Pixel 3 XL, Pixel 3a, Pixel 3a XL, Pixel 4, Pixel 4 XL, Pixel 4a, Pixel 4a (5G), Pixel 5\uff0c Pixel 5a (5G)",
+        "Security patch level": "2021-10-05"
+    },
+    {
+        "Build": "11228177",
+        "Tag": "android-security-11.0.0_r76",
+        "Version": "Android11",
+        "Supported devices": "N/A",
+        "Security patch level": "2020-09-05"
+    },
+    {
+        "Build": "11083640",
+        "Tag": "android-security-11.0.0_r75",
+        "Version": "Android11",
+        "Supported devices": "N/A",
+        "Security patch level": "2020-09-05"
+    },
+    {
+        "Build": "10993236",
+        "Tag": "android-security-11.0.0_r74",
+        "Version": "Android11",
+        "Supported devices": "N/A",
+        "Security patch level": "2020-09-05"
+    },
+    {
+        "Build": "10843701",
+        "Tag": "android-security-11.0.0_r73",
+        "Version": "Android11",
+        "Supported devices": "N/A",
+        "Security patch level": "2020-09-05"
+    },
+    {
+        "Build": "10763435",
+        "Tag": "android-security-11.0.0_r72",
+        "Version": "Android11",
+        "Supported devices": "N/A",
+        "Security patch level": "2020-09-05"
+    },
+    {
+        "Build": "10609148",
+        "Tag": "android-security-11.0.0_r71",
+        "Version": "Android11",
+        "Supported devices": "N/A",
+        "Security patch level": "2020-09-05"
+    },
+    {
+        "Build": "10286620",
+        "Tag": "android-security-11.0.0_r70",
+        "Version": "Android11",
+        "Supported devices": "N/A",
+        "Security patch level": "2020-09-05"
+    },
+    {
+        "Build": "10115417",
+        "Tag": "android-security-11.0.0_r69",
+        "Version": "Android11",
+        "Supported devices": "N/A",
+        "Security patch level": "2020-09-05"
+    },
+    {
+        "Build": "9892680",
+        "Tag": "android-security-11.0.0_r68",
+        "Version": "Android11",
+        "Supported devices": "N/A",
+        "Security patch level": "2020-09-05"
+    },
+    {
+        "Build": "9873342",
+        "Tag": "android-security-11.0.0_r67",
+        "Version": "Android11",
+        "Supported devices": "N/A",
+        "Security patch level": "2020-09-05"
+    },
+    {
+        "Build": "9682389",
+        "Tag": "android-security-11.0.0_r66",
+        "Version": "Android11",
+        "Supported devices": "N/A",
+        "Security patch level": "2020-09-05"
+    },
+    {
+        "Build": "9575278",
+        "Tag": "android-security-11.0.0_r65",
+        "Version": "Android11",
+        "Supported devices": "N/A",
+        "Security patch level": "2020-09-05"
+    },
+    {
+        "Build": "9383110",
+        "Tag": "android-security-11.0.0_r64",
+        "Version": "Android10",
+        "Supported devices": "N/A",
+        "Security patch level": "2020-09-05"
+    },
+    {
+        "Build": "9371401",
+        "Tag": "android-security-11.0.0_r63",
+        "Version": "Android10",
+        "Supported devices": "N/A",
+        "Security patch level": "2020-09-05"
+    },
+    {
+        "Build": "9269287",
+        "Tag": "android-security-11.0.0_r62",
+        "Version": "Android11",
+        "Supported devices": "N/A",
+        "Security patch level": "2020-09-05"
+    },
+    {
+        "Build": "9081070",
+        "Tag": "android-security-11.0.0_r61",
+        "Version": "Android11",
+        "Supported devices": "N/A",
+        "Security patch level": "2020-09-05"
+    },
+    {
+        "Build": "9033583",
+        "Tag": "android-security-11.0.0_r60",
+        "Version": "Android11",
+        "Supported devices": "N/A",
+        "Security patch level": "2020-09-05"
+    },
+    {
+        "Build": "8894231",
+        "Tag": "android-security-11.0.0_r59",
+        "Version": "Android11",
+        "Supported devices": "N/A",
+        "Security patch level": "2020-09-05"
+    },
+    {
+        "Build": "8712617",
+        "Tag": "android-security-11.0.0_r58",
+        "Version": "Android11",
+        "Supported devices": "N/A",
+        "Security patch level": "2020-09-05"
+    },
+    {
+        "Build": "8600450",
+        "Tag": "android-security-11.0.0_r57",
+        "Version": "Android11",
+        "Supported devices": "N/A",
+        "Security patch level": "2020-09-05"
+    },
+    {
+        "Build": "8528208",
+        "Tag": "android-security-11.0.0_r56",
+        "Version": "Android11",
+        "Supported devices": "N/A",
+        "Security patch level": "2020-09-05"
+    },
+    {
+        "Build": "8287685",
+        "Tag": "android-security-11.0.0_r55",
+        "Version": "Android11",
+        "Supported devices": "N/A",
+        "Security patch level": "2020-09-05"
+    },
+    {
+        "Build": "8257481",
+        "Tag": "android-security-11.0.0_r54",
+        "Version": "Android11",
+        "Supported devices": "N/A",
+        "Security patch level": "2020-09-05"
+    },
+    {
+        "Build": "8157300",
+        "Tag": "android-security-11.0.0_r53",
+        "Version": "Android11",
+        "Supported devices": "N/A",
+        "Security patch level": "2020-09-05"
+    },
+    {
+        "Build": "8042688",
+        "Tag": "android-security-11.0.0_r52",
+        "Version": "Android11",
+        "Supported devices": "N/A",
+        "Security patch level": "2020-09-05"
+    },
+    {
+        "Build": "8001874",
+        "Tag": "android-security-11.0.0_r51",
+        "Version": "Android11",
+        "Supported devices": "N/A",
+        "Security patch level": "2020-09-05"
+    },
+    {
+        "Build": "7804787",
+        "Tag": "android-security-11.0.0_r50",
+        "Version": "Android11",
+        "Supported devices": "N/A",
+        "Security patch level": "2020-09-05"
+    },
+    {
+        "Build": "7786871",
+        "Tag": "android-security-11.0.0_r49",
+        "Version": "Android11",
+        "Supported devices": "N/A",
+        "Security patch level": "2020-09-05"
+    },
+    {
+        "Build": "RD2A.211001.002",
+        "Tag": "android-11.0.0_r48",
+        "Version": "Android11",
+        "Supported devices": "Pixel 5a (5G)",
+        "Security patch level": "2021-10-01"
+    },
+    {
+        "Build": "RD2A.211001.001",
+        "Tag": "android-11.0.0_r47",
+        "Version": "Android11",
+        "Supported devices": "Pixel 5a (5G)",
+        "Security patch level": "2021-10-01"
+    },
+    {
+        "Build": "RQ3A.211001.001",
+        "Tag": "android-11.0.0_r46",
+        "Version": "Android11",
+        "Supported devices": "Pixel 3, Pixel 3 XL, Pixel 3a, Pixel 3a XL, Pixel 4, Pixel 4 XL, Pixel 4a, Pixel 4a (5G), Pixel 5",
+        "Security patch level": "2021-10-01"
+    },
+    {
+        "Build": "RD2A.210905.003",
+        "Tag": "android-11.0.0_r45",
+        "Version": "Android11",
+        "Supported devices": "Pixel 5a (5G)",
+        "Security patch level": "2021-09-05"
+    },
+    {
+        "Build": "RD2A.210905.002",
+        "Tag": "android-11.0.0_r44",
+        "Version": "Android11",
+        "Supported devices": "Pixel 5a (5G)",
+        "Security patch level": "2021-09-05"
+    },
+    {
+        "Build": "RQ3A.210905.001",
+        "Tag": "android-11.0.0_r43",
+        "Version": "Android11",
+        "Supported devices": "Pixel 3, Pixel 3a, Pixel 3a XL, Pixel 3 XL, Pixel 4, Pixel 4a, Pixel 4a (5G), Pixel 4 XL, Pixel 5",
+        "Security patch level": "2021-09-05"
+    },
+    {
+        "Build": "RD2A.210605.007",
+        "Tag": "android-11.0.0_r42",
+        "Version": "Android11",
+        "Supported devices": "Pixel 5a (5G)",
+        "Security patch level": "2021-06-05"
+    },
+    {
+        "Build": "RD2A.210605.006",
+        "Tag": "android-11.0.0_r41",
+        "Version": "Android11",
+        "Supported devices": "Pixel 5a (5G)",
+        "Security patch level": "2021-06-05"
+    },
+    {
+        "Build": "RQ3A.210805.001.A1",
+        "Tag": "android-11.0.0_r40",
+        "Version": "Android11",
+        "Supported devices": "Pixel 3, Pixel 3a, Pixel 3a XL, Pixel 3 XL, Pixel 4, Pixel 4a, Pixel 4a (5G), Pixel 4 XL, Pixel 5",
+        "Security patch level": "2021-08-05"
+    },
+    {
+        "Build": "RQ3A.210705.001",
+        "Tag": "android-11.0.0_r39",
+        "Version": "Android11",
+        "Supported devices": "Pixel 3, Pixel 3a, Pixel 3a XL, Pixel 3 XL, Pixel 4, Pixel 4a, Pixel 4a (5G), Pixel 4 XL, Pixel 5",
+        "Security patch level": "2021-07-05"
+    },
+    {
+        "Build": "RQ3A.210605.005",
+        "Tag": "android-11.0.0_r38",
+        "Version": "Android11",
+        "Supported devices": "Pixel 3, Pixel 3a, Pixel 3a XL, Pixel 3 XL, Pixel 4, Pixel 4 XL, Pixel 4a, Pixel 4a (5G), Pixel 5",
+        "Security patch level": "2021-06-05"
+    },
+    {
+        "Build": "RQ2A.210505.003",
+        "Tag": "android-11.0.0_r37",
+        "Version": "Android11",
+        "Supported devices": "Pixel 4a (5G), Pixel 5",
+        "Security patch level": "2021-05-05"
+    },
+    {
+        "Build": "RQ2A.210505.002",
+        "Tag": "android-11.0.0_r36",
+        "Version": "Android11",
+        "Supported devices": "Pixel 3, Pixel 3a, Pixel 3a XL, Pixel 3 XL, Pixel 4, Pixel 4a, Pixel 4 XL",
+        "Security patch level": "2021-05-05"
+    },
+    {
+        "Build": "RQ2A.210405.006",
+        "Tag": "android-11.0.0_r35",
+        "Version": "Android11",
+        "Supported devices": "Pixel 3, Pixel 3 XL",
+        "Security patch level": "2021-04-05"
+    },
+    {
+        "Build": "RQ2A.210405.005",
+        "Tag": "android-11.0.0_r34",
+        "Version": "Android11",
+        "Supported devices": "Pixel 3, Pixel 3a, Pixel 3a XL, Pixel 3 XL, Pixel 4, Pixel 4a, Pixel 4a (5G), Pixel 4 XL, Pixel 5",
+        "Security patch level": "2021-04-05"
+    },
+    {
+        "Build": "RQ2A.210305.007",
+        "Tag": "android-11.0.0_r33",
+        "Version": "Android11",
+        "Supported devices": "Pixel 4a, Pixel 4a (5G), Pixel 5",
+        "Security patch level": "2021-03-05"
+    },
+    {
+        "Build": "RQ2A.210305.006",
+        "Tag": "android-11.0.0_r32",
+        "Version": "Android11",
+        "Supported devices": "Pixel 3, Pixel 3 XL, Pixel 3a, Pixel 3a XL, Pixel 4, Pixel 4 XL, Pixel 4a, Pixel 4a (5G), Pixel 5",
+        "Security patch level": "2021-03-05"
+    },
+    {
+        "Build": "RQ1D.210205.004",
+        "Tag": "android-11.0.0_r31",
+        "Version": "Android11",
+        "Supported devices": "Pixel 3, Pixel 3 XL, Pixel 4a (5G), Pixel 5",
+        "Security patch level": "2021-02-05"
+    },
+    {
+        "Build": "RQ1C.210205.006",
+        "Tag": "android-11.0.0_r30",
+        "Version": "Android11",
+        "Supported devices": "Pixel 4a (5G), Pixel 5",
+        "Security patch level": "2021-02-05"
+    },
+    {
+        "Build": "RQ1A.210205.004",
+        "Tag": "android-11.0.0_r29",
+        "Version": "Android11",
+        "Supported devices": "Pixel 3, Pixel 3a, Pixel 3a XL, Pixel 3 XL, Pixel 4, Pixel 4a, Pixel 4a (5G), Pixel 4 XL, Pixel 5",
+        "Security patch level": "2021-02-05"
+    },
+    {
+        "Build": "RQ1D.210105.003",
+        "Tag": "android-11.0.0_r28",
+        "Version": "Android11",
+        "Supported devices": "Pixel 3, Pixel 3 XL, Pixel 4a (5G), Pixel 5",
+        "Security patch level": "2021-01-05"
+    },
+    {
+        "Build": "RQ1A.210105.003",
+        "Tag": "android-11.0.0_r27",
+        "Version": "Android11",
+        "Supported devices": "Pixel 3, Pixel 3 XL, Pixel 4, Pixel 4a (5G), Pixel 4 XL, Pixel 5",
+        "Security patch level": "2021-01-05"
+    },
+    {
+        "Build": "RQ1A.210105.002",
+        "Tag": "android-11.0.0_r26",
+        "Version": "Android11",
+        "Supported devices": "Pixel 3a, Pixel 3a XL, Pixel 4a",
+        "Security patch level": "2021-01-05"
+    },
+    {
+        "Build": "RP1A.201005.004.A1",
+        "Tag": "android-11.0.0_r25",
+        "Version": "Android11",
+        "Supported devices": "Pixel 2, Pixel 2 XL",
+        "Security patch level": "2020-10-05"
+    },
+    {
+        "Build": "RQ1D.201205.012.A1",
+        "Tag": "android-11.0.0_r24",
+        "Version": "Android11",
+        "Supported devices": "Pixel 5, Pixel 4a (5G)",
+        "Security patch level": "2020-12-05"
+    },
+    {
+        "Build": "RQ1A.201205.003.A1",
+        "Tag": "android-11.0.0_r23",
+        "Version": "Android11",
+        "Supported devices": "Pixel 3, Pixel 3 XL",
+        "Security patch level": "2020-12-05"
+    },
+    {
+        "Build": "RQ1A.201205.011",
+        "Tag": "android-11.0.0_r22",
+        "Version": "Android11",
+        "Supported devices": "Pixel 5, Pixel 4a (5G)",
+        "Security patch level": "2020-12-05"
+    },
+    {
+        "Build": "RQ1A.201205.008.A1",
+        "Tag": "android-11.0.0_r21",
+        "Version": "Android11",
+        "Supported devices": "Pixel 4, Pixel 4 XL",
+        "Security patch level": "2020-12-05"
+    },
+    {
+        "Build": "RQ1A.201205.010",
+        "Tag": "android-11.0.0_r20",
+        "Version": "Android11",
+        "Supported devices": "Pixel 5, Pixel 4a (5G)",
+        "Security patch level": "2020-12-05"
+    },
+    {
+        "Build": "RQ1A.201205.008",
+        "Tag": "android-11.0.0_r19",
+        "Version": "Android11",
+        "Supported devices": "Pixel 4a, Pixel 4, Pixel 4 XL",
+        "Security patch level": "2020-12-05"
+    },
+    {
+        "Build": "RQ1A.201205.003",
+        "Tag": "android-11.0.0_r18",
+        "Version": "Android11",
+        "Supported devices": "Pixel 3a, Pixel 3a XL, Pixel 3 XL, Pixel 3",
+        "Security patch level": "2020-12-05"
+    },
+    {
+        "Build": "RP1A.201105.002",
+        "Tag": "android-11.0.0_r17",
+        "Version": "Android11",
+        "Supported devices": "Pixel 3, Pixel 3a, Pixel 3a XL, Pixel 3 XL, Pixel 4, Pixel 4a, Pixel 4 XL",
+        "Security patch level": "2020-11-05"
+    },
+    {
+        "Build": "RD1B.201105.010",
+        "Tag": "android-11.0.0_r16",
+        "Version": "Android11",
+        "Supported devices": "Pixel 4a (5G), Pixel 5",
+        "Security patch level": "2020-11-05"
+    },
+    {
+        "Build": "RD1A.201105.003.C1",
+        "Tag": "android-11.0.0_r15",
+        "Version": "Android11",
+        "Supported devices": "Pixel 4a (5G), Pixel 5",
+        "Security patch level": "2020-11-05"
+    },
+    {
+        "Build": "RD1A.201105.003.B1",
+        "Tag": "android-11.0.0_r14",
+        "Version": "Android11",
+        "Supported devices": "Pixel 4a (5G), Pixel 5",
+        "Security patch level": "2020-11-05"
+    },
+    {
+        "Build": "RD1A.201105.003.A1",
+        "Tag": "android-11.0.0_r13",
+        "Version": "Android11",
+        "Supported devices": "Pixel 4a (5G), Pixel 5",
+        "Security patch level": "2020-11-05"
+    },
+    {
+        "Build": "RD1A.201105.003",
+        "Tag": "android-11.0.0_r12",
+        "Version": "Android11",
+        "Supported devices": "Pixel 4a (5G), Pixel 5",
+        "Security patch level": "2020-11-05"
+    },
+    {
+        "Build": "RD1A.200810.022.A4",
+        "Tag": "android-11.0.0_r11",
+        "Version": "Android11",
+        "Supported devices": "Pixel 4a (5G), Pixel 5",
+        "Security patch level": "2020-10-05"
+    },
+    {
+        "Build": "RD1A.200810.021.B3",
+        "Tag": "android-11.0.0_r10",
+        "Version": "Android11",
+        "Supported devices": "Pixel 4a (5G), Pixel 5",
+        "Security patch level": "2020-10-05"
+    },
+    {
+        "Build": "RD1A.200810.020.A1",
+        "Tag": "android-11.0.0_r9",
+        "Version": "Android11",
+        "Supported devices": "Pixel 5",
+        "Security patch level": "2020-10-05"
+    },
+    {
+        "Build": "RD1A.200810.021.A1",
+        "Tag": "android-11.0.0_r8",
+        "Version": "Android11",
+        "Supported devices": "Pixel 4a (5G), Pixel 5",
+        "Security patch level": "2020-10-05"
+    },
+    {
+        "Build": "RD1A.200810.020",
+        "Tag": "android-11.0.0_r7",
+        "Version": "Android11",
+        "Supported devices": "Pixel 4a (5G), Pixel 5",
+        "Security patch level": "2020-10-05"
+    },
+    {
+        "Build": "RP1A.201005.006",
+        "Tag": "android-11.0.0_r5",
+        "Version": "Android11",
+        "Supported devices": "Pixel 4a",
+        "Security patch level": "2020-10-05"
+    },
+    {
+        "Build": "RP1A.201005.004",
+        "Tag": "android-11.0.0_r4",
+        "Version": "Android11",
+        "Supported devices": "Pixel 2, Pixel 2 XL, Pixel 3, Pixel 3a, Pixel 3a XL, Pixel 3 XL, Pixel 4, Pixel 4 XL",
+        "Security patch level": "2020-10-05"
+    },
+    {
+        "Build": "RP1A.200720.011",
+        "Tag": "android-11.0.0_r3",
+        "Version": "Android11",
+        "Supported devices": "Pixel 4a",
+        "Security patch level": "2020-09-05"
+    },
+    {
+        "Build": "RP1A.200720.010",
+        "Tag": "android-11.0.0_r2",
+        "Version": "Android11",
+        "Supported devices": "Pixel 4a",
+        "Security patch level": "2020-09-05"
+    },
+    {
+        "Build": "RP1A.200720.009",
+        "Tag": "android-11.0.0_r1",
+        "Version": "Android11",
+        "Supported devices": "Pixel 2, Pixel 2 XL, Pixel 3, Pixel 3a, Pixel 3a XL, Pixel 3 XL, Pixel 4, Pixel 4 XL",
+        "Security patch level": "2020-09-05"
+    },
+    {
+        "Build": "9383109",
+        "Tag": "android-security-10.0.0_r75",
+        "Version": "Android10",
+        "Supported devices": "N/A",
+        "Security patch level": "2019-09-05"
+    },
+    {
+        "Build": "9371400",
+        "Tag": "android-security-10.0.0_r74",
+        "Version": "Android10",
+        "Supported devices": "N/A",
+        "Security patch level": "2019-09-05"
+    },
+    {
+        "Build": "9269285",
+        "Tag": "android-security-10.0.0_r73",
+        "Version": "Android10",
+        "Supported devices": "N/A",
+        "Security patch level": "2019-09-05"
+    },
+    {
+        "Build": "9081069",
+        "Tag": "android-security-10.0.0_r72",
+        "Version": "Android10",
+        "Supported devices": "N/A",
+        "Security patch level": "2019-09-05"
+    },
+    {
+        "Build": "8979058",
+        "Tag": "android-security-10.0.0_r71",
+        "Version": "Android10",
+        "Supported devices": "N/A",
+        "Security patch level": "2019-09-05"
+    },
+    {
+        "Build": "8894228",
+        "Tag": "android-security-10.0.0_r70",
+        "Version": "Android10",
+        "Supported devices": "N/A",
+        "Security patch level": "2019-09-05"
+    },
+    {
+        "Build": "8712615",
+        "Tag": "android-security-10.0.0_r69",
+        "Version": "Android10",
+        "Supported devices": "N/A",
+        "Security patch level": "2019-09-05"
+    },
+    {
+        "Build": "8600452",
+        "Tag": "android-security-10.0.0_r68",
+        "Version": "Android10",
+        "Supported devices": "N/A",
+        "Security patch level": "2019-09-05"
+    },
+    {
+        "Build": "8528209",
+        "Tag": "android-security-10.0.0_r67",
+        "Version": "Android10",
+        "Supported devices": "N/A",
+        "Security patch level": "2019-09-05"
+    },
+    {
+        "Build": "8287684",
+        "Tag": "android-security-10.0.0_r66",
+        "Version": "Android10",
+        "Supported devices": "N/A",
+        "Security patch level": "2019-09-05"
+    },
+    {
+        "Build": "8257478",
+        "Tag": "android-security-10.0.0_r65",
+        "Version": "Android10",
+        "Supported devices": "N/A",
+        "Security patch level": "2019-09-05"
+    },
+    {
+        "Build": "8157299",
+        "Tag": "android-security-10.0.0_r64",
+        "Version": "Android10",
+        "Supported devices": "N/A",
+        "Security patch level": "2019-09-05"
+    },
+    {
+        "Build": "8042689",
+        "Tag": "android-security-10.0.0_r63",
+        "Version": "Android10",
+        "Supported devices": "N/A",
+        "Security patch level": "2019-09-05"
+    },
+    {
+        "Build": "7964643",
+        "Tag": "android-security-10.0.0_r62",
+        "Version": "Android10",
+        "Supported devices": "N/A",
+        "Security patch level": "2019-09-05"
+    },
+    {
+        "Build": "7804786",
+        "Tag": "android-security-10.0.0_r61",
+        "Version": "Android10",
+        "Supported devices": "N/A",
+        "Security patch level": "2019-09-05"
+    },
+    {
+        "Build": "7786870",
+        "Tag": "android-security-10.0.0_r60",
+        "Version": "Android10",
+        "Supported devices": "N/A",
+        "Security patch level": "2019-09-05"
+    },
+    {
+        "Build": "7678332",
+        "Tag": "android-security-10.0.0_r59",
+        "Version": "Android10",
+        "Supported devices": "N/A",
+        "Security patch level": "2019-09-05"
+    },
+    {
+        "Build": "7507835",
+        "Tag": "android-security-10.0.0_r58",
+        "Version": "Android10",
+        "Supported devices": "N/A",
+        "Security patch level": "2019-09-05"
+    },
+    {
+        "Build": "7483358",
+        "Tag": "android-security-10.0.0_r57",
+        "Version": "Android10",
+        "Supported devices": "N/A",
+        "Security patch level": "2019-09-05"
+    },
+    {
+        "Build": "7427955",
+        "Tag": "android-security-10.0.0_r56",
+        "Version": "Android10",
+        "Supported devices": "N/A",
+        "Security patch level": "2019-09-05"
+    },
+    {
+        "Build": "7269719",
+        "Tag": "android-security-10.0.0_r55",
+        "Version": "Android10",
+        "Supported devices": "N/A",
+        "Security patch level": "2019-09-05"
+    },
+    {
+        "Build": "7250004",
+        "Tag": "android-security-10.0.0_r54",
+        "Version": "Android10",
+        "Supported devices": "N/A",
+        "Security patch level": "2019-09-05"
+    },
+    {
+        "Build": "7127522",
+        "Tag": "android-security-10.0.0_r53",
+        "Version": "Android10",
+        "Supported devices": "N/A",
+        "Security patch level": "2019-09-05"
+    },
+    {
+        "Build": "7070703",
+        "Tag": "android-security-10.0.0_r52",
+        "Version": "Android10",
+        "Supported devices": "N/A",
+        "Security patch level": "2019-09-05"
+    },
+    {
+        "Build": "7023426",
+        "Tag": "android-security-10.0.0_r51",
+        "Version": "Android10",
+        "Supported devices": "N/A",
+        "Security patch level": "2019-09-05"
+    },
+    {
+        "Build": "6969601",
+        "Tag": "android-security-10.0.0_r50",
+        "Version": "Android10",
+        "Supported devices": "N/A",
+        "Security patch level": "2019-09-05"
+    },
+    {
+        "Build": "6893682",
+        "Tag": "android-security-10.0.0_r49",
+        "Version": "Android10",
+        "Supported devices": "N/A",
+        "Security patch level": "2019-09-05"
+    },
+    {
+        "Build": "6878114",
+        "Tag": "android-security-10.0.0_r48",
+        "Version": "Android10",
+        "Supported devices": "N/A",
+        "Security patch level": "2019-09-05"
+    },
+    {
+        "Build": "6780337",
+        "Tag": "android-10.0.0_r47",
+        "Version": "Android10",
+        "Supported devices": "N/A",
+        "Security patch level": "2019-09-05"
+    },
+    {
+        "Build": "6777444",
+        "Tag": "android-10.0.0_r46",
+        "Version": "Android10",
+        "Supported devices": "N/A",
+        "Security patch level": "2019-09-05"
+    },
+    {
+        "Build": "QD4A.200805.003",
+        "Tag": "android-10.0.0_r45",
+        "Version": "Android10",
+        "Supported devices": "Pixel 4a",
+        "Security patch level": "2020-08-05"
+    },
+    {
+        "Build": "QD4A.200805.001",
+        "Tag": "android-10.0.0_r44",
+        "Version": "Android10",
+        "Supported devices": "Pixel 4a",
+        "Security patch level": "2020-08-05"
+    },
+    {
+        "Build": "QD4A.200317.027",
+        "Tag": "android-10.0.0_r43",
+        "Version": "Android10",
+        "Supported devices": "Pixel 4a",
+        "Security patch level": "2020-05-05"
+    },
+    {
+        "Build": "QD4A.200317.024.A1",
+        "Tag": "android-10.0.0_r42",
+        "Version": "Android10",
+        "Supported devices": "Pixel 4a",
+        "Security patch level": "2020-05-05"
+    },
+    {
+        "Build": "QQ3A.200805.001",
+        "Tag": "android-10.0.0_r41",
+        "Version": "Android10",
+        "Supported devices": "Pixel 2, Pixel 2 XL, Pixel 3, Pixel 3a, Pixel 3a XL, Pixel 3 XL, Pixel 4, Pixel 4 XL",
+        "Security patch level": "2020-08-05"
+    },
+    {
         "Build": "QQ3A.200705.002",
         "Tag": "android-10.0.0_r40",
         "Version": "Android10",
@@ -278,6 +3617,132 @@
         "Version": "Android10",
         "Supported devices": "Pixel 3a XL, Pixel 3a, Pixel 3 XL, Pixel 3, Pixel 2 XL, Pixel 2, Pixel XL, Pixel",
         "Security patch level": "2019-09-05"
+    },
+    {
+        "Build": "7925397",
+        "Tag": "android-security-9.0.0_r76",
+        "Version": "Pie",
+        "Supported devices": "N/A",
+        "Security patch level": "2018-08-05"
+    },
+    {
+        "Build": "7804785",
+        "Tag": "android-security-9.0.0_r75",
+        "Version": "Pie",
+        "Supported devices": "N/A",
+        "Security patch level": "2018-08-05"
+    },
+    {
+        "Build": "7786868",
+        "Tag": "android-security-9.0.0_r74",
+        "Version": "Pie",
+        "Supported devices": "N/A",
+        "Security patch level": "2018-08-05"
+    },
+    {
+        "Build": "7678331",
+        "Tag": "android-security-9.0.0_r73",
+        "Version": "Pie",
+        "Supported devices": "N/A",
+        "Security patch level": "2018-08-05"
+    },
+    {
+        "Build": "7507834",
+        "Tag": "android-security-9.0.0_r72",
+        "Version": "Pie",
+        "Supported devices": "N/A",
+        "Security patch level": "2018-08-05"
+    },
+    {
+        "Build": "7449186",
+        "Tag": "android-security-9.0.0_r71",
+        "Version": "Pie",
+        "Supported devices": "N/A",
+        "Security patch level": "2018-08-05"
+    },
+    {
+        "Build": "7427956",
+        "Tag": "android-security-9.0.0_r70",
+        "Version": "Pie",
+        "Supported devices": "N/A",
+        "Security patch level": "2018-08-05"
+    },
+    {
+        "Build": "7269718",
+        "Tag": "android-security-9.0.0_r69",
+        "Version": "Pie",
+        "Supported devices": "N/A",
+        "Security patch level": "2018-08-05"
+    },
+    {
+        "Build": "7249336",
+        "Tag": "android-security-9.0.0_r68",
+        "Version": "Pie",
+        "Supported devices": "N/A",
+        "Security patch level": "2018-08-05"
+    },
+    {
+        "Build": "7127521",
+        "Tag": "android-security-9.0.0_r67",
+        "Version": "Pie",
+        "Supported devices": "N/A",
+        "Security patch level": "2018-08-05"
+    },
+    {
+        "Build": "7070702",
+        "Tag": "android-security-9.0.0_r66",
+        "Version": "Pie",
+        "Supported devices": "N/A",
+        "Security patch level": "2018-08-05"
+    },
+    {
+        "Build": "7023409",
+        "Tag": "android-security-9.0.0_r65",
+        "Version": "Pie",
+        "Supported devices": "N/A",
+        "Security patch level": "2018-08-05"
+    },
+    {
+        "Build": "6969600",
+        "Tag": "android-security-9.0.0_r64",
+        "Version": "Pie",
+        "Supported devices": "N/A",
+        "Security patch level": "2018-08-05"
+    },
+    {
+        "Build": "6893678",
+        "Tag": "android-security-9.0.0_r63",
+        "Version": "Pie",
+        "Supported devices": "N/A",
+        "Security patch level": "2018-08-05"
+    },
+    {
+        "Build": "6826377",
+        "Tag": "android-security-9.0.0_r62",
+        "Version": "Pie",
+        "Supported devices": "N/A",
+        "Security patch level": "2018-08-05"
+    },
+    {
+        "Build": "6780336",
+        "Tag": "android-9.0.0_r61",
+        "Version": "Pie",
+        "Supported devices": "N/A",
+        "Security patch level": "2018-08-05"
+    },
+    {
+        "Build": "6644287",
+        "Tag": "android-9.0.0_r60",
+        "Version": "Pie",
+        "Supported devices": "N/A",
+        "Security patch level": "2018-08-05"
+    },
+    {
+        "Build": "6559974",
+        "Tag": "android-9.0.0_r59",
+        "Version": "Pie",
+        "Supported devices": "N/A",
+        "Security patch level": "2018-08-05"
     },
     {
         "Build": "6495666",
@@ -607,6 +4072,111 @@
         "Version": "Pie",
         "Supported devices": "Pixel 2 XL, Pixel 2, Pixel XL, Pixel",
         "Security patch level": "2018-08-05"
+    },
+    {
+        "Build": "7678330",
+        "Tag": "android-security-8.1.0_r93",
+        "Version": "Oreo",
+        "Supported devices": "N/A",
+        "Security patch level": "2017-12-05"
+    },
+    {
+        "Build": "7507833",
+        "Tag": "android-security-8.1.0_r92",
+        "Version": "Oreo",
+        "Supported devices": "N/A",
+        "Security patch level": "2017-12-05"
+    },
+    {
+        "Build": "7449185",
+        "Tag": "android-security-8.1.0_r91",
+        "Version": "Oreo",
+        "Supported devices": "N/A",
+        "Security patch level": "2017-12-05"
+    },
+    {
+        "Build": "7427957",
+        "Tag": "android-security-8.1.0_r90",
+        "Version": "Oreo",
+        "Supported devices": "N/A",
+        "Security patch level": "2017-12-05"
+    },
+    {
+        "Build": "7269716",
+        "Tag": "android-security-8.1.0_r89",
+        "Version": "Oreo",
+        "Supported devices": "N/A",
+        "Security patch level": "2017-12-05"
+    },
+    {
+        "Build": "7249334",
+        "Tag": "android-security-8.1.0_r88",
+        "Version": "Oreo",
+        "Supported devices": "N/A",
+        "Security patch level": "2017-12-05"
+    },
+    {
+        "Build": "7127520",
+        "Tag": "android-security-8.1.0_r87",
+        "Version": "Oreo",
+        "Supported devices": "N/A",
+        "Security patch level": "2017-12-05"
+    },
+    {
+        "Build": "7070700",
+        "Tag": "android-security-8.1.0_r86",
+        "Version": "Oreo",
+        "Supported devices": "N/A",
+        "Security patch level": "2017-12-05"
+    },
+    {
+        "Build": "7023408",
+        "Tag": "android-security-8.1.0_r85",
+        "Version": "Oreo",
+        "Supported devices": "N/A",
+        "Security patch level": "2017-12-05"
+    },
+    {
+        "Build": "6969599",
+        "Tag": "android-security-8.1.0_r84",
+        "Version": "Oreo",
+        "Supported devices": "N/A",
+        "Security patch level": "2017-12-05"
+    },
+    {
+        "Build": "6893677",
+        "Tag": "android-security-8.1.0_r83",
+        "Version": "Oreo",
+        "Supported devices": "N/A",
+        "Security patch level": "2017-12-05"
+    },
+    {
+        "Build": "6826376",
+        "Tag": "android-security-8.1.0_r82",
+        "Version": "Oreo",
+        "Supported devices": "N/A",
+        "Security patch level": "2017-12-05"
+    },
+    {
+        "Build": "6780335",
+        "Tag": "android-8.1.0_r81",
+        "Version": "Oreo",
+        "Supported devices": "N/A",
+        "Security patch level": "2017-12-05"
+    },
+    {
+        "Build": "6644286",
+        "Tag": "android-8.1.0_r80",
+        "Version": "Oreo",
+        "Supported devices": "N/A",
+        "Security patch level": "2017-12-05"
+    },
+    {
+        "Build": "6560352",
+        "Tag": "android-8.1.0_r79",
+        "Version": "Oreo",
+        "Supported devices": "N/A",
+        "Security patch level": "2017-12-05"
     },
     {
         "Build": "6495665",
@@ -1083,6 +4653,48 @@
         "Version": "Oreo",
         "Supported devices": "Pixel 2 XL, Pixel 2, Pixel XL, Pixel, Pixel C, Nexus 6P, Nexus 5X",
         "Security patch level": "2017-12-05"
+    },
+    {
+        "Build": "6969596",
+        "Tag": "android-security-8.0.0_r54",
+        "Version": "Oreo",
+        "Supported devices": "N/A",
+        "Security patch level": "2017-10-01"
+    },
+    {
+        "Build": "6893676",
+        "Tag": "android-security-8.0.0_r53",
+        "Version": "Oreo",
+        "Supported devices": "N/A",
+        "Security patch level": "2017-10-01"
+    },
+    {
+        "Build": "6826375",
+        "Tag": "android-security-8.0.0_r52",
+        "Version": "Oreo",
+        "Supported devices": "N/A",
+        "Security patch level": "2017-10-01"
+    },
+    {
+        "Build": "6780349",
+        "Tag": "android-8.0.0_r51",
+        "Version": "Oreo",
+        "Supported devices": "N/A",
+        "Security patch level": "2017-10-01"
+    },
+    {
+        "Build": "6644283",
+        "Tag": "android-8.0.0_r50",
+        "Version": "Oreo",
+        "Supported devices": "N/A",
+        "Security patch level": "2017-10-01"
+    },
+    {
+        "Build": "6560351",
+        "Tag": "android-8.0.0_r49",
+        "Version": "Oreo",
+        "Supported devices": "N/A",
+        "Security patch level": "2017-10-01"
     },
     {
         "Build": "6495664",
@@ -3533,5 +7145,65 @@
         "Version": "N/A",
         "Supported devices": "N/A",
         "Security patch level": "N/A"
+    },
+    {
+        "Build": "HRI39",
+        "Tag": "android-3.0_r1",
+        "Notes": "Earliest Honeycomb version"
+    },
+    {
+        "Build": "HRI66",
+        "Tag": "android-3.0_r1.1",
+        "Notes": "N/A"
+    },
+    {
+        "Build": "HWI69",
+        "Tag": "android-3.0_r1.2",
+        "Notes": "N/A"
+    },
+    {
+        "Build": "HRI83",
+        "Tag": "android-3.0_r1.3",
+        "Notes": "N/A"
+    },
+    {
+        "Build": "HMJ37",
+        "Tag": "android-3.1_r1",
+        "Notes": "N/A"
+    },
+    {
+        "Build": "HTJ85B",
+        "Tag": "android-3.2_r1",
+        "Notes": "N/A"
+    },
+    {
+        "Build": "HTK55D",
+        "Tag": "android-3.2.1_r1",
+        "Notes": "N/A"
+    },
+    {
+        "Build": "HTK75D",
+        "Tag": "android-3.2.1_r2",
+        "Notes": "N/A"
+    },
+    {
+        "Build": "HLK75C",
+        "Tag": "android-3.2.2_r1",
+        "Notes": "N/A"
+    },
+    {
+        "Build": "HLK75D",
+        "Tag": "android-3.2.2_r2",
+        "Notes": "N/A"
+    },
+    {
+        "Build": "HLK75F",
+        "Tag": "android-3.2.4_r1",
+        "Notes": "N/A"
+    },
+    {
+        "Build": "HLK75H",
+        "Tag": "android-3.2.6_r1",
+        "Notes": "Latest Honeycomb version"
     }
 ]

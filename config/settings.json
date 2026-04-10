@@ -1,8 +1,5 @@
 {
     "settings": {
-        "commit_message": "Add Unisoc Changes",
-        "branch_name": "W20.13.3",
-        "org_name": "unisoc-android",
         "tmp_directory": "/tmp/bsp-splitter",
         "excluded_projects": [
             "build/make",
