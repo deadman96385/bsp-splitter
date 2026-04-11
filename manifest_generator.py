@@ -107,6 +107,9 @@ def main():
                 count=1
             )
 
+    # CRITICAL: Fix relative fetch paths for unmodified repos (since the manifest is no longer hosted on googlesource.com)
+    content = re.sub(r'(<remote\s+[^>]*?fetch=)[\'"]\.\.[\'"]', r'\g<1>"https://android.googlesource.com/"', content)
+
     # Modify matching projects
     for p in modified_projects:
         pattern = r'(<project\s+[^>]*?path=[\'"]{}[\'"][^>]*>)'.format(re.escape(p))
